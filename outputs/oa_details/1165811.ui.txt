@@ -1,0 +1,799 @@
+Window: "出差申请及报销流程-竺杭杰-2024-08-20 - Google Chrome", App: chrome.exe.
+	0 window (窗口) 出差申请及报销流程-竺杭杰-2024-08-20 - Google Chrome Secondary Actions: Raise
+		15488 pane (窗格) (disabled)
+		15489 pane (区域) 出差申请及报销流程-竺杭杰-2024-08-20 - Google Chrome
+			15490 pane (区域)
+				15491 pane (区域)
+					15492 pane (区域)
+						15493 button (按钮) 最小化 ID: view_1
+						15494 button (按钮) 最大化 ID: view_2
+						15495 button (按钮) 关闭 ID: view_4
+					15496 pane (区域)
+						15497 pane (区域)
+							15498 toolbar (工具栏) ID: view_1000
+								15499 button (按钮) 返回 ID: view_1001
+								15500 button (按钮) (disabled) 前进 ID: view_1002
+								15501 button (按钮) 重新加载 ID: view_1003
+								15502 group (组)
+									15503 button (按钮) 查看网站信息 ID: view_1011
+									15504 text field (编辑) (settable, string) 地址和搜索栏 Description: 问问 Google 或输入网址 Value: oa.xquant.com/spa/workflow/static4form/index.html?_rdm=1794987523226#/main/workflow/req?requestid=1165811&_key=mb01wr ID: view_1012
+									15505 pane (区域)
+										40629 button (按钮) 为此标签页添加书签
+								15507 pane (区域)
+									15508 button (按钮) Postman Interceptor 可以访问此网站 ID: view_1009
+									15509 button (按钮) 扩展程序 ID: view_1006
+								15510 pane (区域)
+								15511 button (按钮) 杭杰 ID: view_1018
+								15512 button (按钮) Chrome ID: view_1007
+							15513 toolbar (工具栏) 书签 ID: view_1025
+								15514 toolbar (工具栏) 已保存的标签页分组
+									15515 button (按钮) 标签页分组
+								15516 separator (分隔符) 分隔符
+								15517 button (书签文件夹按钮) 历史 ID: view_1028
+								15518 button (书签文件夹按钮) 站点 ID: view_1028
+								15519 button (书签文件夹按钮) 社区 ID: view_1028
+								15520 button (书签文件夹按钮) 工具 ID: view_1028
+								15521 button (书签文件夹按钮) 公司 ID: view_1028
+								15522 button (书签文件夹按钮) 信创 ID: view_1028
+								15523 button (书签文件夹按钮) 数据库 ID: view_1028
+								15524 button (书签文件夹按钮) 性能 ID: view_1028
+								15525 button (书签文件夹按钮) 前端 ID: view_1028
+								15526 button (书签文件夹按钮) java ID: view_1028
+								15527 button (书签文件夹按钮) python ID: view_1028
+								15528 button (书签文件夹按钮) 金融 ID: view_1028
+								15529 button (书签文件夹按钮) 业务模块 ID: view_1028
+								15530 button (书签文件夹按钮) 数理统计 ID: view_1028
+								15531 button (书签文件夹按钮) AIGC ID: view_1028
+								15532 button (书签文件夹按钮) linux ID: view_1028
+								15533 button (书签文件夹按钮) 运维 ID: view_1028
+								15534 button (书签文件夹按钮) SAP ID: view_1028
+								15535 button (书签文件夹按钮) 生活 ID: view_1028
+								15536 button (书签文件夹按钮) web3&区块链 ID: view_1028
+								15537 button (书签文件夹按钮) cs ID: view_1028
+								15538 button (书签文件夹按钮) hotel ID: view_1028
+						15539 pane (区域)
+							15540 pane (区域)
+								15541 pane (区域)
+								40630 document (文档) 出差申请及报销流程-竺杭杰-2024-08-20 Value: https://oa.xquant.com/spa/workflow/static4form/index.html?_rdm=1794987523226#/main/workflow/req?requestid=1165811&_key=mb01wr ID: RootWebArea
+									40631 group (组)
+										40641 text (文本) 
+										40643 text (文本) 流程:处理 - 出差申请及报销流程 - 提交
+										40644 text (文本) CLSQBX-2024082023501
+										40633 tab (选项卡)
+											40634 tab item (选项卡项目) (selectable) 流程表单
+											40635 tab item (选项卡项目) (selectable) 流程图
+											40636 tab item (选项卡项目) (selectable) 流程状态
+											40645 tab item (选项卡项目) (selectable) 相关资源
+										40637 pane (选项卡面板)
+										40638 group (组)
+											40642 text (文本) 
+										40646 group (组)
+											40647 table (表格)
+												40648 data item (行)
+													40649 data item (项)
+													40650 data item (项) 员工出差申请及报销流程
+													40651 data item (项)
+												40652 data item (行)
+													40653 data item (项)
+													40654 data item (项) 标题
+													40655 data item (项) 出差申请及报销流程-竺杭杰-2024-08-20
+														40656 group (组)
+													40657 data item (项) 流程编号
+													40658 data item (项) CLSQBX-2024082023501
+														40659 group (组)
+													40660 data item (项)
+												40661 data item (行)
+													40662 data item (项)
+													40663 data item (项) 申请人
+													40664 data item (项) 竺杭杰
+														40665 group (组)
+															40666 hyperlink (链接) 竺杭杰 Description: 竺杭杰
+													40667 data item (项) 申请日期
+													40668 data item (项) 2024-08-20
+														40669 group (组)
+													40670 data item (项)
+												40671 data item (行)
+													40672 data item (项)
+													40673 data item (项) 申请人部门
+													40674 data item (项) 信用及数管业务线/信用管理及公共/信用管理组 杭州衡泰技术股份有限公司
+														40675 group (组)
+															40676 hyperlink (链接) 信用及数管业务线/信用管理及公共/信用管理组 Description: 信用及数管业务线/信用管理及公共/信用管理组
+														40677 group (组)
+															40678 hyperlink (链接) 杭州衡泰技术股份有限公司 Description: 杭州衡泰技术股份有限公司
+													40679 data item (项) 属地
+													40680 data item (项) 杭州
+														40681 group (组)
+															40682 hyperlink (链接) 杭州 Description: 杭州
+													40683 data item (项)
+												40684 data item (行)
+													40685 data item (项)
+													40686 data item (项) 费用承担部门
+													40687 data item (项) 信用及数管业务线/信用管理及公共/信用管理组 请选到末级部门！
+														40688 group (组)
+															40689 hyperlink (链接) 信用及数管业务线/信用管理及公共/信用管理组 Description: 信用及数管业务线/信用管理及公共/信用管理组
+													40690 data item (项) 团队内分组
+													40691 data item (项) /
+														40692 group (组)
+													40693 data item (项)
+												40694 data item (行)
+													40695 data item (项)
+													40696 data item (项) 人员属性
+													40697 data item (项) 成本
+														40698 group (组)
+													40699 data item (项) 性别
+													40700 data item (项) 男
+														40701 group (组)
+													40702 data item (项)
+												40703 data item (行)
+													40704 data item (项)
+													40705 data item (项) ——出差申请内容——
+													40706 data item (项)
+												40707 data item (行)
+													40708 data item (项)
+													40709 data item (项) 出差事由
+													40710 data item (项) 西部证券需求调研
+														40711 group (组)
+													40712 data item (项)
+												40713 data item (行)
+													40714 data item (项)
+													40715 data item (项) 出差实际开始日期
+													40716 data item (项) 2024-08-26 09:00
+														40717 group (组)
+														40718 group (组)
+													40719 data item (项) 出差预计开始日期
+													40720 data item (项) 2024-08-26 09:00
+														40721 group (组)
+														40722 group (组)
+													40723 data item (项)
+												40724 data item (行)
+													40725 data item (项)
+													40726 data item (项) 出差实际结束日期
+													40727 data item (项) 2024-08-28 19:00
+														40728 group (组)
+														40729 group (组)
+													40730 data item (项) 出差预计结束日期
+													40731 data item (项) 2024-08-29 19:00
+														40732 group (组)
+														40733 group (组)
+													40734 data item (项)
+												40735 data item (行)
+													40736 data item (项)
+													40737 data item (项) 出差天数
+													40738 data item (项) 3
+														40739 group (组)
+													40740 data item (项) 床铺单价
+													40741 data item (项) 75.00
+														40742 group (组)
+													40743 data item (项)
+												40744 data item (行)
+													40745 data item (项)
+													40746 data item (项) 宿舍类别
+													40747 data item (项) 专项宿舍
+														40748 group (组)
+													40749 data item (项) 宿舍
+													40750 data item (项)
+														40751 group (组)
+															40752 hyperlink (链接)
+													40753 data item (项)
+												40754 data item (行)
+													40755 data item (项)
+													40756 data item (项) 是否申请员工宿舍
+													40757 data item (项) 是
+														40758 group (组)
+													40759 data item (项) 宿舍床铺信息表
+													40760 data item (项) 宿舍情况表
+														40761 group (组)
+															40762 hyperlink (链接) 宿舍情况表 Value: https://oa.xquant.com/spa/cube/index.html#/main/cube/search?customid=7
+													40763 data item (项)
+												40764 data item (行)
+													40765 data item (项)
+													40766 data item (项) 住宿时间
+													40767 data item (项) 2024-08-26 —— 2024-08-29
+														40768 group (组)
+														40769 group (组)
+													40770 data item (项) 宿舍总支出
+													40771 data item (项) 225.00
+														40772 group (组)
+													40773 data item (项)
+												40774 data item (行)
+													40775 data item (项)
+													40776 data item (项) 备注
+													40777 data item (项)
+														40778 group (组)
+													40779 data item (项) 住宿天数
+													40780 data item (项) 3.00
+														40781 group (组)
+													40782 data item (项)
+												40783 data item (行)
+													40784 data item (项)
+													40785 data item (项) 同住人
+													40786 data item (项)
+														40787 group (组)
+													40788 data item (项)
+													40789 data item (项)
+													40790 data item (项)
+												40791 data item (行)
+													40792 data item (项)
+													40793 data item (项) ——出差报销内容——
+													40794 data item (项)
+												40795 data item (行)
+													40796 data item (项)
+													40797 data item (项) 入账公司
+													40798 data item (项) 杭州衡泰技术股份有限公司
+														40799 group (组)
+															40800 hyperlink (链接) 杭州衡泰技术股份有限公司 Description: 杭州衡泰技术股份有限公司
+													40801 data item (项) 预算部门
+													40802 data item (项) 信用及数管业务线
+														40803 group (组)
+															40804 hyperlink (链接) 信用及数管业务线 Description: 信用及数管业务线
+													40805 data item (项)
+												40806 data item (行)
+													40807 data item (项)
+													40808 data item (项) 合计报销金额
+													40809 data item (项) 396.00
+														40810 group (组)
+													40811 data item (项) 预算科目
+													40812 data item (项)
+														40813 group (组)
+													40814 data item (项)
+												40815 data item (行)
+													40816 data item (项)
+													40817 data item (项) 合计发票金额
+													40818 data item (项) 0.00
+														40819 group (组)
+													40820 data item (项) 付款金额
+													40821 data item (项) 396.00
+														40822 group (组)
+													40823 data item (项)
+												40824 data item (行)
+													40825 data item (项)
+													40826 data item (项) 携程与个人报销总费用
+													40827 data item (项) 396.00
+														40828 group (组)
+													40829 data item (项)
+												40830 data item (行)
+													40831 data item (项)
+													40832 data item (项) 发票类别
+													40833 data item (项) 混合（纯纸质发票/电子纸质都有） 纯电子发票无需提供纸质件
+														40834 group (组)
+													40835 data item (项) 冲销借款金额
+													40836 data item (项)
+														40837 group (组)
+													40838 data item (项)
+												40839 data item (行)
+													40840 data item (项)
+													40841 data item (项) 总挂账金额
+													40842 data item (项)
+														40843 group (组)
+													40844 data item (项) 总扣款金额
+													40845 data item (项)
+														40846 group (组)
+													40847 data item (项)
+												40848 data item (行)
+													40849 data item (项)
+													40850 data item (项) 预算信息
+													40851 data item (项)
+														40852 group (组)
+													40853 data item (项)
+												40854 data item (行)
+													40855 data item (项)
+													40856 data item (项) 财务核定事由
+													40857 data item (项) 西部证券需求调研
+														40858 group (组)
+													40859 data item (项)
+												40860 data item (行)
+													40861 data item (项)
+													40862 data item (项) 补贴标准（例如：小明的出差补贴是100/天，交通补贴是300/月，折算后每日差补：100-300/30=90/天）
+													40863 data item (项)
+												40864 data item (行)
+													40865 data item (项)
+													40866 data item (项) 出差补贴
+													40867 data item (项) 100
+														40868 group (组)
+													40869 data item (项) 交通补贴（工资中已发放）
+													40870 data item (项) 0
+														40871 group (组)
+													40872 data item (项)
+												40873 data item (行)
+													40874 data item (项)
+													40875 data item (项)
+													40876 data item (项) 订单详情
+													40877 data item (项)
+													40878 data item (项)
+													40879 data item (项)
+												40880 data item (行)
+													40881 data item (项)
+													40882 data item (项) 内容加载中，请稍候...
+														40883 image (未加标签的图片) 要获取缺失的图片说明，请打开上下文菜单。
+													40884 data item (项)
+												40885 data item (行)
+													40886 data item (项)
+													40887 data item (项)
+														40888 table (表格) ID: oTable0
+															40889 data item (行)
+																40890 data item (项)
+																40891 data item (项)
+																40892 data item (项)
+																40893 data item (项)
+																40894 data item (项)
+																40895 data item (项)
+																40896 data item (项)
+																40897 data item (项)
+																40898 data item (项)
+																40899 data item (项)
+																40900 data item (项)
+																40901 data item (项)
+																40902 data item (项)
+																40903 data item (项)
+																40904 data item (项)
+																40905 data item (项)
+																40906 data item (项)
+																40907 data item (项)
+															40908 data item (行)
+																40909 data item (项) 通过携程商旅平台公司垫付费用明细
+																40910 data item (项)
+																40911 data item (项)
+															40912 data item (行)
+																40913 data item (项)
+																	40914 checkbox (复选框) (disabled)
+																40915 data item (项) 序号
+																40916 data item (项) 费用项目
+																40917 data item (项) 项目
+																40918 data item (项) 会计科目编码
+																40919 data item (项) 承担部门
+																40920 data item (项) 出行人
+																40921 data item (项) 预算扣减金额
+																40922 data item (项) 结算金额
+																40923 data item (项) 扣款金额
+																40924 data item (项) 税率
+																40925 data item (项) 税额
+																40926 data item (项) 不含税金额
+																40927 data item (项) 费用日期
+																40928 data item (项) 起始城市
+																40929 data item (项) 到达城市
+																40930 data item (项) 酒店天数
+																40931 data item (项) 酒店差标
+															40932 data item (行)
+																40933 data item (项) 合计
+																40934 data item (项) 0.00
+																40935 data item (项) 0.00
+																40936 data item (项)
+																40937 data item (项)
+																40938 data item (项)
+																40939 data item (项)
+																40940 data item (项)
+																40941 data item (项)
+																40942 data item (项)
+																40943 data item (项)
+																40944 data item (项)
+													40945 data item (项)
+												40946 data item (行)
+													40947 data item (项)
+													40948 data item (项)
+													40949 data item (项)
+													40950 data item (项)
+													40951 data item (项)
+													40952 data item (项)
+												40953 data item (行)
+													40954 data item (项)
+													40955 data item (项)
+														40956 table (表格) ID: oTable1
+															40957 data item (行)
+																40958 data item (项)
+																40959 data item (项)
+																40960 data item (项)
+																40961 data item (项)
+																40962 data item (项)
+																40963 data item (项)
+																40964 data item (项)
+																40965 data item (项)
+																40966 data item (项)
+																40967 data item (项)
+																40968 data item (项)
+																40969 data item (项)
+																40970 data item (项)
+																40971 data item (项)
+																40972 data item (项)
+																40973 data item (项)
+																40974 data item (项)
+																40975 data item (项)
+																40976 data item (项)
+																40977 data item (项)
+																40978 data item (项)
+																40979 data item (项)
+																40980 data item (项)
+																40981 data item (项)
+																40982 data item (项)
+															40983 data item (行)
+																40984 data item (项) 个人报销明细表
+																40985 data item (项)
+																40986 data item (项)
+																40987 data item (项)
+																40988 data item (项)
+																40989 data item (项)
+																40990 data item (项)
+																40991 data item (项)
+																40992 data item (项)
+																40993 data item (项)
+																40994 data item (项)
+																40995 data item (项)
+																40996 data item (项)
+																40997 data item (项)
+																40998 data item (项)
+																40999 data item (项)
+																41000 data item (项)
+																41001 data item (项)
+																41002 data item (项)
+																41003 data item (项)
+																41004 data item (项)
+																41005 data item (项)
+															41006 data item (行)
+																41007 data item (项)
+																	41008 checkbox (复选框) (disabled)
+																41009 data item (项) 序号
+																41010 data item (项) 费用日期
+																41011 data item (项) 费用项目
+																41012 data item (项) 项目
+																41013 data item (项) 会计科目编码
+																41014 data item (项) 承担主体
+																41015 data item (项) 出行人
+																41016 data item (项) 报销人
+																41017 data item (项) 出差开始日期
+																41018 data item (项) 出差结束日期
+																41019 data item (项) 住宿天数
+																41020 data item (项) 起始城市
+																41021 data item (项) 到达城市
+																41022 data item (项) 发票类型
+																41023 data item (项) 发票号码
+																41024 data item (项) 发票金额
+																41025 data item (项) 报销金额
+																41026 data item (项) 财务核定金额（预算扣减金额）
+																41027 data item (项) 说明
+																41028 data item (项) 税率
+																41029 data item (项) 税额
+																41030 data item (项) 不含税金额
+																41031 data item (项) 相关发票
+																41032 data item (项) 附件
+															41033 data item (行)
+																41034 data item (项)
+																	41035 checkbox (复选框) (disabled)
+																41036 data item (项) 1
+																41037 data item (项) 2024-09-02
+																	41038 group (组)
+																41039 data item (项) 差旅费＞差旅费-火车
+																	41040 group (组)
+																		41041 hyperlink (链接) 差旅费＞差旅费-火车 Description: 差旅费＞差旅费-火车
+																41042 data item (项) 西部证券xCIRMS1.0信用投研一体化平台
+																	41043 group (组)
+																		41044 hyperlink (链接) 西部证券xCIRMS1.0信用投研一体化平台 Description: 西部证券xCIRMS1.0信用投研一体化平台
+																41045 data item (项) 5201006
+																	41046 group (组)
+																41047 data item (项) 信用及数管业务线
+																	41048 group (组)
+																		41049 hyperlink (链接) 信用及数管业务线 Description: 信用及数管业务线
+																41050 data item (项) 竺杭杰
+																	41051 group (组)
+																		41052 hyperlink (链接) 竺杭杰 Description: 竺杭杰
+																41053 data item (项) 竺杭杰
+																	41054 group (组)
+																		41055 hyperlink (链接) 竺杭杰 Description: 竺杭杰
+																41056 data item (项) 2024-08-26
+																	41057 group (组)
+																41058 data item (项) 2024-08-28
+																	41059 group (组)
+																41060 data item (项)
+																	41061 group (组)
+																41062 data item (项) 杭州
+																	41063 group (组)
+																41064 data item (项) 上海
+																	41065 group (组)
+																41066 data item (项)
+																	41067 group (组)
+																41068 data item (项)
+																	41069 group (组)
+																41070 data item (项) 0.00
+																	41071 group (组)
+																41072 data item (项) 73.00
+																	41073 group (组)
+																41074 data item (项) 73.00
+																	41075 group (组)
+																41076 data item (项)
+																	41077 group (组)
+																41078 data item (项) 0.09
+																	41079 group (组)
+																41080 data item (项) 6.03
+																	41081 group (组)
+																41082 data item (项) 66.97
+																	41083 group (组)
+																41084 data item (项)
+																	41085 group (组)
+																41086 data item (项)
+																	41087 group (组)
+															41088 data item (行)
+																41089 data item (项)
+																	41090 checkbox (复选框) (disabled)
+																41091 data item (项) 2
+																41092 data item (项) 2024-09-02
+																	41093 group (组)
+																41094 data item (项) 差旅费＞差旅费-火车
+																	41095 group (组)
+																		41096 hyperlink (链接) 差旅费＞差旅费-火车 Description: 差旅费＞差旅费-火车
+																41097 data item (项) 西部证券xCIRMS1.0信用投研一体化平台
+																	41098 group (组)
+																		41099 hyperlink (链接) 西部证券xCIRMS1.0信用投研一体化平台 Description: 西部证券xCIRMS1.0信用投研一体化平台
+																41100 data item (项) 5201006
+																	41101 group (组)
+																41102 data item (项) 信用及数管业务线
+																	41103 group (组)
+																		41104 hyperlink (链接) 信用及数管业务线 Description: 信用及数管业务线
+																41105 data item (项) 竺杭杰
+																	41106 group (组)
+																		41107 hyperlink (链接) 竺杭杰 Description: 竺杭杰
+																41108 data item (项) 竺杭杰
+																	41109 group (组)
+																		41110 hyperlink (链接) 竺杭杰 Description: 竺杭杰
+																41111 data item (项) 2024-08-26
+																	41112 group (组)
+																41113 data item (项) 2024-08-28
+																	41114 group (组)
+																41115 data item (项)
+																	41116 group (组)
+																41117 data item (项) 杭州
+																	41118 group (组)
+																41119 data item (项) 上海
+																	41120 group (组)
+																41121 data item (项)
+																	41122 group (组)
+																41123 data item (项)
+																	41124 group (组)
+																41125 data item (项) 0.00
+																	41126 group (组)
+																41127 data item (项) 73.00
+																	41128 group (组)
+																41129 data item (项) 73.00
+																	41130 group (组)
+																41131 data item (项)
+																	41132 group (组)
+																41133 data item (项) 0.09
+																	41134 group (组)
+																41135 data item (项) 6.03
+																	41136 group (组)
+																41137 data item (项) 66.97
+																	41138 group (组)
+																41139 data item (项)
+																	41140 group (组)
+																41141 data item (项)
+																	41142 group (组)
+															41143 data item (行)
+																41144 data item (项)
+																	41145 checkbox (复选框) (disabled)
+																41146 data item (项) 3
+																41147 data item (项) 2024-09-02
+																	41148 group (组)
+																41149 data item (项) 差旅费＞差旅费-出差补贴
+																	41150 group (组)
+																		41151 hyperlink (链接) 差旅费＞差旅费-出差补贴 Description: 差旅费＞差旅费-出差补贴
+																41152 data item (项) 西部证券xCIRMS1.0信用投研一体化平台
+																	41153 group (组)
+																		41154 hyperlink (链接) 西部证券xCIRMS1.0信用投研一体化平台 Description: 西部证券xCIRMS1.0信用投研一体化平台
+																41155 data item (项) 5201010
+																	41156 group (组)
+																41157 data item (项) 信用及数管业务线
+																	41158 group (组)
+																		41159 hyperlink (链接) 信用及数管业务线 Description: 信用及数管业务线
+																41160 data item (项) 竺杭杰
+																	41161 group (组)
+																		41162 hyperlink (链接) 竺杭杰 Description: 竺杭杰
+																41163 data item (项) 竺杭杰
+																	41164 group (组)
+																		41165 hyperlink (链接) 竺杭杰 Description: 竺杭杰
+																41166 data item (项) 2024-08-26
+																	41167 group (组)
+																41168 data item (项) 2024-08-28
+																	41169 group (组)
+																41170 data item (项)
+																	41171 group (组)
+																41172 data item (项) 杭州
+																	41173 group (组)
+																41174 data item (项) 上海
+																	41175 group (组)
+																41176 data item (项)
+																	41177 group (组)
+																41178 data item (项)
+																	41179 group (组)
+																41180 data item (项) 0.00
+																	41181 group (组)
+																41182 data item (项) 250.00
+																	41183 group (组)
+																41184 data item (项) 250.00
+																	41185 group (组)
+																41186 data item (项) （3-0.5）*100=250
+																	41187 group (组)
+																41188 data item (项) 0.00
+																	41189 group (组)
+																41190 data item (项) 0.00
+																	41191 group (组)
+																41192 data item (项) 250.00
+																	41193 group (组)
+																41194 data item (项)
+																	41195 group (组)
+																41196 data item (项)
+																	41197 group (组)
+															41198 data item (行)
+																41199 data item (项) 合计
+																41200 data item (项)
+																41201 data item (项)
+																41202 data item (项)
+																41203 data item (项)
+																41204 data item (项)
+																41205 data item (项)
+																41206 data item (项)
+																41207 data item (项)
+																41208 data item (项)
+																41209 data item (项)
+																41210 data item (项)
+																41211 data item (项)
+																41212 data item (项)
+																41213 data item (项)
+																41214 data item (项)
+																41215 data item (项)
+																41216 data item (项)
+																41217 data item (项)
+																41218 data item (项)
+																41219 data item (项)
+																41220 data item (项)
+																41221 data item (项)
+																41222 data item (项)
+													41223 data item (项)
+												41224 data item (行)
+													41225 data item (项)
+													41226 data item (项)
+														41227 table (表格) ID: oTable3
+															41228 data item (行)
+																41229 data item (项)
+																41230 data item (项)
+																41231 data item (项)
+																41232 data item (项)
+																41233 data item (项)
+																41234 data item (项)
+																41235 data item (项)
+																41236 data item (项)
+																41237 data item (项)
+																41238 data item (项)
+																41239 data item (项)
+															41240 data item (行)
+																41241 data item (项) 冲销借款明细
+																41242 data item (项)
+																41243 data item (项)
+																41244 data item (项)
+																41245 data item (项)
+																41246 data item (项)
+																41247 data item (项)
+															41248 data item (行)
+																41249 data item (项)
+																	41250 checkbox (复选框) (disabled)
+																41251 data item (项) 序号
+																41252 data item (项) 借款人
+																41253 data item (项) 借款流程
+																41254 data item (项) 借款单单号
+																41255 data item (项) 借款部门
+																41256 data item (项) 核定项目
+																41257 data item (项) 费用说明
+																41258 data item (项) 每单借款余额
+																41259 data item (项) 冲销借款金额
+																41260 data item (项) 在途冲销金额
+															41261 data item (行)
+																41262 data item (项)
+																41263 data item (项)
+																41264 data item (项)
+																41265 data item (项)
+																41266 data item (项)
+																41267 data item (项)
+																41268 data item (项)
+																41269 data item (项)
+																41270 data item (项)
+																41271 data item (项) 0.00
+																41272 data item (项)
+													41273 data item (项)
+												41274 data item (行)
+													41275 data item (项)
+													41276 data item (项)
+														41277 table (表格) ID: oTable2
+															41278 data item (行)
+																41279 data item (项)
+																41280 data item (项)
+																41281 data item (项)
+																41282 data item (项)
+																41283 data item (项)
+																41284 data item (项)
+															41285 data item (行)
+																41286 data item (项) 打款明细
+																41287 data item (项)
+																41288 data item (项)
+																41289 data item (项)
+																41290 data item (项)
+															41291 data item (行)
+																41292 data item (项)
+																	41293 checkbox (复选框) (disabled)
+																41294 data item (项) 序号
+																41295 data item (项) 姓名
+																41296 data item (项) 账号信息
+																41297 data item (项) 银行支行信息
+																41298 data item (项) 金额
+															41299 data item (行)
+																41300 data item (项)
+																	41301 checkbox (复选框) (disabled)
+																41302 data item (项) 1
+																41303 data item (项) 竺杭杰
+																	41304 group (组)
+																		41305 hyperlink (链接) 竺杭杰 Description: 竺杭杰
+																41306 data item (项) 623061571025897609
+																	41307 group (组)
+																41308 data item (项) 杭州银行
+																	41309 group (组)
+																41310 data item (项) 396.00
+																	41311 group (组)
+													41312 data item (项)
+											41313 menu (菜单)
+												41314 menu item (菜单项)
+											41315 group (组)
+												41316 text (文本) 
+											41317 text (文本) |
+											41318 group (组)
+												41319 text (文本) 
+										40640 group (组)
+								15543 document (文档) Value: chrome://newtab-footer/ ID: RootWebArea
+									15544 hyperlink (链接) Unsplash Instant
+									15545 button (切换按钮) 自定义 Chrome Description: 自定义此页 ID: customizeButton
+										15546 image (图形) ID: baseSvg
+										15547 text (文本) 自定义 Chrome
+							15548 pane (区域)
+						15549 pane (区域)
+							15550 pane (区域)
+								15551 button (按钮) 标签页搜索
+							15552 pane (区域) ID: view_21
+								15553 tab (选项卡)
+									15554 tab item (选项卡项目) (selectable) GaussDB字符集UTF8影响 - DeepSeek - 内存用量 - 141 MB ID: view_20
+										15555 button (按钮) 关闭
+									15556 tab item (选项卡项目) (selectable) Merge Requests · Dashboard · GitLab ID: view_20
+										15557 button (按钮) 关闭
+									15558 tab item (选项卡项目) (selectable) 衡泰技术个人门户 - 内存用量 - 251 MB ID: view_20
+										15559 button (按钮) 关闭
+									15560 tab item (选项卡项目) (selectable) 出差申请及报销流程-竺杭杰-2024-08-20 ID: view_20
+										15561 button (按钮) 关闭
+									15562 tab item (选项卡项目) (selectable) 中证整体步骤梳理 - 内存用量 - 634 MB ID: view_20
+										15563 button (按钮) 关闭
+									15564 tab item (选项卡项目) (selectable) 需求变更记录 - 内存用量 - 521 MB ID: view_20
+										15565 button (按钮) 关闭
+									15566 tab item (选项卡项目) (selectable) 2026年11月 - 内存用量 - 494 MB ID: view_20
+										15567 button (按钮) 关闭
+									15568 tab item (选项卡项目) (selectable) 中证周会 - 内存用量 - 486 MB ID: view_20
+										15569 button (按钮) 关闭
+									15570 tab item (选项卡项目) (selectable) 在线Markdown编辑器 - 免费实时预览编辑器 ID: view_20
+										15571 button (按钮) 关闭
+									15572 tab item (选项卡项目) (selectable) V2EX - 内存用量 - 109 MB ID: view_20
+										15573 button (按钮) 关闭
+									15574 tab item (选项卡项目) (selectable) 泼墨成画 - V2EX - 内存用量 - 133 MB ID: view_20
+										15575 button (按钮) 关闭
+								15576 pane (区域)
+							15577 button (按钮) 新标签页
+							15578 pane (区域)
+							15579 pane (区域)
+								15580 button (按钮) 打开 Chrome 中的 Gemini
+								15581 pane (区域)
+						15582 pane (区域)
+
+Document text: ```
+Unsplash Instant
+￼
+￼
+自定义 Chrome
+```
+
+Focused element: 15504 text field (编辑) (settable, string) 地址和搜索栏 Description: 问问 Google 或输入网址 Value: oa.xquant.com/spa/workflow/static4form/index.html?_rdm=1794987523226#/main/workflow/req?requestid=1165811&_key=mb01wr ID: view_1012
+
+Document text:
+Unsplash Instant
+￼
+￼
+自定义 Chrome

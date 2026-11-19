@@ -1,0 +1,825 @@
+Window: "出差申请及报销流程-竺杭杰-2026-04-15 - Google Chrome", App: chrome.exe.
+	0 window (窗口) 出差申请及报销流程-竺杭杰-2026-04-15 - Google Chrome Secondary Actions: Raise
+		15488 pane (窗格) (disabled)
+		15489 pane (区域) 出差申请及报销流程-竺杭杰-2026-04-15 - Google Chrome
+			15490 pane (区域)
+				15491 pane (区域)
+					15492 pane (区域)
+						15493 button (按钮) 最小化 ID: view_1
+						15494 button (按钮) 最大化 ID: view_2
+						15495 button (按钮) 关闭 ID: view_4
+					15496 pane (区域)
+						15497 pane (区域)
+							15498 toolbar (工具栏) ID: view_1000
+								15499 button (按钮) 返回 ID: view_1001
+								15500 button (按钮) (disabled) 前进 ID: view_1002
+								15501 button (按钮) 重新加载 ID: view_1003
+								15502 group (组)
+									15503 button (按钮) 查看网站信息 ID: view_1011
+									15504 text field (编辑) (settable, string) 地址和搜索栏 Description: 问问 Google 或输入网址 Value: oa.xquant.com/spa/workflow/static4form/index.html?_rdm=1794988461165#/main/workflow/req?requestid=1621841&_key=zv7v7h ID: view_1012
+									15505 pane (区域)
+										78713 button (按钮) 为此标签页添加书签
+								15507 pane (区域)
+									15508 button (按钮) Postman Interceptor 可以访问此网站 ID: view_1009
+									15509 button (按钮) 扩展程序 ID: view_1006
+								15510 pane (区域)
+								15511 button (按钮) 杭杰 ID: view_1018
+								15512 button (按钮) Chrome ID: view_1007
+							15513 toolbar (工具栏) 书签 ID: view_1025
+								15514 toolbar (工具栏) 已保存的标签页分组
+									15515 button (按钮) 标签页分组
+								15516 separator (分隔符) 分隔符
+								15517 button (书签文件夹按钮) 历史 ID: view_1028
+								15518 button (书签文件夹按钮) 站点 ID: view_1028
+								15519 button (书签文件夹按钮) 社区 ID: view_1028
+								15520 button (书签文件夹按钮) 工具 ID: view_1028
+								15521 button (书签文件夹按钮) 公司 ID: view_1028
+								15522 button (书签文件夹按钮) 信创 ID: view_1028
+								15523 button (书签文件夹按钮) 数据库 ID: view_1028
+								15524 button (书签文件夹按钮) 性能 ID: view_1028
+								15525 button (书签文件夹按钮) 前端 ID: view_1028
+								15526 button (书签文件夹按钮) java ID: view_1028
+								15527 button (书签文件夹按钮) python ID: view_1028
+								15528 button (书签文件夹按钮) 金融 ID: view_1028
+								15529 button (书签文件夹按钮) 业务模块 ID: view_1028
+								15530 button (书签文件夹按钮) 数理统计 ID: view_1028
+								15531 button (书签文件夹按钮) AIGC ID: view_1028
+								15532 button (书签文件夹按钮) linux ID: view_1028
+								15533 button (书签文件夹按钮) 运维 ID: view_1028
+								15534 button (书签文件夹按钮) SAP ID: view_1028
+								15535 button (书签文件夹按钮) 生活 ID: view_1028
+								15536 button (书签文件夹按钮) web3&区块链 ID: view_1028
+								15537 button (书签文件夹按钮) cs ID: view_1028
+								15538 button (书签文件夹按钮) hotel ID: view_1028
+						15539 pane (区域)
+							15540 pane (区域)
+								15541 pane (区域)
+								78714 document (文档) 出差申请及报销流程-竺杭杰-2026-04-15 Value: https://oa.xquant.com/spa/workflow/static4form/index.html?_rdm=1794988461165#/main/workflow/req?requestid=1621841&_key=zv7v7h ID: RootWebArea
+									78715 group (组)
+										78724 text (文本) 
+										78725 text (文本) 流程:处理 - 出差申请及报销流程 - 提交
+										78726 text (文本) CLSQBX-2026041534240
+										78717 tab (选项卡)
+											78718 tab item (选项卡项目) (selectable) 流程表单
+											78719 tab item (选项卡项目) (selectable) 流程图
+											78720 tab item (选项卡项目) (selectable) 流程状态
+											78727 tab item (选项卡项目) (selectable) 相关资源
+										78721 pane (选项卡面板)
+										78722 group (组)
+											78728 text (文本) 
+										78729 group (组)
+											78730 table (表格)
+												78731 data item (行)
+													78732 data item (项)
+													78733 data item (项) 员工出差申请及报销流程
+													78734 data item (项)
+												78735 data item (行)
+													78736 data item (项)
+													78737 data item (项) 标题
+													78738 data item (项) 出差申请及报销流程-竺杭杰-2026-04-15
+														78739 group (组)
+													78740 data item (项) 流程编号
+													78741 data item (项) CLSQBX-2026041534240
+														78742 group (组)
+													78743 data item (项)
+												78744 data item (行)
+													78745 data item (项)
+													78746 data item (项) 申请人
+													78747 data item (项) 竺杭杰
+														78748 group (组)
+															79226 hyperlink (链接) 竺杭杰 Description: 竺杭杰
+													78749 data item (项) 申请日期
+													78750 data item (项) 2026-04-15
+														78751 group (组)
+													78752 data item (项)
+												78753 data item (行)
+													78754 data item (项)
+													78755 data item (项) 申请人部门
+													78756 data item (项) 信用及数管业务线/信用管理及公共/信用管理组 杭州衡泰技术股份有限公司
+														78757 group (组)
+															79227 hyperlink (链接) 信用及数管业务线/信用管理及公共/信用管理组 Description: 信用及数管业务线/信用管理及公共/信用管理组
+														78758 group (组)
+															79228 hyperlink (链接) 杭州衡泰技术股份有限公司 Description: 杭州衡泰技术股份有限公司
+													78759 data item (项) 属地
+													78760 data item (项) 杭州
+														78761 group (组)
+															79229 hyperlink (链接) 杭州 Description: 杭州
+													78762 data item (项)
+												78763 data item (行)
+													78764 data item (项)
+													78765 data item (项) 费用承担部门
+													78766 data item (项) 信用及数管业务线/信用管理及公共/信用管理组 请选到末级部门！
+														78767 group (组)
+															79230 hyperlink (链接) 信用及数管业务线/信用管理及公共/信用管理组 Description: 信用及数管业务线/信用管理及公共/信用管理组
+													78768 data item (项) 团队内分组
+													78769 data item (项) /
+														78770 group (组)
+													78771 data item (项)
+												78772 data item (行)
+													78773 data item (项)
+													78774 data item (项) 人员属性
+													78775 data item (项) 成本
+														78776 group (组)
+													78777 data item (项) 性别
+													78778 data item (项) 男
+														78779 group (组)
+													78780 data item (项)
+												78781 data item (行)
+													78782 data item (项)
+													78783 data item (项) ——出差申请内容——
+													78784 data item (项)
+												78785 data item (行)
+													78786 data item (项)
+													78787 data item (项) 出差事由
+													78788 data item (项) 中证估值指数出差，信用债行情活跃认定相关
+														78789 group (组)
+													78790 data item (项)
+												78791 data item (行)
+													78792 data item (项)
+													78793 data item (项) 出差实际开始日期
+													78794 data item (项) 2026-04-10 09:00
+														78795 group (组)
+														78796 group (组)
+													78797 data item (项) 出差预计开始日期
+													78798 data item (项) 2026-04-10 09:00
+														78799 group (组)
+														78800 group (组)
+													78801 data item (项)
+												78802 data item (行)
+													78803 data item (项)
+													78804 data item (项) 出差实际结束日期
+													78805 data item (项) 2026-04-10 18:00
+														78806 group (组)
+														78807 group (组)
+													78808 data item (项) 出差预计结束日期
+													78809 data item (项) 2026-04-10 18:00
+														78810 group (组)
+														78811 group (组)
+													78812 data item (项)
+												78822 data item (行)
+													78823 data item (项)
+													78824 data item (项) 出差期间是否需要打卡
+													78825 data item (项) 是
+														78826 group (组)
+													78827 data item (项)
+													78828 data item (项)
+													78829 data item (项)
+												78859 data item (行)
+													78860 data item (项)
+													78861 data item (项) 备注
+													78862 data item (项)
+														78863 group (组)
+													78864 data item (项)
+													78865 data item (项)
+													78867 data item (项)
+												78868 data item (行)
+													78869 data item (项)
+													78870 data item (项) 同住人
+													78871 data item (项)
+														78872 group (组)
+													78873 data item (项)
+													78874 data item (项)
+													78875 data item (项)
+												78876 data item (行)
+													78877 data item (项)
+													78878 data item (项) ——出差报销内容——
+													78879 data item (项)
+												78880 data item (行)
+													78881 data item (项)
+													78882 data item (项) 入账公司
+													78883 data item (项) 杭州衡泰技术股份有限公司
+														78884 group (组)
+															79231 hyperlink (链接) 杭州衡泰技术股份有限公司 Description: 杭州衡泰技术股份有限公司
+													78885 data item (项) 预算部门
+													78886 data item (项) 信用及数管业务线/信用管理及公共
+														78887 group (组)
+															79232 hyperlink (链接) 信用及数管业务线/信用管理及公共 Description: 信用及数管业务线/信用管理及公共
+													78888 data item (项)
+												78889 data item (行)
+													78890 data item (项)
+													78891 data item (项) 合计报销金额
+													78892 data item (项) 260.00
+														78893 group (组)
+													78894 data item (项) 预算科目
+													78895 data item (项)
+														78896 group (组)
+													78897 data item (项)
+												78898 data item (行)
+													78899 data item (项)
+													78900 data item (项) 合计发票金额
+													78901 data item (项) 253.00
+														78902 group (组)
+													78903 data item (项) 付款金额
+													78904 data item (项) 260.00
+														78905 group (组)
+													78906 data item (项)
+												78907 data item (行)
+													78908 data item (项)
+													78909 data item (项) 携程与个人报销总费用
+													78910 data item (项) 260.00
+														78911 group (组)
+													78912 data item (项)
+												78913 data item (行)
+													78914 data item (项)
+													78915 data item (项) 发票类别
+													78916 data item (项) 纯电子发票 纯电子发票无需提供纸质件
+														78917 group (组)
+													78918 data item (项) 冲销借款金额
+													78919 data item (项)
+														78920 group (组)
+													78921 data item (项)
+												78922 data item (行)
+													78923 data item (项)
+													78924 data item (项) 总挂账金额
+													78925 data item (项)
+														78926 group (组)
+													78927 data item (项) 总扣款金额
+													78928 data item (项)
+														78929 group (组)
+													78930 data item (项)
+												78931 data item (行)
+													78932 data item (项)
+													78933 data item (项) 预算信息
+													78934 data item (项)
+														78935 group (组)
+													78936 data item (项)
+												78937 data item (行)
+													78938 data item (项)
+													78939 data item (项) 财务核定事由
+													78940 data item (项) 中证估值指数出差，信用债行情活跃认定相关
+														78941 group (组)
+													78942 data item (项)
+												78943 data item (行)
+													78944 data item (项)
+													78945 data item (项) 补贴标准（例如：小明的出差补贴是100/天，交通补贴是300/月，折算后每日差补：100-300/30=90/天）
+													78946 data item (项)
+												78947 data item (行)
+													78948 data item (项)
+													78949 data item (项) 出差补贴
+													78950 data item (项) 100
+														78951 group (组)
+													78952 data item (项) 交通补贴（工资中已发放）
+													78953 data item (项) 0
+														78954 group (组)
+													78955 data item (项)
+												78956 data item (行)
+													78957 data item (项)
+													78958 data item (项)
+													78959 data item (项) 订单详情
+													78960 data item (项)
+													78961 data item (项)
+													78962 data item (项)
+												78963 data item (行)
+													78964 data item (项)
+													78965 data item (项) 内容加载中，请稍候...
+														78966 image (未加标签的图片) 要获取缺失的图片说明，请打开上下文菜单。
+													78967 data item (项)
+												78968 data item (行)
+													78969 data item (项)
+													78970 data item (项)
+														78971 table (表格) ID: oTable0
+															78972 data item (行)
+																78973 data item (项)
+																78974 data item (项)
+																78975 data item (项)
+																78976 data item (项)
+																78977 data item (项)
+																78978 data item (项)
+																78979 data item (项)
+																78980 data item (项)
+																78981 data item (项)
+																78982 data item (项)
+																78983 data item (项)
+																78984 data item (项)
+																78985 data item (项)
+																78986 data item (项)
+																78987 data item (项)
+																78988 data item (项)
+																78989 data item (项)
+																78990 data item (项)
+															78991 data item (行)
+																78992 data item (项) 通过携程商旅平台公司垫付费用明细
+																78993 data item (项)
+																78994 data item (项)
+															78995 data item (行)
+																78996 data item (项)
+																	78997 checkbox (复选框) (disabled)
+																78998 data item (项) 序号
+																78999 data item (项) 费用项目
+																79000 data item (项) 项目
+																79001 data item (项) 会计科目编码
+																79002 data item (项) 承担部门
+																79003 data item (项) 出行人
+																79004 data item (项) 预算扣减金额
+																79005 data item (项) 结算金额
+																79006 data item (项) 扣款金额
+																79007 data item (项) 税率
+																79008 data item (项) 税额
+																79009 data item (项) 不含税金额
+																79010 data item (项) 费用日期
+																79011 data item (项) 起始城市
+																79012 data item (项) 到达城市
+																79013 data item (项) 酒店天数
+																79014 data item (项) 酒店差标
+															79015 data item (行)
+																79016 data item (项) 合计
+																79017 data item (项) 0.00
+																79018 data item (项) 0.00
+																79019 data item (项)
+																79020 data item (项)
+																79021 data item (项)
+																79022 data item (项)
+																79023 data item (项)
+																79024 data item (项)
+																79025 data item (项)
+																79026 data item (项)
+																79027 data item (项)
+													79028 data item (项)
+												79029 data item (行)
+													79030 data item (项)
+													79031 data item (项)
+													79032 data item (项)
+													79033 data item (项)
+													79034 data item (项)
+													79035 data item (项)
+												79036 data item (行)
+													79037 data item (项)
+													79038 data item (项)
+														79039 table (表格) ID: oTable1
+															79040 data item (行)
+																79041 data item (项)
+																79042 data item (项)
+																79043 data item (项)
+																79044 data item (项)
+																79045 data item (项)
+																79046 data item (项)
+																79047 data item (项)
+																79048 data item (项)
+																79049 data item (项)
+																79050 data item (项)
+																79051 data item (项)
+																79052 data item (项)
+																79053 data item (项)
+																79054 data item (项)
+																79055 data item (项)
+																79056 data item (项)
+																79057 data item (项)
+																79058 data item (项)
+																79059 data item (项)
+																79060 data item (项)
+																79061 data item (项)
+																79062 data item (项)
+																79063 data item (项)
+																79064 data item (项)
+																79065 data item (项)
+															79066 data item (行)
+																79067 data item (项) 个人报销明细表
+																79068 data item (项)
+																79069 data item (项)
+																79070 data item (项)
+																79071 data item (项)
+																79072 data item (项)
+																79073 data item (项)
+																79074 data item (项)
+																79075 data item (项)
+																79076 data item (项)
+																79077 data item (项)
+																79078 data item (项)
+																79079 data item (项)
+																79080 data item (项)
+																79081 data item (项)
+																79082 data item (项)
+																79083 data item (项)
+																79084 data item (项)
+																79085 data item (项)
+																79086 data item (项)
+																79087 data item (项)
+																79088 data item (项)
+															79089 data item (行)
+																79090 data item (项)
+																	79091 checkbox (复选框) (disabled)
+																79092 data item (项) 序号
+																79093 data item (项) 费用日期
+																79094 data item (项) 费用项目
+																79095 data item (项) 项目
+																79096 data item (项) 会计科目编码
+																79097 data item (项) 承担主体
+																79098 data item (项) 出行人
+																79099 data item (项) 报销人
+																79100 data item (项) 出差开始日期
+																79101 data item (项) 出差结束日期
+																79102 data item (项) 住宿天数
+																79103 data item (项) 起始城市
+																79104 data item (项) 到达城市
+																79105 data item (项) 发票类型
+																79106 data item (项) 发票号码
+																79107 data item (项) 发票金额
+																79108 data item (项) 报销金额
+																79109 data item (项) 财务核定金额（预算扣减金额）
+																79110 data item (项) 说明
+																79111 data item (项) 税率
+																79112 data item (项) 税额
+																79113 data item (项) 不含税金额
+																79114 data item (项) 相关发票
+																79115 data item (项) 附件
+															79233 data item (行)
+																79234 data item (项)
+																	79235 checkbox (复选框) (disabled)
+																79236 data item (项) 1
+																79237 data item (项) 2026-04-15
+																	79238 group (组)
+																79239 data item (项) 差旅费＞差旅费-火车
+																	79240 group (组)
+																		79241 hyperlink (链接) 差旅费＞差旅费-火车 Description: 差旅费＞差旅费-火车
+																79242 data item (项) 售前支持
+																	79243 group (组)
+																		79244 hyperlink (链接) 售前支持 Description: 售前支持
+																79245 data item (项) 6601006
+																	79246 group (组)
+																79247 data item (项) 信用及数管业务线/信用管理及公共
+																	79248 group (组)
+																		79249 hyperlink (链接) 信用及数管业务线/信用管理及公共 Description: 信用及数管业务线/信用管理及公共
+																79250 data item (项) 竺杭杰
+																	79251 group (组)
+																		79252 hyperlink (链接) 竺杭杰 Description: 竺杭杰
+																79253 data item (项) 竺杭杰
+																	79254 group (组)
+																		79255 hyperlink (链接) 竺杭杰 Description: 竺杭杰
+																79256 data item (项) 2026-04-10
+																	79257 group (组)
+																79258 data item (项) 2026-04-10
+																	79259 group (组)
+																79260 data item (项)
+																	79261 group (组)
+																79262 data item (项) 杭州
+																	79263 group (组)
+																79264 data item (项) 上海
+																	79265 group (组)
+																79266 data item (项) 电子发票（铁路电子客票）
+																	79267 group (组)
+																79268 data item (项)
+																	79269 group (组)
+																79270 data item (项) 80.00
+																	79271 group (组)
+																79272 data item (项) 80.00
+																	79273 group (组)
+																79274 data item (项) 80.00
+																	79275 group (组)
+																79276 data item (项)
+																	79277 group (组)
+																79278 data item (项) 0.00
+																	79279 group (组)
+																79280 data item (项) 0.00
+																	79281 group (组)
+																79282 data item (项) 80.00
+																	79283 group (组)
+																79284 data item (项) 260415_80.00_电子发票（铁路电子客票）.pdf
+																	79285 group (组)
+																		79286 hyperlink (链接) 260415_80.00_电子发票（铁路电子客票）.pdf
+																79287 data item (项)
+																	79288 group (组)
+															79289 data item (行)
+																79290 data item (项)
+																	79291 checkbox (复选框) (disabled)
+																79292 data item (项) 2
+																79293 data item (项) 2026-04-15
+																	79294 group (组)
+																79295 data item (项) 差旅费＞差旅费-火车
+																	79296 group (组)
+																		79297 hyperlink (链接) 差旅费＞差旅费-火车 Description: 差旅费＞差旅费-火车
+																79298 data item (项) 售前支持
+																	79299 group (组)
+																		79300 hyperlink (链接) 售前支持 Description: 售前支持
+																79301 data item (项) 6601006
+																	79302 group (组)
+																79303 data item (项) 信用及数管业务线/信用管理及公共
+																	79304 group (组)
+																		79305 hyperlink (链接) 信用及数管业务线/信用管理及公共 Description: 信用及数管业务线/信用管理及公共
+																79306 data item (项) 竺杭杰
+																	79307 group (组)
+																		79308 hyperlink (链接) 竺杭杰 Description: 竺杭杰
+																79309 data item (项) 竺杭杰
+																	79310 group (组)
+																		79311 hyperlink (链接) 竺杭杰 Description: 竺杭杰
+																79312 data item (项) 2026-04-10
+																	79313 group (组)
+																79314 data item (项) 2026-04-10
+																	79315 group (组)
+																79316 data item (项)
+																	79317 group (组)
+																79318 data item (项) 上海
+																	79319 group (组)
+																79320 data item (项) 嘉兴南
+																	79321 group (组)
+																79322 data item (项) 电子发票（铁路电子客票）
+																	79323 group (组)
+																79324 data item (项)
+																	79325 group (组)
+																79326 data item (项) 74.00
+																	79327 group (组)
+																79328 data item (项) 74.00
+																	79329 group (组)
+																79330 data item (项) 74.00
+																	79331 group (组)
+																79332 data item (项)
+																	79333 group (组)
+																79334 data item (项) 0.00
+																	79335 group (组)
+																79336 data item (项) 0.00
+																	79337 group (组)
+																79338 data item (项) 74.00
+																	79339 group (组)
+																79340 data item (项) 260415_74.00_电子发票（铁路电子客票）.pdf
+																	79341 group (组)
+																		79342 hyperlink (链接) 260415_74.00_电子发票（铁路电子客票）.pdf
+																79343 data item (项)
+																	79344 group (组)
+															79345 data item (行)
+																79346 data item (项)
+																	79347 checkbox (复选框) (disabled)
+																79348 data item (项) 3
+																79349 data item (项) 2026-04-15
+																	79350 group (组)
+																79351 data item (项) 差旅费＞差旅费-火车
+																	79352 group (组)
+																		79353 hyperlink (链接) 差旅费＞差旅费-火车 Description: 差旅费＞差旅费-火车
+																79354 data item (项) 售前支持
+																	79355 group (组)
+																		79356 hyperlink (链接) 售前支持 Description: 售前支持
+																79357 data item (项) 6601006
+																	79358 group (组)
+																79359 data item (项) 信用及数管业务线/信用管理及公共
+																	79360 group (组)
+																		79361 hyperlink (链接) 信用及数管业务线/信用管理及公共 Description: 信用及数管业务线/信用管理及公共
+																79362 data item (项) 竺杭杰
+																	79363 group (组)
+																		79364 hyperlink (链接) 竺杭杰 Description: 竺杭杰
+																79365 data item (项) 竺杭杰
+																	79366 group (组)
+																		79367 hyperlink (链接) 竺杭杰 Description: 竺杭杰
+																79368 data item (项) 2026-04-10
+																	79369 group (组)
+																79370 data item (项) 2026-04-10
+																	79371 group (组)
+																79372 data item (项)
+																	79373 group (组)
+																79374 data item (项) 嘉兴南
+																	79375 group (组)
+																79376 data item (项) 宁波
+																	79377 group (组)
+																79378 data item (项) 电子发票（铁路电子客票）
+																	79379 group (组)
+																79380 data item (项)
+																	79381 group (组)
+																79382 data item (项) 99.00
+																	79383 group (组)
+																79384 data item (项) 6.00
+																	79385 group (组)
+																79386 data item (项) 6.00
+																	79387 group (组)
+																79388 data item (项)
+																	79389 group (组)
+																79390 data item (项) 0.00
+																	79391 group (组)
+																79392 data item (项) 0.00
+																	79393 group (组)
+																79394 data item (项) 6.00
+																	79395 group (组)
+																79396 data item (项) 260415_99.00_电子发票（铁路电子客票）.pdf
+																	79397 group (组)
+																		79398 hyperlink (链接) 260415_99.00_电子发票（铁路电子客票）.pdf
+																79399 data item (项)
+																	79400 group (组)
+															79401 data item (行)
+																79402 data item (项)
+																	79403 checkbox (复选框) (disabled)
+																79404 data item (项) 4
+																79405 data item (项) 2026-04-15
+																	79406 group (组)
+																79407 data item (项) 差旅费＞差旅费-出差补贴
+																	79408 group (组)
+																		79409 hyperlink (链接) 差旅费＞差旅费-出差补贴 Description: 差旅费＞差旅费-出差补贴
+																79410 data item (项) 售前支持
+																	79411 group (组)
+																		79412 hyperlink (链接) 售前支持 Description: 售前支持
+																79413 data item (项) 6601010
+																	79414 group (组)
+																79415 data item (项) 信用及数管业务线/信用管理及公共
+																	79416 group (组)
+																		79417 hyperlink (链接) 信用及数管业务线/信用管理及公共 Description: 信用及数管业务线/信用管理及公共
+																79418 data item (项) 竺杭杰
+																	79419 group (组)
+																		79420 hyperlink (链接) 竺杭杰 Description: 竺杭杰
+																79421 data item (项) 竺杭杰
+																	79422 group (组)
+																		79423 hyperlink (链接) 竺杭杰 Description: 竺杭杰
+																79424 data item (项) 2026-04-10
+																	79425 group (组)
+																79426 data item (项) 2026-04-10
+																	79427 group (组)
+																79428 data item (项)
+																	79429 group (组)
+																79430 data item (项) 杭州
+																	79431 group (组)
+																79432 data item (项) 上海
+																	79433 group (组)
+																79434 data item (项)
+																	79435 group (组)
+																79436 data item (项)
+																	79437 group (组)
+																79438 data item (项) 0.00
+																	79439 group (组)
+																79440 data item (项) 100.00
+																	79441 group (组)
+																79442 data item (项) 100.00
+																	79443 group (组)
+																79444 data item (项) 一天100
+																	79445 group (组)
+																79446 data item (项) 0.00
+																	79447 group (组)
+																79448 data item (项) 0.00
+																	79449 group (组)
+																79450 data item (项) 100.00
+																	79451 group (组)
+																79452 data item (项)
+																	79453 group (组)
+																79454 data item (项)
+																	79455 group (组)
+															79116 data item (行)
+																79117 data item (项) 合计
+																79118 data item (项)
+																79119 data item (项)
+																79120 data item (项)
+																79121 data item (项)
+																79122 data item (项)
+																79123 data item (项)
+																79124 data item (项)
+																79125 data item (项)
+																79126 data item (项)
+																79127 data item (项)
+																79128 data item (项)
+																79129 data item (项)
+																79130 data item (项)
+																79131 data item (项)
+																79132 data item (项)
+																79133 data item (项)
+																79134 data item (项)
+																79135 data item (项)
+																79136 data item (项)
+																79137 data item (项)
+																79138 data item (项)
+																79139 data item (项)
+																79140 data item (项)
+													79141 data item (项)
+												79142 data item (行)
+													79143 data item (项)
+													79144 data item (项)
+														79145 table (表格) ID: oTable3
+															79146 data item (行)
+																79147 data item (项)
+																79148 data item (项)
+																79149 data item (项)
+																79150 data item (项)
+																79151 data item (项)
+																79152 data item (项)
+																79153 data item (项)
+																79154 data item (项)
+																79155 data item (项)
+																79156 data item (项)
+																79157 data item (项)
+															79158 data item (行)
+																79159 data item (项) 冲销借款明细
+																79160 data item (项)
+																79161 data item (项)
+																79162 data item (项)
+																79163 data item (项)
+																79164 data item (项)
+																79165 data item (项)
+															79166 data item (行)
+																79167 data item (项)
+																	79168 checkbox (复选框) (disabled)
+																79169 data item (项) 序号
+																79170 data item (项) 借款人
+																79171 data item (项) 借款流程
+																79172 data item (项) 借款单单号
+																79173 data item (项) 借款部门
+																79174 data item (项) 核定项目
+																79175 data item (项) 费用说明
+																79176 data item (项) 每单借款余额
+																79177 data item (项) 冲销借款金额
+																79178 data item (项) 在途冲销金额
+															79179 data item (行)
+																79180 data item (项)
+																79181 data item (项)
+																79182 data item (项)
+																79183 data item (项)
+																79184 data item (项)
+																79185 data item (项)
+																79186 data item (项)
+																79187 data item (项)
+																79188 data item (项)
+																79189 data item (项) 0.00
+																79190 data item (项)
+													79191 data item (项)
+												79192 data item (行)
+													79193 data item (项)
+													79194 data item (项)
+														79195 table (表格) ID: oTable2
+															79196 data item (行)
+																79197 data item (项)
+																79198 data item (项)
+																79199 data item (项)
+																79200 data item (项)
+																79201 data item (项)
+																79202 data item (项)
+															79203 data item (行)
+																79204 data item (项) 打款明细
+																79205 data item (项)
+																79206 data item (项)
+																79207 data item (项)
+																79208 data item (项)
+															79209 data item (行)
+																79210 data item (项)
+																	79211 checkbox (复选框) (disabled)
+																79212 data item (项) 序号
+																79213 data item (项) 姓名
+																79214 data item (项) 账号信息
+																79215 data item (项) 银行支行信息
+																79216 data item (项) 金额
+															79456 data item (行)
+																79457 data item (项)
+																	79458 checkbox (复选框) (disabled)
+																79459 data item (项) 1
+																79460 data item (项) 竺杭杰
+																	79461 group (组)
+																		79462 hyperlink (链接) 竺杭杰 Description: 竺杭杰
+																79463 data item (项) 623061571025897609
+																	79464 group (组)
+																79465 data item (项) 杭州银行
+																	79466 group (组)
+																79467 data item (项) 260.00
+																	79468 group (组)
+													79217 data item (项)
+											79218 menu (菜单)
+												79219 menu item (菜单项)
+											79220 group (组)
+												79221 text (文本) 
+											79222 text (文本) |
+											79223 group (组)
+												79224 text (文本) 
+										79225 group (组)
+								15543 document (文档) Value: chrome://newtab-footer/ ID: RootWebArea
+									15544 hyperlink (链接) Unsplash Instant
+									15545 button (切换按钮) 自定义 Chrome Description: 自定义此页 ID: customizeButton
+										15546 image (图形) ID: baseSvg
+										15547 text (文本) 自定义 Chrome
+							15548 pane (区域)
+						15549 pane (区域)
+							15550 pane (区域)
+								15551 button (按钮) 标签页搜索
+							15552 pane (区域) ID: view_21
+								15553 tab (选项卡)
+									15554 tab item (选项卡项目) (selectable) GaussDB字符集UTF8影响 - DeepSeek - 内存用量 - 141 MB ID: view_20
+										15555 button (按钮) 关闭
+									15556 tab item (选项卡项目) (selectable) Merge Requests · Dashboard · GitLab ID: view_20
+										15557 button (按钮) 关闭
+									15558 tab item (选项卡项目) (selectable) 衡泰技术个人门户 - 内存用量 - 251 MB ID: view_20
+										15559 button (按钮) 关闭
+									15560 tab item (选项卡项目) (selectable) 出差申请及报销流程-竺杭杰-2026-04-15 ID: view_20
+										15561 button (按钮) 关闭
+									15562 tab item (选项卡项目) (selectable) 中证整体步骤梳理 - 内存用量 - 634 MB ID: view_20
+										15563 button (按钮) 关闭
+									15564 tab item (选项卡项目) (selectable) 需求变更记录 - 内存用量 - 521 MB ID: view_20
+										15565 button (按钮) 关闭
+									15566 tab item (选项卡项目) (selectable) 2026年11月 - 内存用量 - 494 MB ID: view_20
+										15567 button (按钮) 关闭
+									15568 tab item (选项卡项目) (selectable) 中证周会 - 内存用量 - 486 MB ID: view_20
+										15569 button (按钮) 关闭
+									15570 tab item (选项卡项目) (selectable) 在线Markdown编辑器 - 免费实时预览编辑器 ID: view_20
+										15571 button (按钮) 关闭
+									15572 tab item (选项卡项目) (selectable) V2EX - 内存用量 - 109 MB ID: view_20
+										15573 button (按钮) 关闭
+									15574 tab item (选项卡项目) (selectable) 泼墨成画 - V2EX - 内存用量 - 133 MB ID: view_20
+										15575 button (按钮) 关闭
+								15576 pane (区域)
+							15577 button (按钮) 新标签页
+							15578 pane (区域)
+							15579 pane (区域)
+								15580 button (按钮) 打开 Chrome 中的 Gemini
+								15581 pane (区域)
+						15582 pane (区域)
+
+Document text: ```
+Unsplash Instant
+￼
+￼
+自定义 Chrome
+```
+
+Focused element: 15504 text field (编辑) (settable, string) 地址和搜索栏 Description: 问问 Google 或输入网址 Value: oa.xquant.com/spa/workflow/static4form/index.html?_rdm=1794988461165#/main/workflow/req?requestid=1621841&_key=zv7v7h ID: view_1012
+
+Document text:
+Unsplash Instant
+￼
+￼
+自定义 Chrome

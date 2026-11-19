@@ -1,0 +1,302 @@
+Window: "出差申请及报销流程-竺杭杰-2025-02-03 - Google Chrome", App: chrome.exe.
+	0 window (窗口) 出差申请及报销流程-竺杭杰-2025-02-03 - Google Chrome Secondary Actions: Raise
+		15488 pane (窗格) (disabled)
+		15489 pane (区域) 出差申请及报销流程-竺杭杰-2025-02-03 - Google Chrome
+			15490 pane (区域)
+				15491 pane (区域)
+					15492 pane (区域)
+						15493 button (按钮) 最小化 ID: view_1
+						15494 button (按钮) 最大化 ID: view_2
+						15495 button (按钮) 关闭 ID: view_4
+					15496 pane (区域)
+						15497 pane (区域)
+							15498 toolbar (工具栏) ID: view_1000
+								15499 button (按钮) 返回 ID: view_1001
+								15500 button (按钮) (disabled) 前进 ID: view_1002
+								15501 button (按钮) 重新加载 ID: view_1003
+								15502 group (组)
+									15503 button (按钮) 查看网站信息 ID: view_1011
+									15504 text field (编辑) (settable, string) 地址和搜索栏 Description: 问问 Google 或输入网址 Value: oa.xquant.com/spa/workflow/static4form/index.html?_rdm=1794988538487#/main/workflow/req?requestid=1285584&_key=dvzx94 ID: view_1012
+									15505 pane (区域)
+										84118 button (按钮) 为此标签页添加书签
+								15507 pane (区域)
+									15508 button (按钮) Postman Interceptor 可以访问此网站 ID: view_1009
+									15509 button (按钮) 扩展程序 ID: view_1006
+								15510 pane (区域)
+								15511 button (按钮) 杭杰 ID: view_1018
+								15512 button (按钮) Chrome ID: view_1007
+							15513 toolbar (工具栏) 书签 ID: view_1025
+								15514 toolbar (工具栏) 已保存的标签页分组
+									15515 button (按钮) 标签页分组
+								15516 separator (分隔符) 分隔符
+								15517 button (书签文件夹按钮) 历史 ID: view_1028
+								15518 button (书签文件夹按钮) 站点 ID: view_1028
+								15519 button (书签文件夹按钮) 社区 ID: view_1028
+								15520 button (书签文件夹按钮) 工具 ID: view_1028
+								15521 button (书签文件夹按钮) 公司 ID: view_1028
+								15522 button (书签文件夹按钮) 信创 ID: view_1028
+								15523 button (书签文件夹按钮) 数据库 ID: view_1028
+								15524 button (书签文件夹按钮) 性能 ID: view_1028
+								15525 button (书签文件夹按钮) 前端 ID: view_1028
+								15526 button (书签文件夹按钮) java ID: view_1028
+								15527 button (书签文件夹按钮) python ID: view_1028
+								15528 button (书签文件夹按钮) 金融 ID: view_1028
+								15529 button (书签文件夹按钮) 业务模块 ID: view_1028
+								15530 button (书签文件夹按钮) 数理统计 ID: view_1028
+								15531 button (书签文件夹按钮) AIGC ID: view_1028
+								15532 button (书签文件夹按钮) linux ID: view_1028
+								15533 button (书签文件夹按钮) 运维 ID: view_1028
+								15534 button (书签文件夹按钮) SAP ID: view_1028
+								15535 button (书签文件夹按钮) 生活 ID: view_1028
+								15536 button (书签文件夹按钮) web3&区块链 ID: view_1028
+								15537 button (书签文件夹按钮) cs ID: view_1028
+								15538 button (书签文件夹按钮) hotel ID: view_1028
+						15539 pane (区域)
+							15540 pane (区域)
+								15541 pane (区域)
+								84119 document (文档) 出差申请及报销流程-竺杭杰-2025-02-03 Value: https://oa.xquant.com/spa/workflow/static4form/index.html?_rdm=1794988538487#/main/workflow/req?requestid=1285584&_key=dvzx94 ID: RootWebArea
+									84120 group (组)
+										84313 group (组) ID: container
+											84130 text (文本) 
+											84271 text (文本) 流程:处理 - 出差申请及报销流程 - 申请人至订票
+											84272 text (文本) CLSQBX-2025020326322
+											84273 group (组) Description: 关注
+												84274 text (文本) 
+											84122 tab (选项卡)
+												84123 tab item (选项卡项目) (selectable) 流程表单
+												84124 tab item (选项卡项目) (selectable) 流程图
+												84125 tab item (选项卡项目) (selectable) 流程状态
+											84126 pane (选项卡面板)
+											84275 button (按钮) 提 交 Description: 提交
+											84276 button (按钮) 保 存 Description: 保存
+											84277 button (按钮) 转 发 Description: 转发
+											84127 group (组)
+												84278 text (文本) 
+											84135 group (组)
+												84136 table (表格)
+													84137 data item (行)
+														84138 data item (项) 出差申请及报销流程
+													84139 data item (行)
+														84140 data item (项) 标题
+														84141 data item (项) 出差申请及报销流程-竺杭杰-2025-02-03
+															84142 group (组)
+														84143 data item (项) 流程编号
+														84144 data item (项) CLSQBX-2025020326322
+															84145 group (组)
+													84146 data item (行)
+														84147 data item (项) 申请人
+														84148 data item (项) 竺杭杰
+															84149 group (组)
+																84257 hyperlink (链接) 竺杭杰 Description: 竺杭杰
+														84150 data item (项) 申请日期
+														84151 data item (项) 2025-02-03
+															84152 group (组)
+													84153 data item (行)
+														84154 data item (项) 申请人部门
+														84155 data item (项) 信用及数管业务线/信用管理及公共/信用管理组
+															84156 group (组)
+																84258 hyperlink (链接) 信用及数管业务线/信用管理及公共/信用管理组 Description: 信用及数管业务线/信用管理及公共/信用管理组
+														84157 data item (项) 分部
+														84158 data item (项) 杭州衡泰技术股份有限公司
+															84159 group (组)
+																84259 hyperlink (链接) 杭州衡泰技术股份有限公司 Description: 杭州衡泰技术股份有限公司
+													84160 data item (行)
+														84161 data item (项) 费用承担部门
+														84162 data item (项) 信用及数管业务线/信用管理及公共/信用管理组
+															84163 group (组)
+																84260 hyperlink (链接) 信用及数管业务线/信用管理及公共/信用管理组 Description: 信用及数管业务线/信用管理及公共/信用管理组
+														84164 data item (项) 团队内分组
+														84165 data item (项) /
+															84166 group (组)
+													84167 data item (行)
+														84168 data item (项) 性别
+														84169 data item (项) 男
+															84170 group (组)
+														84171 data item (项) 属地
+														84172 data item (项) 杭州
+															84173 group (组)
+																84261 hyperlink (链接) 杭州 Description: 杭州
+													84174 data item (行)
+														84175 data item (项) ——申请内容——
+													84176 data item (行)
+														84177 data item (项) 出差事由
+														84178 data item (项) 1
+															84179 group (组)
+														84180 data item (项) 项目名称
+														84181 data item (项) 售前支持
+															84182 group (组)
+																84262 hyperlink (链接) 售前支持 Description: 售前支持
+													84183 data item (行)
+														84184 data item (项) 出差预计开始日期
+														84185 data item (项) 2025-01-26 08:30
+															84186 group (组)
+															84187 group (组)
+														84188 data item (项) 出差实际开始日期
+														84189 data item (项) 2025-01-26 08:30
+															84190 group (组)
+															84191 group (组)
+													84192 data item (行)
+														84193 data item (项) 出差预计结束日期
+														84194 data item (项) 2025-01-27 18:00
+															84195 group (组)
+															84196 group (组)
+														84197 data item (项) 出差实际结束日期
+														84198 data item (项) 2025-01-27 18:00
+															84199 group (组)
+															84200 group (组)
+													84201 data item (行)
+														84202 data item (项) 出差天数
+														84203 data item (项) 2
+															84204 group (组)
+														84205 data item (项) 是否申请员工宿舍
+														84206 data item (项) 否
+															84207 group (组)
+													84208 data item (行)
+														84209 data item (项) 同住人
+														84210 data item (项)
+															84211 group (组)
+														84212 data item (项) 出差期间是否需要打卡
+														84213 data item (项) 否
+															84214 group (组)
+													84215 data item (行)
+														84216 data item (项) 酒店入住城市
+														84217 data item (项) 
+															84218 group (组)
+																84263 group (组)
+																	84264 list (列表)
+																84265 button (按钮) 
+														84219 data item (项)
+														84220 data item (项)
+													84221 data item (行)
+														84222 data item (项)
+														84223 data item (项)
+														84224 data item (项)
+														84225 data item (项)
+													84226 data item (行)
+														84227 data item (项) 商旅使用手册
+														84228 data item (项) 商旅使用手册(点我下载)
+															84229 group (组)
+																84230 hyperlink (链接) 商旅使用手册(点我下载) Value: https://oa.xquant.com/weaver/weaver.file.FileDownload?download=1&fileid=164440
+													84231 data item (行)
+														84232 data item (项) 备注
+														84233 data item (项)
+															84234 group (组)
+																84235 text field (编辑) (settable, string) ID: field15807
+													84236 data item (行)
+														84237 data item (项) 有退票费产生时，请选择行程完成
+													84238 data item (行)
+														84239 data item (项) 携程订票
+															84266 button (按钮) 携程订票 Description: 携程订票
+														84240 data item (项) 点击查看订单详情
+															84267 button (按钮) 点击查看订单详情 Description: 点击查看订单详情
+														84241 data item (项) 行程状态确认
+														84242 data item (项)
+															84243 group (组)
+																84268 group (组)
+																	84269 combo box (组合框) (settable, string)
+																		84270 group (组)
+																84244 image (图形)
+													84245 data item (行)
+														84246 data item (项)
+															84279 document (文档) Value: https://oa.xquant.com/interface/ctrip/CtripOrderList.jsp?requestid=1285584 ID: RootWebArea
+																84280 table (表格)
+																84281 hyperlink (链接) 单击取消 Description: 单击取消 Value: javascript:;
+													84248 data item (行)
+														84249 data item (项) 填写规范： 最小出差单位为半天，不可以小时提交。 1：上午半天，请填写：8：30-11：40； 2：下午半天，请填写：13：00-17：30； 3：全天出差，请填写：8：30-17：30； 4 : 酒店提前离店需联系携程客服修改订单：10106116； 5: 出差行程延期或提前，可在行程状态确认中选择行程变更点提交。
+												84282 group (组)
+													84283 text (文本) 
+													84284 text (文本) 签字意见
+												84250 menu (菜单)
+													84251 menu item (菜单项) 流转意见
+													84285 menu item (菜单项) 与我相关
+												84252 group (组)
+													84253 text (文本) 
+												84254 text (文本) |
+												84255 group (组)
+													84256 text (文本) 
+												84286 hyperlink (链接) 竺杭杰 Value: javascript:openhrm(755)
+												84287 hyperlink (链接) 信用及数管业务线/信用管理及公共/信用管理组 Value: https://oa.xquant.com/spa/hrm/engine.html#/hrmengine/organization?showTree=false&isView=1&type=department&id=794&_key=3b4uab
+												84288 text (文本) 
+												84289 text (文本) 来自钉钉客户端
+												84290 text (文本) 接收人
+												84291 text (文本) :
+												84292 text (文本) 竺杭杰
+												84293 text (文本) 2025-02-03 10:15:35
+												84294 text (文本) [申请人 / 提交]
+												84295 list (列表)
+													84296 text (文本) 共1条
+													84297 list item (列表项目) 第一页 Description: 第一页
+														84298 text (文本) 
+													84299 list item (列表项目) 上一页 Description: 上一页
+														84300 text (文本) 
+													84301 list item (列表项目) 第一页 Description: 第一页
+													84302 list item (列表项目) 下一页 Description: 下一页
+														84303 text (文本) 
+													84304 list item (列表项目) 最后一页 Description: 最后一页
+														84305 text (文本) 
+													84306 group (组)
+														84307 combo box (组合框) (settable, string) Value: 10 条/页
+															84308 text (文本) 10 条/页
+															84309 group (组)
+													84310 text (文本) 跳至
+													84311 text field (编辑) (settable, string) Value: 1
+													84312 text (文本) 页
+											84129 group (组)
+										84314 group (组)
+										84315 group (组) ID: ascrail2000
+											84316 group (组)
+								15543 document (文档) Value: chrome://newtab-footer/ ID: RootWebArea
+									15544 hyperlink (链接) Unsplash Instant
+									15545 button (切换按钮) 自定义 Chrome Description: 自定义此页 ID: customizeButton
+										15546 image (图形) ID: baseSvg
+										15547 text (文本) 自定义 Chrome
+							15548 pane (区域)
+						15549 pane (区域)
+							15550 pane (区域)
+								15551 button (按钮) 标签页搜索
+							15552 pane (区域) ID: view_21
+								15553 tab (选项卡)
+									15554 tab item (选项卡项目) (selectable) GaussDB字符集UTF8影响 - DeepSeek - 内存用量 - 141 MB ID: view_20
+										15555 button (按钮) 关闭
+									15556 tab item (选项卡项目) (selectable) Merge Requests · Dashboard · GitLab ID: view_20
+										15557 button (按钮) 关闭
+									15558 tab item (选项卡项目) (selectable) 衡泰技术个人门户 - 内存用量 - 251 MB ID: view_20
+										15559 button (按钮) 关闭
+									15560 tab item (选项卡项目) (selectable) 出差申请及报销流程-竺杭杰-2025-02-03 - 内存用量 - 385 MB ID: view_20
+										15561 button (按钮) 关闭
+									15562 tab item (选项卡项目) (selectable) 中证整体步骤梳理 - 内存用量 - 634 MB ID: view_20
+										15563 button (按钮) 关闭
+									15564 tab item (选项卡项目) (selectable) 需求变更记录 - 内存用量 - 521 MB ID: view_20
+										15565 button (按钮) 关闭
+									15566 tab item (选项卡项目) (selectable) 2026年11月 - 内存用量 - 494 MB ID: view_20
+										15567 button (按钮) 关闭
+									15568 tab item (选项卡项目) (selectable) 中证周会 - 内存用量 - 486 MB ID: view_20
+										15569 button (按钮) 关闭
+									15570 tab item (选项卡项目) (selectable) 在线Markdown编辑器 - 免费实时预览编辑器 ID: view_20
+										15571 button (按钮) 关闭
+									15572 tab item (选项卡项目) (selectable) V2EX - 内存用量 - 109 MB ID: view_20
+										15573 button (按钮) 关闭
+									15574 tab item (选项卡项目) (selectable) 泼墨成画 - V2EX - 内存用量 - 133 MB ID: view_20
+										15575 button (按钮) 关闭
+								15576 pane (区域)
+							15577 button (按钮) 新标签页
+							15578 pane (区域)
+							15579 pane (区域)
+								15580 button (按钮) 打开 Chrome 中的 Gemini
+								15581 pane (区域)
+						15582 pane (区域)
+
+Document text: ```
+Unsplash Instant
+￼
+￼
+自定义 Chrome
+```
+
+Focused element: 15504 text field (编辑) (settable, string) 地址和搜索栏 Description: 问问 Google 或输入网址 Value: oa.xquant.com/spa/workflow/static4form/index.html?_rdm=1794988538487#/main/workflow/req?requestid=1285584&_key=dvzx94 ID: view_1012
+
+Document text:
+Unsplash Instant
+￼
+￼
+自定义 Chrome

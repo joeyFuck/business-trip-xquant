@@ -1,0 +1,806 @@
+Window: "出差申请及报销流程-竺杭杰-2023-03-03 - Google Chrome", App: chrome.exe.
+	0 window (窗口) 出差申请及报销流程-竺杭杰-2023-03-03 - Google Chrome Secondary Actions: Raise
+		15488 pane (窗格) (disabled)
+		15489 pane (区域) 出差申请及报销流程-竺杭杰-2023-03-03 - Google Chrome
+			15490 pane (区域)
+				15491 pane (区域)
+					15492 pane (区域)
+						15493 button (按钮) 最小化 ID: view_1
+						15494 button (按钮) 最大化 ID: view_2
+						15495 button (按钮) 关闭 ID: view_4
+					15496 pane (区域)
+						15497 pane (区域)
+							15498 toolbar (工具栏) ID: view_1000
+								15499 button (按钮) 返回 ID: view_1001
+								15500 button (按钮) (disabled) 前进 ID: view_1002
+								15501 button (按钮) 重新加载 ID: view_1003
+								15502 group (组)
+									15503 button (按钮) 查看网站信息 ID: view_1011
+									15504 text field (编辑) (settable, string) 地址和搜索栏 Description: 问问 Google 或输入网址 Value: oa.xquant.com/spa/workflow/static4form/index.html?_rdm=1794988691356#/main/workflow/req?requestid=881421&_key=r6v61m ID: view_1012
+									15505 pane (区域)
+										90104 button (按钮) 为此标签页添加书签
+								15507 pane (区域)
+									15508 button (按钮) Postman Interceptor 可以访问此网站 ID: view_1009
+									15509 button (按钮) 扩展程序 ID: view_1006
+								15510 pane (区域)
+								15511 button (按钮) 杭杰 ID: view_1018
+								15512 button (按钮) Chrome ID: view_1007
+							15513 toolbar (工具栏) 书签 ID: view_1025
+								15514 toolbar (工具栏) 已保存的标签页分组
+									15515 button (按钮) 标签页分组
+								15516 separator (分隔符) 分隔符
+								15517 button (书签文件夹按钮) 历史 ID: view_1028
+								15518 button (书签文件夹按钮) 站点 ID: view_1028
+								15519 button (书签文件夹按钮) 社区 ID: view_1028
+								15520 button (书签文件夹按钮) 工具 ID: view_1028
+								15521 button (书签文件夹按钮) 公司 ID: view_1028
+								15522 button (书签文件夹按钮) 信创 ID: view_1028
+								15523 button (书签文件夹按钮) 数据库 ID: view_1028
+								15524 button (书签文件夹按钮) 性能 ID: view_1028
+								15525 button (书签文件夹按钮) 前端 ID: view_1028
+								15526 button (书签文件夹按钮) java ID: view_1028
+								15527 button (书签文件夹按钮) python ID: view_1028
+								15528 button (书签文件夹按钮) 金融 ID: view_1028
+								15529 button (书签文件夹按钮) 业务模块 ID: view_1028
+								15530 button (书签文件夹按钮) 数理统计 ID: view_1028
+								15531 button (书签文件夹按钮) AIGC ID: view_1028
+								15532 button (书签文件夹按钮) linux ID: view_1028
+								15533 button (书签文件夹按钮) 运维 ID: view_1028
+								15534 button (书签文件夹按钮) SAP ID: view_1028
+								15535 button (书签文件夹按钮) 生活 ID: view_1028
+								15536 button (书签文件夹按钮) web3&区块链 ID: view_1028
+								15537 button (书签文件夹按钮) cs ID: view_1028
+								15538 button (书签文件夹按钮) hotel ID: view_1028
+						15539 pane (区域)
+							15540 pane (区域)
+								15541 pane (区域)
+								90105 document (文档) 出差申请及报销流程-竺杭杰-2023-03-03 Value: https://oa.xquant.com/spa/workflow/static4form/index.html?_rdm=1794988691356#/main/workflow/req?requestid=881421&_key=r6v61m ID: RootWebArea
+									90106 group (组)
+										90117 text (文本) 
+										90118 text (文本) 流程:处理 - 出差申请及报销流程 - 提交
+										90119 text (文本) CLSQBX-2023030312993
+										90108 tab (选项卡)
+											90109 tab item (选项卡项目) (selectable) 流程表单
+											90110 tab item (选项卡项目) (selectable) 流程图
+											90111 tab item (选项卡项目) (selectable) 流程状态
+											90120 tab item (选项卡项目) (selectable) 相关资源
+										90112 pane (选项卡面板)
+										90113 group (组)
+											90121 text (文本) 
+										90122 group (组)
+											90123 table (表格)
+												90124 data item (行)
+													90125 data item (项)
+													90126 data item (项) 员工出差申请及报销流程
+													90127 data item (项)
+												90128 data item (行)
+													90129 data item (项)
+													90130 data item (项) 标题
+													90131 data item (项) 出差申请及报销流程-竺杭杰-2023-03-03
+														90132 group (组)
+													90133 data item (项) 流程编号
+													90134 data item (项) CLSQBX-2023030312993
+														90135 group (组)
+													90136 data item (项)
+												90137 data item (行)
+													90138 data item (项)
+													90139 data item (项) 申请人
+													90140 data item (项) 竺杭杰
+														90141 group (组)
+															90142 hyperlink (链接) 竺杭杰 Description: 竺杭杰
+													90143 data item (项) 申请日期
+													90144 data item (项) 2023-03-03
+														90145 group (组)
+													90146 data item (项)
+												90147 data item (行)
+													90148 data item (项)
+													90149 data item (项) 申请人部门
+													90150 data item (项) 信用及数管业务线/信用管理及公共/信用管理组 杭州衡泰技术股份有限公司
+														90151 group (组)
+															90152 hyperlink (链接) 信用及数管业务线/信用管理及公共/信用管理组 Description: 信用及数管业务线/信用管理及公共/信用管理组
+														90153 group (组)
+															90154 hyperlink (链接) 杭州衡泰技术股份有限公司 Description: 杭州衡泰技术股份有限公司
+													90155 data item (项) 属地
+													90156 data item (项) 杭州
+														90157 group (组)
+															90158 hyperlink (链接) 杭州 Description: 杭州
+													90159 data item (项)
+												90160 data item (行)
+													90161 data item (项)
+													90162 data item (项) 费用承担部门
+													90163 data item (项) 信用及数管业务线/信用管理及公共/信用管理组 请选到末级部门！
+														90164 group (组)
+															90165 hyperlink (链接) 信用及数管业务线/信用管理及公共/信用管理组 Description: 信用及数管业务线/信用管理及公共/信用管理组
+													90166 data item (项) 团队内分组
+													90167 data item (项) 开发二组
+														90168 group (组)
+													90169 data item (项)
+												90170 data item (行)
+													90171 data item (项)
+													90172 data item (项) 人员属性
+													90173 data item (项) 成本
+														90174 group (组)
+													90175 data item (项) 性别
+													90176 data item (项) 男
+														90177 group (组)
+													90178 data item (项)
+												90179 data item (行)
+													90180 data item (项)
+													90181 data item (项) ——出差申请内容——
+													90182 data item (项)
+												90183 data item (行)
+													90184 data item (项)
+													90185 data item (项) 出差事由
+													90186 data item (项) 鲁信出差
+														90187 group (组)
+													90188 data item (项)
+												90189 data item (行)
+													90190 data item (项)
+													90191 data item (项) 出差实际开始日期
+													90192 data item (项) 2023-03-05 09:00
+														90193 group (组)
+														90194 group (组)
+													90195 data item (项) 出差预计开始日期
+													90196 data item (项) 2023-03-05 09:00
+														90197 group (组)
+														90198 group (组)
+													90199 data item (项)
+												90200 data item (行)
+													90201 data item (项)
+													90202 data item (项) 出差实际结束日期
+													90203 data item (项) 2023-03-08 18:00
+														90204 group (组)
+														90205 group (组)
+													90206 data item (项) 出差预计结束日期
+													90207 data item (项) 2023-03-08 18:00
+														90208 group (组)
+														90209 group (组)
+													90210 data item (项)
+												90211 data item (行)
+													90212 data item (项)
+													90213 data item (项) 备注
+													90214 data item (项)
+														90215 group (组)
+													90216 data item (项)
+													90217 data item (项)
+													90218 data item (项)
+												90219 data item (行)
+													90220 data item (项)
+													90221 data item (项) ——出差报销内容——
+													90222 data item (项)
+												90223 data item (行)
+													90224 data item (项)
+													90225 data item (项) 入账公司
+													90226 data item (项) 杭州衡泰技术股份有限公司
+														90227 group (组)
+															90228 hyperlink (链接) 杭州衡泰技术股份有限公司 Description: 杭州衡泰技术股份有限公司
+													90229 data item (项) 预算部门
+													90230 data item (项) 信用及数管业务线
+														90231 group (组)
+															90232 hyperlink (链接) 信用及数管业务线 Description: 信用及数管业务线
+													90233 data item (项)
+												90234 data item (行)
+													90235 data item (项)
+													90236 data item (项) 合计报销金额
+													90237 data item (项) 2177.00
+														90238 group (组)
+													90239 data item (项) 预算科目
+													90240 data item (项)
+														90241 group (组)
+													90242 data item (项)
+												90243 data item (行)
+													90244 data item (项)
+													90245 data item (项) 合计发票金额
+													90246 data item (项) 0.00
+														90247 group (组)
+													90248 data item (项) 付款金额
+													90249 data item (项) 2177.00
+														90250 group (组)
+													90251 data item (项)
+												90252 data item (行)
+													90253 data item (项)
+													90254 data item (项) 携程与个人报销总费用
+													90255 data item (项) 2177.00
+														90256 group (组)
+													90257 data item (项)
+												90258 data item (行)
+													90259 data item (项)
+													90260 data item (项) 发票类别
+													90261 data item (项) 混合（纯纸质发票/电子纸质都有） 纯电子发票无需提供纸质件
+														90262 group (组)
+													90263 data item (项) 冲销借款金额
+													90264 data item (项)
+														90265 group (组)
+													90266 data item (项)
+												90267 data item (行)
+													90268 data item (项)
+													90269 data item (项) 总挂账金额
+													90270 data item (项)
+														90271 group (组)
+													90272 data item (项) 总扣款金额
+													90273 data item (项)
+														90274 group (组)
+													90275 data item (项)
+												90276 data item (行)
+													90277 data item (项)
+													90278 data item (项) 预算信息
+													90279 data item (项)
+														90280 group (组)
+													90281 data item (项)
+												90282 data item (行)
+													90283 data item (项)
+													90284 data item (项) 财务核定事由
+													90285 data item (项) 鲁信出差
+														90286 group (组)
+													90287 data item (项)
+												90288 data item (行)
+													90289 data item (项)
+													90290 data item (项) 补贴标准（例如：小明的出差补贴是150/天，交通补贴是300/月，折算后每日差补：150-300/30=140/天）
+													90291 data item (项)
+												90292 data item (行)
+													90293 data item (项)
+													90294 data item (项) 出差补贴
+													90295 data item (项) 150
+														90296 group (组)
+													90297 data item (项) 交通补贴（工资中已发放）
+													90298 data item (项) 0
+														90299 group (组)
+													90300 data item (项)
+												90301 data item (行)
+													90302 data item (项)
+													90303 data item (项)
+													90304 data item (项) 订单详情
+													90305 data item (项)
+													90306 data item (项)
+													90307 data item (项)
+												90308 data item (行)
+													90309 data item (项)
+													90310 data item (项) 内容加载中，请稍候...
+														90311 image (未加标签的图片) 要获取缺失的图片说明，请打开上下文菜单。
+													90312 data item (项)
+												90313 data item (行)
+													90314 data item (项)
+													90315 data item (项)
+														90316 table (表格) ID: oTable0
+															90317 data item (行)
+																90318 data item (项)
+																90319 data item (项)
+																90320 data item (项)
+																90321 data item (项)
+																90322 data item (项)
+																90323 data item (项)
+																90324 data item (项)
+																90325 data item (项)
+																90326 data item (项)
+																90327 data item (项)
+																90328 data item (项)
+																90329 data item (项)
+																90330 data item (项)
+																90331 data item (项)
+																90332 data item (项)
+																90333 data item (项)
+																90334 data item (项)
+																90335 data item (项)
+															90336 data item (行)
+																90337 data item (项) 通过携程商旅平台公司垫付费用明细
+																90338 data item (项) 提示：同一订单如果有同行人，可复制新增明细行，将携程的结算金额，平摊到相应出行人的报销金额中。
+																90339 data item (项)
+															90340 data item (行)
+																90341 data item (项)
+																	90342 checkbox (复选框) (disabled)
+																90343 data item (项) 序号
+																90344 data item (项) 费用项目
+																90345 data item (项) 项目
+																90346 data item (项) 会计科目编码
+																90347 data item (项) 承担部门
+																90348 data item (项) 出行人
+																90349 data item (项) 预算扣减金额
+																90350 data item (项) 结算金额
+																90351 data item (项) 扣款金额
+																90352 data item (项) 税率
+																90353 data item (项) 税额
+																90354 data item (项) 不含税金额
+																90355 data item (项) 费用日期
+																90356 data item (项) 起始城市
+																90357 data item (项) 到达城市
+																90358 data item (项) 酒店天数
+																90359 data item (项) 酒店差标
+															90360 data item (行)
+																90361 data item (项) 合计
+																90362 data item (项) 0.00
+																90363 data item (项) 0.00
+																90364 data item (项)
+																90365 data item (项)
+																90366 data item (项)
+																90367 data item (项)
+																90368 data item (项)
+																90369 data item (项)
+																90370 data item (项)
+																90371 data item (项)
+																90372 data item (项)
+													90373 data item (项)
+												90374 data item (行)
+													90375 data item (项)
+													90376 data item (项)
+													90377 data item (项)
+													90378 data item (项)
+													90379 data item (项)
+													90380 data item (项)
+												90381 data item (行)
+													90382 data item (项)
+													90383 data item (项)
+														90384 table (表格) ID: oTable1
+															90385 data item (行)
+																90386 data item (项)
+																90387 data item (项)
+																90388 data item (项)
+																90389 data item (项)
+																90390 data item (项)
+																90391 data item (项)
+																90392 data item (项)
+																90393 data item (项)
+																90394 data item (项)
+																90395 data item (项)
+																90396 data item (项)
+																90397 data item (项)
+																90398 data item (项)
+																90399 data item (项)
+																90400 data item (项)
+																90401 data item (项)
+																90402 data item (项)
+																90403 data item (项)
+																90404 data item (项)
+																90405 data item (项)
+																90406 data item (项)
+																90407 data item (项)
+																90408 data item (项)
+																90409 data item (项)
+																90410 data item (项)
+															90411 data item (行)
+																90412 data item (项) 个人报销明细表
+																90413 data item (项)
+																90414 data item (项)
+																90415 data item (项)
+																90416 data item (项)
+																90417 data item (项)
+																90418 data item (项)
+																90419 data item (项)
+																90420 data item (项)
+																90421 data item (项)
+																90422 data item (项)
+																90423 data item (项)
+																90424 data item (项)
+																90425 data item (项)
+																90426 data item (项)
+																90427 data item (项)
+																90428 data item (项)
+																90429 data item (项)
+																90430 data item (项)
+																90431 data item (项)
+																90432 data item (项)
+																90433 data item (项)
+															90434 data item (行)
+																90435 data item (项)
+																	90436 checkbox (复选框) (disabled)
+																90437 data item (项) 序号
+																90438 data item (项) 费用日期
+																90439 data item (项) 费用项目
+																90440 data item (项) 项目
+																90441 data item (项) 会计科目编码
+																90442 data item (项) 承担主体
+																90443 data item (项) 出行人
+																90444 data item (项) 报销人
+																90445 data item (项) 出差开始日期
+																90446 data item (项) 出差结束日期
+																90447 data item (项) 住宿天数
+																90448 data item (项) 起始城市
+																90449 data item (项) 到达城市
+																90450 data item (项) 发票类型
+																90451 data item (项) 发票号码
+																90452 data item (项) 发票金额
+																90453 data item (项) 报销金额
+																90454 data item (项) 财务核定金额（预算扣减金额）
+																90455 data item (项) 说明
+																90456 data item (项) 税率
+																90457 data item (项) 税额
+																90458 data item (项) 不含税金额
+																90459 data item (项) 相关发票
+																90460 data item (项) 附件
+															90461 data item (行)
+																90462 data item (项)
+																	90463 checkbox (复选框) (disabled)
+																90464 data item (项) 1
+																90465 data item (项) 2023-03-14
+																	90466 group (组)
+																90467 data item (项) 差旅费＞差旅费-火车
+																	90468 group (组)
+																		90469 hyperlink (链接) 差旅费＞差旅费-火车 Description: 差旅费＞差旅费-火车
+																90470 data item (项) 系统运维
+																	90471 group (组)
+																		90472 hyperlink (链接) 系统运维 Description: 系统运维
+																90473 data item (项) 5201006
+																	90474 group (组)
+																90475 data item (项) 信用及数管业务线
+																	90476 group (组)
+																		90477 hyperlink (链接) 信用及数管业务线 Description: 信用及数管业务线
+																90478 data item (项) 竺杭杰
+																	90479 group (组)
+																		90480 hyperlink (链接) 竺杭杰 Description: 竺杭杰
+																90481 data item (项) 竺杭杰
+																	90482 group (组)
+																		90483 hyperlink (链接) 竺杭杰 Description: 竺杭杰
+																90484 data item (项) 2023-03-05
+																	90485 group (组)
+																90486 data item (项) 2023-03-08
+																	90487 group (组)
+																90488 data item (项)
+																	90489 group (组)
+																90490 data item (项) 杭州
+																	90491 group (组)
+																90492 data item (项) 济南
+																	90493 group (组)
+																90494 data item (项)
+																	90495 group (组)
+																90496 data item (项)
+																	90497 group (组)
+																90498 data item (项) 0.00
+																	90499 group (组)
+																90500 data item (项) 418.50
+																	90501 group (组)
+																90502 data item (项) 418.50
+																	90503 group (组)
+																90504 data item (项)
+																	90505 group (组)
+																90506 data item (项) 0.09
+																	90507 group (组)
+																90508 data item (项) 34.56
+																	90509 group (组)
+																90510 data item (项) 383.94
+																	90511 group (组)
+																90512 data item (项)
+																	90513 group (组)
+																90514 data item (项)
+																	90515 group (组)
+															90516 data item (行)
+																90517 data item (项)
+																	90518 checkbox (复选框) (disabled)
+																90519 data item (项) 2
+																90520 data item (项) 2023-03-14
+																	90521 group (组)
+																90522 data item (项) 差旅费＞差旅费-火车
+																	90523 group (组)
+																		90524 hyperlink (链接) 差旅费＞差旅费-火车 Description: 差旅费＞差旅费-火车
+																90525 data item (项) 系统运维
+																	90526 group (组)
+																		90527 hyperlink (链接) 系统运维 Description: 系统运维
+																90528 data item (项) 5201006
+																	90529 group (组)
+																90530 data item (项) 信用及数管业务线
+																	90531 group (组)
+																		90532 hyperlink (链接) 信用及数管业务线 Description: 信用及数管业务线
+																90533 data item (项) 竺杭杰
+																	90534 group (组)
+																		90535 hyperlink (链接) 竺杭杰 Description: 竺杭杰
+																90536 data item (项) 竺杭杰
+																	90537 group (组)
+																		90538 hyperlink (链接) 竺杭杰 Description: 竺杭杰
+																90539 data item (项) 2023-03-05
+																	90540 group (组)
+																90541 data item (项) 2023-03-08
+																	90542 group (组)
+																90543 data item (项)
+																	90544 group (组)
+																90545 data item (项) 济南
+																	90546 group (组)
+																90547 data item (项) 杭州
+																	90548 group (组)
+																90549 data item (项)
+																	90550 group (组)
+																90551 data item (项)
+																	90552 group (组)
+																90553 data item (项) 0.00
+																	90554 group (组)
+																90555 data item (项) 407.50
+																	90556 group (组)
+																90557 data item (项) 407.50
+																	90558 group (组)
+																90559 data item (项)
+																	90560 group (组)
+																90561 data item (项) 0.09
+																	90562 group (组)
+																90563 data item (项) 33.65
+																	90564 group (组)
+																90565 data item (项) 373.85
+																	90566 group (组)
+																90567 data item (项)
+																	90568 group (组)
+																90569 data item (项)
+																	90570 group (组)
+															90571 data item (行)
+																90572 data item (项)
+																	90573 checkbox (复选框) (disabled)
+																90574 data item (项) 3
+																90575 data item (项) 2023-03-14
+																	90576 group (组)
+																90577 data item (项) 差旅费＞差旅费-住宿费
+																	90578 group (组)
+																		90579 hyperlink (链接) 差旅费＞差旅费-住宿费 Description: 差旅费＞差旅费-住宿费
+																90580 data item (项) 系统运维
+																	90581 group (组)
+																		90582 hyperlink (链接) 系统运维 Description: 系统运维
+																90583 data item (项) 5201009
+																	90584 group (组)
+																90585 data item (项) 信用及数管业务线
+																	90586 group (组)
+																		90587 hyperlink (链接) 信用及数管业务线 Description: 信用及数管业务线
+																90588 data item (项) 竺杭杰
+																	90589 group (组)
+																		90590 hyperlink (链接) 竺杭杰 Description: 竺杭杰
+																90591 data item (项) 竺杭杰
+																	90592 group (组)
+																		90593 hyperlink (链接) 竺杭杰 Description: 竺杭杰
+																90594 data item (项) 2023-03-05
+																	90595 group (组)
+																90596 data item (项) 2023-03-08
+																	90597 group (组)
+																90598 data item (项) 3
+																	90599 group (组)
+																90600 data item (项) 杭州
+																	90601 group (组)
+																90602 data item (项) 济南
+																	90603 group (组)
+																90604 data item (项)
+																	90605 group (组)
+																90606 data item (项)
+																	90607 group (组)
+																90608 data item (项) 0.00
+																	90609 group (组)
+																90610 data item (项) 826.00
+																	90611 group (组)
+																90612 data item (项) 826.00
+																	90613 group (组)
+																90614 data item (项)
+																	90615 group (组)
+																90616 data item (项) 0.00
+																	90617 group (组)
+																90618 data item (项) 0.00
+																	90619 group (组)
+																90620 data item (项) 826.00
+																	90621 group (组)
+																90622 data item (项)
+																	90623 group (组)
+																90624 data item (项)
+																	90625 group (组)
+															90626 data item (行)
+																90627 data item (项)
+																	90628 checkbox (复选框) (disabled)
+																90629 data item (项) 4
+																90630 data item (项) 2023-03-14
+																	90631 group (组)
+																90632 data item (项) 差旅费＞差旅费-出差补贴
+																	90633 group (组)
+																		90634 hyperlink (链接) 差旅费＞差旅费-出差补贴 Description: 差旅费＞差旅费-出差补贴
+																90635 data item (项) 系统运维
+																	90636 group (组)
+																		90637 hyperlink (链接) 系统运维 Description: 系统运维
+																90638 data item (项) 5201010
+																	90639 group (组)
+																90640 data item (项) 信用及数管业务线
+																	90641 group (组)
+																		90642 hyperlink (链接) 信用及数管业务线 Description: 信用及数管业务线
+																90643 data item (项) 竺杭杰
+																	90644 group (组)
+																		90645 hyperlink (链接) 竺杭杰 Description: 竺杭杰
+																90646 data item (项) 竺杭杰
+																	90647 group (组)
+																		90648 hyperlink (链接) 竺杭杰 Description: 竺杭杰
+																90649 data item (项) 2023-03-05
+																	90650 group (组)
+																90651 data item (项) 2023-03-08
+																	90652 group (组)
+																90653 data item (项)
+																	90654 group (组)
+																90655 data item (项) 杭州
+																	90656 group (组)
+																90657 data item (项) 济南
+																	90658 group (组)
+																90659 data item (项)
+																	90660 group (组)
+																90661 data item (项)
+																	90662 group (组)
+																90663 data item (项) 0.00
+																	90664 group (组)
+																90665 data item (项) 525.00
+																	90666 group (组)
+																90667 data item (项) 525.00
+																	90668 group (组)
+																90669 data item (项) 3.5*150=525
+																	90670 group (组)
+																90671 data item (项) 0.00
+																	90672 group (组)
+																90673 data item (项) 0.00
+																	90674 group (组)
+																90675 data item (项) 525.00
+																	90676 group (组)
+																90677 data item (项)
+																	90678 group (组)
+																90679 data item (项)
+																	90680 group (组)
+															90681 data item (行)
+																90682 data item (项) 合计
+																90683 data item (项)
+																90684 data item (项)
+																90685 data item (项)
+																90686 data item (项)
+																90687 data item (项)
+																90688 data item (项)
+																90689 data item (项)
+																90690 data item (项)
+																90691 data item (项)
+																90692 data item (项)
+																90693 data item (项)
+																90694 data item (项)
+																90695 data item (项)
+																90696 data item (项)
+																90697 data item (项)
+																90698 data item (项)
+																90699 data item (项)
+																90700 data item (项)
+																90701 data item (项)
+																90702 data item (项)
+																90703 data item (项)
+																90704 data item (项)
+																90705 data item (项)
+													90706 data item (项)
+												90707 data item (行)
+													90708 data item (项)
+													90709 data item (项)
+														90710 table (表格) ID: oTable3
+															90711 data item (行)
+																90712 data item (项)
+																90713 data item (项)
+																90714 data item (项)
+																90715 data item (项)
+																90716 data item (项)
+																90717 data item (项)
+																90718 data item (项)
+																90719 data item (项)
+																90720 data item (项)
+																90721 data item (项)
+																90722 data item (项)
+															90723 data item (行)
+																90724 data item (项) 冲销借款明细
+																90725 data item (项)
+																90726 data item (项)
+																90727 data item (项)
+																90728 data item (项)
+																90729 data item (项)
+																90730 data item (项)
+															90731 data item (行)
+																90732 data item (项)
+																	90733 checkbox (复选框) (disabled)
+																90734 data item (项) 序号
+																90735 data item (项) 借款人
+																90736 data item (项) 借款流程
+																90737 data item (项) 借款单单号
+																90738 data item (项) 借款部门
+																90739 data item (项) 核定项目
+																90740 data item (项) 费用说明
+																90741 data item (项) 每单借款余额
+																90742 data item (项) 冲销借款金额
+																90743 data item (项) 在途冲销金额
+															90744 data item (行)
+																90745 data item (项)
+																90746 data item (项)
+																90747 data item (项)
+																90748 data item (项)
+																90749 data item (项)
+																90750 data item (项)
+																90751 data item (项)
+																90752 data item (项)
+																90753 data item (项)
+																90754 data item (项) 0.00
+																90755 data item (项)
+													90756 data item (项)
+												90757 data item (行)
+													90758 data item (项)
+													90759 data item (项)
+														90760 table (表格) ID: oTable2
+															90761 data item (行)
+																90762 data item (项)
+																90763 data item (项)
+																90764 data item (项)
+																90765 data item (项)
+																90766 data item (项)
+																90767 data item (项)
+															90768 data item (行)
+																90769 data item (项) 打款明细
+																90770 data item (项)
+																90771 data item (项)
+																90772 data item (项)
+																90773 data item (项)
+															90774 data item (行)
+																90775 data item (项)
+																	90776 checkbox (复选框) (disabled)
+																90777 data item (项) 序号
+																90778 data item (项) 姓名
+																90779 data item (项) 账号信息
+																90780 data item (项) 银行支行信息
+																90781 data item (项) 金额
+															90782 data item (行)
+																90783 data item (项)
+																	90784 checkbox (复选框) (disabled)
+																90785 data item (项) 1
+																90786 data item (项) 竺杭杰
+																	90787 group (组)
+																		90788 hyperlink (链接) 竺杭杰 Description: 竺杭杰
+																90789 data item (项) 623061571025897609
+																	90790 group (组)
+																90791 data item (项) 杭州银行
+																	90792 group (组)
+																90793 data item (项) 2177.00
+																	90794 group (组)
+													90795 data item (项)
+											90796 menu (菜单)
+												90797 menu item (菜单项)
+											90798 group (组)
+												90799 text (文本) 
+											90800 text (文本) |
+											90801 group (组)
+												90802 text (文本) 
+										90803 group (组)
+								15543 document (文档) Value: chrome://newtab-footer/ ID: RootWebArea
+									15544 hyperlink (链接) Unsplash Instant
+									15545 button (切换按钮) 自定义 Chrome Description: 自定义此页 ID: customizeButton
+										15546 image (图形) ID: baseSvg
+										15547 text (文本) 自定义 Chrome
+							15548 pane (区域)
+						15549 pane (区域)
+							15550 pane (区域)
+								15551 button (按钮) 标签页搜索
+							15552 pane (区域) ID: view_21
+								15553 tab (选项卡)
+									15554 tab item (选项卡项目) (selectable) GaussDB字符集UTF8影响 - DeepSeek - 内存用量 - 141 MB ID: view_20
+										15555 button (按钮) 关闭
+									15556 tab item (选项卡项目) (selectable) Merge Requests · Dashboard · GitLab ID: view_20
+										15557 button (按钮) 关闭
+									15558 tab item (选项卡项目) (selectable) 衡泰技术个人门户 - 内存用量 - 251 MB ID: view_20
+										15559 button (按钮) 关闭
+									15560 tab item (选项卡项目) (selectable) 出差申请及报销流程-竺杭杰-2023-03-03 ID: view_20
+										15561 button (按钮) 关闭
+									15562 tab item (选项卡项目) (selectable) 中证整体步骤梳理 - 内存用量 - 634 MB ID: view_20
+										15563 button (按钮) 关闭
+									15564 tab item (选项卡项目) (selectable) 需求变更记录 - 内存用量 - 521 MB ID: view_20
+										15565 button (按钮) 关闭
+									15566 tab item (选项卡项目) (selectable) 2026年11月 - 内存用量 - 494 MB ID: view_20
+										15567 button (按钮) 关闭
+									15568 tab item (选项卡项目) (selectable) 中证周会 - 内存用量 - 486 MB ID: view_20
+										15569 button (按钮) 关闭
+									15570 tab item (选项卡项目) (selectable) 在线Markdown编辑器 - 免费实时预览编辑器 ID: view_20
+										15571 button (按钮) 关闭
+									15572 tab item (选项卡项目) (selectable) V2EX - 内存用量 - 109 MB ID: view_20
+										15573 button (按钮) 关闭
+									15574 tab item (选项卡项目) (selectable) 泼墨成画 - V2EX - 内存用量 - 133 MB ID: view_20
+										15575 button (按钮) 关闭
+								15576 pane (区域)
+							15577 button (按钮) 新标签页
+							15578 pane (区域)
+							15579 pane (区域)
+								15580 button (按钮) 打开 Chrome 中的 Gemini
+								15581 pane (区域)
+						15582 pane (区域)
+
+Document text: ```
+Unsplash Instant
+￼
+￼
+自定义 Chrome
+```
+
+Focused element: 15504 text field (编辑) (settable, string) 地址和搜索栏 Description: 问问 Google 或输入网址 Value: oa.xquant.com/spa/workflow/static4form/index.html?_rdm=1794988691356#/main/workflow/req?requestid=881421&_key=r6v61m ID: view_1012
+
+Document text:
+Unsplash Instant
+￼
+￼
+自定义 Chrome

@@ -1,0 +1,916 @@
+Window: "出差申请及报销流程-竺杭杰-2026-08-03 - Google Chrome", App: chrome.exe.
+	0 window (窗口) 出差申请及报销流程-竺杭杰-2026-08-03 - Google Chrome Secondary Actions: Raise
+		15488 pane (窗格) (disabled)
+		15489 pane (区域) 出差申请及报销流程-竺杭杰-2026-08-03 - Google Chrome
+			15490 pane (区域)
+				15491 pane (区域)
+					15492 pane (区域)
+						15493 button (按钮) 最小化 ID: view_1
+						15494 button (按钮) 最大化 ID: view_2
+						15495 button (按钮) 关闭 ID: view_4
+					15496 pane (区域)
+						15497 pane (区域)
+							15498 toolbar (工具栏) ID: view_1000
+								15499 button (按钮) 返回 ID: view_1001
+								15500 button (按钮) (disabled) 前进 ID: view_1002
+								15501 button (按钮) 重新加载 ID: view_1003
+								15502 group (组)
+									15503 button (按钮) 查看网站信息 ID: view_1011
+									15504 text field (编辑) (settable, string) 地址和搜索栏 Description: 问问 Google 或输入网址 Value: oa.xquant.com/workflow/request/ViewRequestForwardSPA.jsp?requestid=1685380 ID: view_1012
+									15505 pane (区域)
+										17228 button (按钮) 为此标签页添加书签
+								15507 pane (区域)
+									15508 button (按钮) Postman Interceptor 可以访问此网站 ID: view_1009
+									15509 button (按钮) 扩展程序 ID: view_1006
+								15510 pane (区域)
+								15511 button (按钮) 杭杰 ID: view_1018
+								15512 button (按钮) Chrome ID: view_1007
+							15513 toolbar (工具栏) 书签 ID: view_1025
+								15514 toolbar (工具栏) 已保存的标签页分组
+									15515 button (按钮) 标签页分组
+								15516 separator (分隔符) 分隔符
+								15517 button (书签文件夹按钮) 历史 ID: view_1028
+								15518 button (书签文件夹按钮) 站点 ID: view_1028
+								15519 button (书签文件夹按钮) 社区 ID: view_1028
+								15520 button (书签文件夹按钮) 工具 ID: view_1028
+								15521 button (书签文件夹按钮) 公司 ID: view_1028
+								15522 button (书签文件夹按钮) 信创 ID: view_1028
+								15523 button (书签文件夹按钮) 数据库 ID: view_1028
+								15524 button (书签文件夹按钮) 性能 ID: view_1028
+								15525 button (书签文件夹按钮) 前端 ID: view_1028
+								15526 button (书签文件夹按钮) java ID: view_1028
+								15527 button (书签文件夹按钮) python ID: view_1028
+								15528 button (书签文件夹按钮) 金融 ID: view_1028
+								15529 button (书签文件夹按钮) 业务模块 ID: view_1028
+								15530 button (书签文件夹按钮) 数理统计 ID: view_1028
+								15531 button (书签文件夹按钮) AIGC ID: view_1028
+								15532 button (书签文件夹按钮) linux ID: view_1028
+								15533 button (书签文件夹按钮) 运维 ID: view_1028
+								15534 button (书签文件夹按钮) SAP ID: view_1028
+								15535 button (书签文件夹按钮) 生活 ID: view_1028
+								15536 button (书签文件夹按钮) web3&区块链 ID: view_1028
+								15537 button (书签文件夹按钮) cs ID: view_1028
+								15538 button (书签文件夹按钮) hotel ID: view_1028
+						15539 pane (区域)
+							15540 pane (区域)
+								15541 pane (区域)
+								16404 document (文档) 出差申请及报销流程-竺杭杰-2026-08-03 Value: https://oa.xquant.com/spa/workflow/static4form/index.html?_rdm=1794987162609#/main/workflow/req?requestid=1691077&_key=ntc7db ID: RootWebArea
+									16405 group (组)
+										16417 text (文本) 
+										17106 text (文本) 流程:处理 - 出差申请及报销流程 - 提交
+										17107 text (文本) CLSQBX-2026080336419
+										17108 group (组) Description: 关注
+											17109 text (文本) 
+										16407 tab (选项卡)
+											16408 tab item (选项卡项目) (selectable) 流程表单
+											16409 tab item (选项卡项目) (selectable) 流程图
+											16410 tab item (选项卡项目) (selectable) 流程状态
+										16411 pane (选项卡面板)
+										17110 button (按钮) 转 发 Description: 转发
+										16412 group (组)
+											17111 text (文本) 
+										16422 group (组)
+											16423 table (表格)
+												16424 data item (行)
+													16425 data item (项)
+													16426 data item (项) 员工出差申请及报销流程
+													16427 data item (项)
+												16428 data item (行)
+													16429 data item (项)
+													16430 data item (项) 标题
+													16431 data item (项) 出差申请及报销流程-竺杭杰-2026-08-03
+														16432 group (组)
+													16433 data item (项) 流程编号
+													16434 data item (项) CLSQBX-2026080336419
+														16435 group (组)
+													16436 data item (项)
+												16437 data item (行)
+													16438 data item (项)
+													16439 data item (项) 申请人
+													16440 data item (项) 竺杭杰
+														16441 group (组)
+															16442 hyperlink (链接) 竺杭杰 Description: 竺杭杰
+													16443 data item (项) 申请日期
+													16444 data item (项) 2026-08-03
+														16445 group (组)
+													16446 data item (项)
+												16447 data item (行)
+													16448 data item (项)
+													16449 data item (项) 申请人部门
+													16450 data item (项) 信用及数管业务线/信用管理及公共/信用管理组 杭州衡泰技术股份有限公司
+														16451 group (组)
+															16452 hyperlink (链接) 信用及数管业务线/信用管理及公共/信用管理组 Description: 信用及数管业务线/信用管理及公共/信用管理组
+														16453 group (组)
+															16454 hyperlink (链接) 杭州衡泰技术股份有限公司 Description: 杭州衡泰技术股份有限公司
+													16455 data item (项) 属地
+													16456 data item (项) 杭州
+														16457 group (组)
+															16458 hyperlink (链接) 杭州 Description: 杭州
+													16459 data item (项)
+												16460 data item (行)
+													16461 data item (项)
+													16462 data item (项) 费用承担部门
+													16463 data item (项) 信用及数管业务线/信用管理及公共/信用管理组 请选到末级部门！
+														16464 group (组)
+															16465 hyperlink (链接) 信用及数管业务线/信用管理及公共/信用管理组 Description: 信用及数管业务线/信用管理及公共/信用管理组
+													16466 data item (项) 团队内分组
+													16467 data item (项) /
+														16468 group (组)
+													16469 data item (项)
+												16470 data item (行)
+													16471 data item (项)
+													16472 data item (项) 人员属性
+													16473 data item (项) 成本
+														16474 group (组)
+													16475 data item (项) 性别
+													16476 data item (项) 男
+														16477 group (组)
+													16478 data item (项)
+												16479 data item (行)
+													16480 data item (项)
+													16481 data item (项) ——出差申请内容——
+													16482 data item (项)
+												16483 data item (行)
+													16484 data item (项)
+													16485 data item (项) 出差事由
+													16486 data item (项) 中证驻场
+														16487 group (组)
+													16488 data item (项)
+												16489 data item (行)
+													16490 data item (项)
+													16491 data item (项) 出差实际开始日期
+													16492 data item (项) 2026-08-03 08:00
+														16493 group (组)
+														16494 group (组)
+													16495 data item (项) 出差预计开始日期
+													16496 data item (项) 2026-08-03 08:00
+														16497 group (组)
+														16498 group (组)
+													16499 data item (项)
+												16500 data item (行)
+													16501 data item (项)
+													16502 data item (项) 出差实际结束日期
+													16503 data item (项) 2026-08-07 18:00
+														16504 group (组)
+														16505 group (组)
+													16506 data item (项) 出差预计结束日期
+													16507 data item (项) 2026-08-07 18:00
+														16508 group (组)
+														16509 group (组)
+													16510 data item (项)
+												16511 data item (行)
+													16512 data item (项)
+													16513 data item (项) 出差天数
+													16514 data item (项) 5
+														16515 group (组)
+													16516 data item (项) 床铺单价
+													16517 data item (项)
+														16518 group (组)
+													16519 data item (项)
+												16520 data item (行)
+													16521 data item (项)
+													16522 data item (项) 出差期间是否需要打卡
+													16523 data item (项) 是
+														16524 group (组)
+													16525 data item (项)
+													16526 data item (项)
+													16527 data item (项)
+												16528 data item (行)
+													16529 data item (项)
+													16530 data item (项) 宿舍类别
+													16531 data item (项) 专项宿舍
+														16532 group (组)
+													16533 data item (项) 宿舍
+													16534 data item (项) 上海市浦东新区花木路828弄6号502室
+														16535 group (组)
+															16536 hyperlink (链接) 上海市浦东新区花木路828弄6号502室 Description: 上海市浦东新区花木路828弄6号502室
+													16537 data item (项)
+												16538 data item (行)
+													16539 data item (项)
+													16540 data item (项) 是否申请员工宿舍
+													16541 data item (项) 是
+														16542 group (组)
+													16543 data item (项) 宿舍床铺信息表
+													16544 data item (项) 宿舍情况表
+														16545 group (组)
+															16546 hyperlink (链接) 宿舍情况表 Value: https://oa.xquant.com/spa/cube/index.html#/main/cube/search?customid=7
+													16547 data item (项)
+												16548 data item (行)
+													16549 data item (项)
+													16550 data item (项) 住宿时间
+													16551 data item (项) 2026-08-03 —— 2026-08-07
+														16552 group (组)
+														16553 group (组)
+													16554 data item (项) 宿舍总支出
+													16555 data item (项) 0.00
+														16556 group (组)
+													16557 data item (项)
+												16558 data item (行)
+													16559 data item (项)
+													16560 data item (项) 备注
+													16561 data item (项)
+														16562 group (组)
+													16563 data item (项) 住宿天数
+													16564 data item (项) 4.00
+														16565 group (组)
+													16566 data item (项)
+												16567 data item (行)
+													16568 data item (项)
+													16569 data item (项) 同住人
+													16570 data item (项)
+														16571 group (组)
+													16572 data item (项)
+													16573 data item (项)
+													16574 data item (项)
+												16575 data item (行)
+													16576 data item (项)
+													16577 data item (项) ——出差报销内容——
+													16578 data item (项)
+												16579 data item (行)
+													16580 data item (项)
+													16581 data item (项) 入账公司
+													16582 data item (项) 杭州衡泰技术股份有限公司
+														16583 group (组)
+															16584 hyperlink (链接) 杭州衡泰技术股份有限公司 Description: 杭州衡泰技术股份有限公司
+													16585 data item (项) 预算部门
+													16586 data item (项) 信用及数管业务线/信用管理及公共
+														16587 group (组)
+															16588 hyperlink (链接) 信用及数管业务线/信用管理及公共 Description: 信用及数管业务线/信用管理及公共
+													16589 data item (项)
+												16590 data item (行)
+													16591 data item (项)
+													16592 data item (项) 合计报销金额
+													16593 data item (项) 624.00
+														16594 group (组)
+													16595 data item (项) 预算科目
+													16596 data item (项)
+														16597 group (组)
+													16598 data item (项)
+												16599 data item (行)
+													16600 data item (项)
+													16601 data item (项) 合计发票金额
+													16602 data item (项) 255.00
+														16603 group (组)
+													16604 data item (项) 付款金额
+													16605 data item (项) 624.00
+														16606 group (组)
+													16607 data item (项)
+												16608 data item (行)
+													16609 data item (项)
+													16610 data item (项) 携程与个人报销总费用
+													16611 data item (项) 624.00
+														16612 group (组)
+													16613 data item (项)
+												16614 data item (行)
+													16615 data item (项)
+													16616 data item (项) 发票类别
+													16617 data item (项) 纯电子发票 纯电子发票无需提供纸质件
+														16618 group (组)
+													16619 data item (项) 冲销借款金额
+													16620 data item (项)
+														16621 group (组)
+													16622 data item (项)
+												16623 data item (行)
+													16624 data item (项)
+													16625 data item (项) 总挂账金额
+													16626 data item (项)
+														16627 group (组)
+													16628 data item (项) 总扣款金额
+													16629 data item (项)
+														16630 group (组)
+													16631 data item (项)
+												16632 data item (行)
+													16633 data item (项)
+													16634 data item (项) 预算信息
+													16635 data item (项)
+														16636 group (组)
+													16637 data item (项)
+												16638 data item (行)
+													16639 data item (项)
+													16640 data item (项) 财务核定事由
+													16641 data item (项) 中证驻场
+														16642 group (组)
+													16643 data item (项)
+												16644 data item (行)
+													16645 data item (项)
+													16646 data item (项) 补贴标准（例如：小明的出差补贴是100/天，交通补贴是300/月，折算后每日差补：100-300/30=90/天）
+													16647 data item (项)
+												16648 data item (行)
+													16649 data item (项)
+													16650 data item (项) 出差补贴
+													16651 data item (项) 100
+														16652 group (组)
+													16653 data item (项) 交通补贴（工资中已发放）
+													16654 data item (项) 0
+														16655 group (组)
+													16656 data item (项)
+												16657 data item (行)
+													16658 data item (项)
+													16659 data item (项)
+													16660 data item (项) 订单详情
+													16661 data item (项)
+													16662 data item (项)
+													16663 data item (项)
+												16664 data item (行)
+													16665 data item (项)
+													16666 data item (项)
+														17112 document (文档) Value: https://oa.xquant.com/interface/ctrip/CtripOrderList.jsp?requestid=1691077 ID: RootWebArea
+															17113 table (表格)
+															17114 hyperlink (链接) 单击取消 Description: 单击取消 Value: javascript:;
+													16668 data item (项)
+												16669 data item (行)
+													16670 data item (项)
+													16671 data item (项)
+														16672 table (表格) ID: oTable0
+															16673 data item (行)
+																16674 data item (项)
+																16675 data item (项)
+																16676 data item (项)
+																16677 data item (项)
+																16678 data item (项)
+																16679 data item (项)
+																16680 data item (项)
+																16681 data item (项)
+																16682 data item (项)
+																16683 data item (项)
+																16684 data item (项)
+																16685 data item (项)
+																16686 data item (项)
+																16687 data item (项)
+																16688 data item (项)
+																16689 data item (项)
+																16690 data item (项)
+																16691 data item (项)
+															16692 data item (行)
+																16693 data item (项) 通过携程商旅平台公司垫付费用明细
+																16694 data item (项)
+																16695 data item (项)
+															16696 data item (行)
+																16697 data item (项)
+																	16698 checkbox (复选框) (disabled)
+																16699 data item (项) 序号
+																16700 data item (项) 费用项目
+																16701 data item (项) 项目
+																16702 data item (项) 会计科目编码
+																16703 data item (项) 承担部门
+																16704 data item (项) 出行人
+																16705 data item (项) 预算扣减金额
+																16706 data item (项) 结算金额
+																16707 data item (项) 扣款金额
+																16708 data item (项) 税率
+																16709 data item (项) 税额
+																16710 data item (项) 不含税金额
+																16711 data item (项) 费用日期
+																16712 data item (项) 起始城市
+																16713 data item (项) 到达城市
+																16714 data item (项) 酒店天数
+																16715 data item (项) 酒店差标
+															16716 data item (行)
+																16717 data item (项) 合计
+																16718 data item (项) 0.00
+																16719 data item (项) 0.00
+																16720 data item (项)
+																16721 data item (项)
+																16722 data item (项)
+																16723 data item (项)
+																16724 data item (项)
+																16725 data item (项)
+																16726 data item (项)
+																16727 data item (项)
+																16728 data item (项)
+													16729 data item (项)
+												16730 data item (行)
+													16731 data item (项)
+													16732 data item (项)
+													16733 data item (项)
+													16734 data item (项)
+													16735 data item (项)
+													16736 data item (项)
+												16737 data item (行)
+													16738 data item (项)
+													16739 data item (项)
+														16740 table (表格) ID: oTable1
+															16741 data item (行)
+																16742 data item (项)
+																16743 data item (项)
+																16744 data item (项)
+																16745 data item (项)
+																16746 data item (项)
+																16747 data item (项)
+																16748 data item (项)
+																16749 data item (项)
+																16750 data item (项)
+																16751 data item (项)
+																16752 data item (项)
+																16753 data item (项)
+																16754 data item (项)
+																16755 data item (项)
+																16756 data item (项)
+																16757 data item (项)
+																16758 data item (项)
+																16759 data item (项)
+																16760 data item (项)
+																16761 data item (项)
+																16762 data item (项)
+																16763 data item (项)
+																16764 data item (项)
+																16765 data item (项)
+																16766 data item (项)
+															16767 data item (行)
+																16768 data item (项) 个人报销明细表
+																16769 data item (项)
+																16770 data item (项)
+																16771 data item (项)
+																16772 data item (项)
+																16773 data item (项)
+																16774 data item (项)
+																16775 data item (项)
+																16776 data item (项)
+																16777 data item (项)
+																16778 data item (项)
+																16779 data item (项)
+																16780 data item (项)
+																16781 data item (项)
+																16782 data item (项)
+																16783 data item (项)
+																16784 data item (项)
+																16785 data item (项)
+																16786 data item (项)
+																16787 data item (项)
+																16788 data item (项)
+																16789 data item (项)
+															16790 data item (行)
+																16791 data item (项)
+																	16792 checkbox (复选框) (disabled)
+																16793 data item (项) 序号
+																16794 data item (项) 费用日期
+																16795 data item (项) 费用项目
+																16796 data item (项) 项目
+																16797 data item (项) 会计科目编码
+																16798 data item (项) 承担主体
+																16799 data item (项) 出行人
+																16800 data item (项) 报销人
+																16801 data item (项) 出差开始日期
+																16802 data item (项) 出差结束日期
+																16803 data item (项) 住宿天数
+																16804 data item (项) 起始城市
+																16805 data item (项) 到达城市
+																16806 data item (项) 发票类型
+																16807 data item (项) 发票号码
+																16808 data item (项) 发票金额
+																16809 data item (项) 报销金额
+																16810 data item (项) 财务核定金额（预算扣减金额）
+																16811 data item (项) 说明
+																16812 data item (项) 税率
+																16813 data item (项) 税额
+																16814 data item (项) 不含税金额
+																16815 data item (项) 相关发票
+																16816 data item (项) 附件
+															16817 data item (行)
+																16818 data item (项)
+																	16819 checkbox (复选框) (disabled)
+																16820 data item (项) 1
+																16821 data item (项) 2026-08-11
+																	16822 group (组)
+																16823 data item (项) 差旅费＞差旅费-火车
+																	16824 group (组)
+																		16825 hyperlink (链接) 差旅费＞差旅费-火车 Description: 差旅费＞差旅费-火车
+																16826 data item (项) 中证指数xCIRMS1.02026-2027年度新一代估值系统建设项目
+																	16827 group (组)
+																		16828 hyperlink (链接) 中证指数xCIRMS1.02026-2027年度新一代估值系统建设项目 Description: 中证指数xCIRMS1.02026-2027年度新一代估值系统建设项目
+																16829 data item (项) 5201006
+																	16830 group (组)
+																16831 data item (项) 信用及数管业务线/信用管理及公共
+																	16832 group (组)
+																		16833 hyperlink (链接) 信用及数管业务线/信用管理及公共 Description: 信用及数管业务线/信用管理及公共
+																16834 data item (项) 竺杭杰
+																	16835 group (组)
+																		16836 hyperlink (链接) 竺杭杰 Description: 竺杭杰
+																16837 data item (项) 竺杭杰
+																	16838 group (组)
+																		16839 hyperlink (链接) 竺杭杰 Description: 竺杭杰
+																16840 data item (项) 2026-08-03
+																	16841 group (组)
+																16842 data item (项) 2026-08-07
+																	16843 group (组)
+																16844 data item (项)
+																	16845 group (组)
+																16846 data item (项) 杭州
+																	16847 group (组)
+																16848 data item (项) 上海
+																	16849 group (组)
+																16850 data item (项) 电子发票（铁路电子客票）
+																	16851 group (组)
+																16852 data item (项) 26319166100010566496
+																	16853 group (组)
+																		17115 hyperlink (链接) 26319166100010566496
+																16854 data item (项) 145.00
+																	16855 group (组)
+																16856 data item (项) 87.00
+																	16857 group (组)
+																16858 data item (项) 87.00
+																	16859 group (组)
+																16860 data item (项)
+																	16861 group (组)
+																16862 data item (项) 0.00
+																	16863 group (组)
+																16864 data item (项) 0.00
+																	16865 group (组)
+																16866 data item (项) 87.00
+																	16867 group (组)
+																16868 data item (项) 260811_145.00_电子发票（铁路电子客票）.pdf
+																	16869 group (组)
+																		16870 hyperlink (链接) 260811_145.00_电子发票（铁路电子客票）.pdf
+																16871 data item (项)
+																	16872 group (组)
+															16873 data item (行)
+																16874 data item (项)
+																	16875 checkbox (复选框) (disabled)
+																16876 data item (项) 2
+																16877 data item (项) 2026-08-11
+																	16878 group (组)
+																16879 data item (项) 差旅费＞差旅费-火车
+																	16880 group (组)
+																		16881 hyperlink (链接) 差旅费＞差旅费-火车 Description: 差旅费＞差旅费-火车
+																16882 data item (项) 中证指数xCIRMS1.02026-2027年度新一代估值系统建设项目
+																	16883 group (组)
+																		16884 hyperlink (链接) 中证指数xCIRMS1.02026-2027年度新一代估值系统建设项目 Description: 中证指数xCIRMS1.02026-2027年度新一代估值系统建设项目
+																16885 data item (项) 5201006
+																	16886 group (组)
+																16887 data item (项) 信用及数管业务线/信用管理及公共
+																	16888 group (组)
+																		16889 hyperlink (链接) 信用及数管业务线/信用管理及公共 Description: 信用及数管业务线/信用管理及公共
+																16890 data item (项) 竺杭杰
+																	16891 group (组)
+																		16892 hyperlink (链接) 竺杭杰 Description: 竺杭杰
+																16893 data item (项) 竺杭杰
+																	16894 group (组)
+																		16895 hyperlink (链接) 竺杭杰 Description: 竺杭杰
+																16896 data item (项) 2026-08-03
+																	16897 group (组)
+																16898 data item (项) 2026-08-07
+																	16899 group (组)
+																16900 data item (项)
+																	16901 group (组)
+																16902 data item (项) 上海
+																	16903 group (组)
+																16904 data item (项) 杭州
+																	16905 group (组)
+																16906 data item (项) 电子发票（铁路电子客票）
+																	16907 group (组)
+																16908 data item (项) 26939133191000555870
+																	16909 group (组)
+																		17116 hyperlink (链接) 26939133191000555870
+																16910 data item (项) 110.00
+																	16911 group (组)
+																16912 data item (项) 87.00
+																	16913 group (组)
+																16914 data item (项) 87.00
+																	16915 group (组)
+																16916 data item (项)
+																	16917 group (组)
+																16918 data item (项) 0.00
+																	16919 group (组)
+																16920 data item (项) 0.00
+																	16921 group (组)
+																16922 data item (项) 87.00
+																	16923 group (组)
+																16924 data item (项) 260811_110.00_电子发票（铁路电子客票）.pdf
+																	16925 group (组)
+																		16926 hyperlink (链接) 260811_110.00_电子发票（铁路电子客票）.pdf
+																16927 data item (项)
+																	16928 group (组)
+															16929 data item (行)
+																16930 data item (项)
+																	16931 checkbox (复选框) (disabled)
+																16932 data item (项) 3
+																16933 data item (项) 2026-08-11
+																	16934 group (组)
+																16935 data item (项) 差旅费＞差旅费-出差补贴
+																	16936 group (组)
+																		16937 hyperlink (链接) 差旅费＞差旅费-出差补贴 Description: 差旅费＞差旅费-出差补贴
+																16938 data item (项) 中证指数xCIRMS1.02026-2027年度新一代估值系统建设项目
+																	16939 group (组)
+																		16940 hyperlink (链接) 中证指数xCIRMS1.02026-2027年度新一代估值系统建设项目 Description: 中证指数xCIRMS1.02026-2027年度新一代估值系统建设项目
+																16941 data item (项) 5201010
+																	16942 group (组)
+																16943 data item (项) 信用及数管业务线/信用管理及公共
+																	16944 group (组)
+																		16945 hyperlink (链接) 信用及数管业务线/信用管理及公共 Description: 信用及数管业务线/信用管理及公共
+																16946 data item (项) 竺杭杰
+																	16947 group (组)
+																		16948 hyperlink (链接) 竺杭杰 Description: 竺杭杰
+																16949 data item (项) 竺杭杰
+																	16950 group (组)
+																		16951 hyperlink (链接) 竺杭杰 Description: 竺杭杰
+																16952 data item (项) 2026-08-03
+																	16953 group (组)
+																16954 data item (项) 2026-08-07
+																	16955 group (组)
+																16956 data item (项)
+																	16957 group (组)
+																16958 data item (项) 杭州
+																	16959 group (组)
+																16960 data item (项) 上海
+																	16961 group (组)
+																16962 data item (项)
+																	16963 group (组)
+																16964 data item (项)
+																	16965 group (组)
+																16966 data item (项) 0.00
+																	16967 group (组)
+																16968 data item (项) 450.00
+																	16969 group (组)
+																16970 data item (项) 450.00
+																	16971 group (组)
+																16972 data item (项) (5-0.5)*100
+																	16973 group (组)
+																16974 data item (项) 0.00
+																	16975 group (组)
+																16976 data item (项) 0.00
+																	16977 group (组)
+																16978 data item (项) 450.00
+																	16979 group (组)
+																16980 data item (项)
+																	16981 group (组)
+																16982 data item (项)
+																	16983 group (组)
+															16984 data item (行)
+																16985 data item (项) 合计
+																16986 data item (项)
+																16987 data item (项)
+																16988 data item (项)
+																16989 data item (项)
+																16990 data item (项)
+																16991 data item (项)
+																16992 data item (项)
+																16993 data item (项)
+																16994 data item (项)
+																16995 data item (项)
+																16996 data item (项)
+																16997 data item (项)
+																16998 data item (项)
+																16999 data item (项)
+																17000 data item (项)
+																17001 data item (项)
+																17002 data item (项)
+																17003 data item (项)
+																17004 data item (项)
+																17005 data item (项)
+																17006 data item (项)
+																17007 data item (项)
+																17008 data item (项)
+													17009 data item (项)
+												17010 data item (行)
+													17011 data item (项)
+													17012 data item (项)
+														17013 table (表格) ID: oTable3
+															17014 data item (行)
+																17015 data item (项)
+																17016 data item (项)
+																17017 data item (项)
+																17018 data item (项)
+																17019 data item (项)
+																17020 data item (项)
+																17021 data item (项)
+																17022 data item (项)
+																17023 data item (项)
+																17024 data item (项)
+																17025 data item (项)
+															17026 data item (行)
+																17027 data item (项) 冲销借款明细
+																17028 data item (项)
+																17029 data item (项)
+																17030 data item (项)
+																17031 data item (项)
+																17032 data item (项)
+																17033 data item (项)
+															17034 data item (行)
+																17035 data item (项)
+																	17036 checkbox (复选框) (disabled)
+																17037 data item (项) 序号
+																17038 data item (项) 借款人
+																17039 data item (项) 借款流程
+																17040 data item (项) 借款单单号
+																17041 data item (项) 借款部门
+																17042 data item (项) 核定项目
+																17043 data item (项) 费用说明
+																17044 data item (项) 每单借款余额
+																17045 data item (项) 冲销借款金额
+																17046 data item (项) 在途冲销金额
+															17047 data item (行)
+																17048 data item (项)
+																17049 data item (项)
+																17050 data item (项)
+																17051 data item (项)
+																17052 data item (项)
+																17053 data item (项)
+																17054 data item (项)
+																17055 data item (项)
+																17056 data item (项)
+																17057 data item (项) 0.00
+																17058 data item (项)
+													17059 data item (项)
+												17060 data item (行)
+													17061 data item (项)
+													17062 data item (项)
+														17063 table (表格) ID: oTable2
+															17064 data item (行)
+																17065 data item (项)
+																17066 data item (项)
+																17067 data item (项)
+																17068 data item (项)
+																17069 data item (项)
+																17070 data item (项)
+															17071 data item (行)
+																17072 data item (项) 打款明细
+																17073 data item (项)
+																17074 data item (项)
+																17075 data item (项)
+																17076 data item (项)
+															17077 data item (行)
+																17078 data item (项)
+																	17079 checkbox (复选框) (disabled)
+																17080 data item (项) 序号
+																17081 data item (项) 姓名
+																17082 data item (项) 账号信息
+																17083 data item (项) 银行支行信息
+																17084 data item (项) 金额
+															17085 data item (行)
+																17086 data item (项)
+																	17087 checkbox (复选框) (disabled)
+																17088 data item (项) 1
+																17089 data item (项) 竺杭杰
+																	17090 group (组)
+																		17091 hyperlink (链接) 竺杭杰 Description: 竺杭杰
+																17092 data item (项) 623061571025897609
+																	17093 group (组)
+																17094 data item (项) 杭州银行
+																	17095 group (组)
+																17096 data item (项) 624.00
+																	17097 group (组)
+													17098 data item (项)
+											17099 menu (菜单)
+												17100 menu item (菜单项) 流转意见
+												17117 menu item (菜单项) 与我相关
+											17101 group (组)
+												17102 text (文本) 
+											17103 text (文本) |
+											17104 group (组)
+												17105 text (文本) 
+											17192 text (文本) 洪霞
+											17118 hyperlink (链接) 卓洪霞 Value: javascript:openhrm(4113)
+											17119 hyperlink (链接) 职能总部/财务部/财务组 Value: https://oa.xquant.com/spa/hrm/engine.html#/hrmengine/organization?showTree=false&isView=1&type=department&id=255&_key=3b4uab
+											17120 text (文本) 接收人
+											17121 text (文本) :
+											17122 text (文本) 竺杭杰 卓洪霞
+											17123 text (文本) 2026-08-18 11:14:35
+											17124 text (文本) [出纳 / 批准]
+											17193 text (文本) 李兰
+											17125 hyperlink (链接) 李兰 Value: javascript:openhrm(2237)
+											17126 hyperlink (链接) 职能总部/财务部/财务组 Value: https://oa.xquant.com/spa/hrm/engine.html#/hrmengine/organization?showTree=false&isView=1&type=department&id=255&_key=3b4uab
+											17127 text (文本) 接收人
+											17128 text (文本) :
+											17129 text (文本) 卓洪霞
+											17130 text (文本) 2026-08-17 16:50:13
+											17131 text (文本) [财务一级审核 / 批准]
+											17194 text (文本) 占锋
+											17132 hyperlink (链接) 胡占锋 Value: javascript:openhrm(11)
+											17133 hyperlink (链接) 职能总部/公司高层/经营层 Value: https://oa.xquant.com/spa/hrm/engine.html#/hrmengine/organization?showTree=false&isView=1&type=department&id=209&_key=3b4uab
+											17134 text (文本) 接收人
+											17135 text (文本) :
+											17136 text (文本) 郭莎莎 李兰
+											17137 text (文本) 2026-08-17 15:55:47
+											17138 text (文本) [业务线高管 / 批准]
+											17195 text (文本) 三星
+											17139 hyperlink (链接) 毛三星 Value: javascript:openhrm(16)
+											17140 hyperlink (链接) 信用及数管业务线/信用管理及公共/管理层 Value: https://oa.xquant.com/spa/hrm/engine.html#/hrmengine/organization?showTree=false&isView=1&type=department&id=1255&_key=3b4uab
+											17141 text (文本) 
+											17142 text (文本) 系统自动批准
+											17143 text (文本) 接收人
+											17144 text (文本) :
+											17145 text (文本) 胡占锋
+											17146 text (文本) 2026-08-14 15:02:51
+											17147 text (文本) [一级部门负责人 / 批准]
+											17196 text (文本) 三星
+											17148 hyperlink (链接) 毛三星 Value: javascript:openhrm(16)
+											17149 hyperlink (链接) 信用及数管业务线/信用管理及公共/管理层 Value: https://oa.xquant.com/spa/hrm/engine.html#/hrmengine/organization?showTree=false&isView=1&type=department&id=1255&_key=3b4uab
+											17150 text (文本) 
+											17151 text (文本) 系统自动批准
+											17152 text (文本) 接收人
+											17153 text (文本) :
+											17154 text (文本) 毛三星
+											17155 text (文本) 2026-08-14 15:02:46
+											17156 text (文本) [二级部门负责人 / 批准]
+											17197 text (文本) 三星
+											17157 hyperlink (链接) 毛三星 Value: javascript:openhrm(16)
+											17158 hyperlink (链接) 信用及数管业务线/信用管理及公共/管理层 Value: https://oa.xquant.com/spa/hrm/engine.html#/hrmengine/organization?showTree=false&isView=1&type=department&id=1255&_key=3b4uab
+											17159 text (文本) 接收人
+											17160 text (文本) :
+											17161 text (文本) 毛三星
+											17162 text (文本) 2026-08-14 15:02:44
+											17163 text (文本) [三级负责人审核 / 批准]
+											17198 text (文本) 晨晨
+											17164 hyperlink (链接) 罗晨晨 Value: javascript:openhrm(38)
+											17165 hyperlink (链接) 职能总部/行政部/行政组 Value: https://oa.xquant.com/spa/hrm/engine.html#/hrmengine/organization?showTree=false&isView=1&type=department&id=197&_key=3b4uab
+											17166 text (文本) 接收人
+											17167 text (文本) :
+											17168 text (文本) 毛三星
+											17169 text (文本) 2026-08-12 09:38:44
+											17170 text (文本) [商旅管理员复核 / 批准]
+											17171 hyperlink (链接) 竺杭杰 Value: javascript:openhrm(755)
+											17172 hyperlink (链接) 信用及数管业务线/信用管理及公共/信用管理组 Value: https://oa.xquant.com/spa/hrm/engine.html#/hrmengine/organization?showTree=false&isView=1&type=department&id=794&_key=3b4uab
+											17173 text (文本) 接收人
+											17174 text (文本) :
+											17175 text (文本) 罗晨晨
+											17176 text (文本) 2026-08-12 08:49:53
+											17177 text (文本) [同行人确认 / 批准]
+											17178 hyperlink (链接) 竺杭杰 Value: javascript:openhrm(755)
+											17179 hyperlink (链接) 信用及数管业务线/信用管理及公共/信用管理组 Value: https://oa.xquant.com/spa/hrm/engine.html#/hrmengine/organization?showTree=false&isView=1&type=department&id=794&_key=3b4uab
+											17180 text (文本) 接收人
+											17181 text (文本) :
+											17182 text (文本) 竺杭杰
+											17183 text (文本) 2026-08-12 08:49:44
+											17184 text (文本) [申请人报销 / 提交]
+											17185 hyperlink (链接) 竺杭杰 Value: javascript:openhrm(755)
+											17186 hyperlink (链接) 信用及数管业务线/信用管理及公共/信用管理组 Value: https://oa.xquant.com/spa/hrm/engine.html#/hrmengine/organization?showTree=false&isView=1&type=department&id=794&_key=3b4uab
+											17187 text (文本) 接收人
+											17188 text (文本) :
+											17189 text (文本) 竺杭杰
+											17190 text (文本) 2026-08-11 18:15:10
+											17191 text (文本) [1-申请人订票 / 提交]
+											17199 list (列表)
+												17200 text (文本) 共13条
+												17201 list item (列表项目) 第一页 Description: 第一页
+													17202 text (文本) 
+												17203 list item (列表项目) 上一页 Description: 上一页
+													17204 text (文本) 
+												17205 list item (列表项目) 第一页 Description: 第一页
+												17206 list item (列表项目) 2 Description: 2
+												17207 list item (列表项目) 下一页 Description: 下一页
+													17208 text (文本) 
+												17209 list item (列表项目) 最后一页 Description: 最后一页
+													17210 text (文本) 
+												17211 group (组)
+													17212 combo box (组合框) (settable, string) Value: 10 条/页
+														17213 text (文本) 10 条/页
+														17214 group (组)
+												17215 text (文本) 跳至
+												17216 text field (编辑) (settable, string) Value: 1
+												17217 text (文本) 页
+										16416 group (组)
+								15543 document (文档) Value: chrome://newtab-footer/ ID: RootWebArea
+									15544 hyperlink (链接) Unsplash Instant
+									15545 button (切换按钮) 自定义 Chrome Description: 自定义此页 ID: customizeButton
+										15546 image (图形) ID: baseSvg
+										15547 text (文本) 自定义 Chrome
+							15548 pane (区域)
+						15549 pane (区域)
+							15550 pane (区域)
+								15551 button (按钮) 标签页搜索
+							15552 pane (区域) ID: view_21
+								15553 tab (选项卡)
+									15554 tab item (选项卡项目) (selectable) GaussDB字符集UTF8影响 - DeepSeek - 内存用量 - 141 MB ID: view_20
+										15555 button (按钮) 关闭
+									15556 tab item (选项卡项目) (selectable) Merge Requests · Dashboard · GitLab ID: view_20
+										15557 button (按钮) 关闭
+									15558 tab item (选项卡项目) (selectable) 衡泰技术个人门户 - 内存用量 - 251 MB ID: view_20
+										15559 button (按钮) 关闭
+									15560 tab item (选项卡项目) (selectable) oa.xquant.com/spa/workflow/static4form/index.html?_rdm=1794987174200#/main/workflow/req?requestid=1685380 ID: view_20
+										15561 button (按钮) 关闭
+									15562 tab item (选项卡项目) (selectable) 中证整体步骤梳理 - 内存用量 - 634 MB ID: view_20
+										15563 button (按钮) 关闭
+									15564 tab item (选项卡项目) (selectable) 需求变更记录 - 内存用量 - 521 MB ID: view_20
+										15565 button (按钮) 关闭
+									15566 tab item (选项卡项目) (selectable) 2026年11月 - 内存用量 - 494 MB ID: view_20
+										15567 button (按钮) 关闭
+									15568 tab item (选项卡项目) (selectable) 中证周会 - 内存用量 - 486 MB ID: view_20
+										15569 button (按钮) 关闭
+									15570 tab item (选项卡项目) (selectable) 在线Markdown编辑器 - 免费实时预览编辑器 ID: view_20
+										15571 button (按钮) 关闭
+									15572 tab item (选项卡项目) (selectable) V2EX - 内存用量 - 109 MB ID: view_20
+										15573 button (按钮) 关闭
+									15574 tab item (选项卡项目) (selectable) 泼墨成画 - V2EX - 内存用量 - 133 MB ID: view_20
+										15575 button (按钮) 关闭
+								15576 pane (区域)
+							15577 button (按钮) 新标签页
+							15578 pane (区域)
+							15579 pane (区域)
+								15580 button (按钮) 打开 Chrome 中的 Gemini
+								15581 pane (区域)
+						15582 pane (区域)
+
+Document text: ```
+Unsplash Instant
+￼
+￼
+自定义 Chrome
+```
+
+Focused element: 15504 text field (编辑) (settable, string) 地址和搜索栏 Description: 问问 Google 或输入网址 Value: oa.xquant.com/workflow/request/ViewRequestForwardSPA.jsp?requestid=1685380 ID: view_1012
+
+Document text:
+Unsplash Instant
+￼
+￼
+自定义 Chrome

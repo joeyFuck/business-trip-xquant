@@ -1,0 +1,909 @@
+Window: "出差申请及报销流程-竺杭杰-2023-04-12 - Google Chrome", App: chrome.exe.
+	0 window (窗口) 出差申请及报销流程-竺杭杰-2023-04-12 - Google Chrome Secondary Actions: Raise
+		15488 pane (窗格) (disabled)
+		15489 pane (区域) 出差申请及报销流程-竺杭杰-2023-04-12 - Google Chrome
+			15490 pane (区域)
+				15491 pane (区域)
+					15492 pane (区域)
+						15493 button (按钮) 最小化 ID: view_1
+						15494 button (按钮) 最大化 ID: view_2
+						15495 button (按钮) 关闭 ID: view_4
+					15496 pane (区域)
+						15497 pane (区域)
+							15498 toolbar (工具栏) ID: view_1000
+								15499 button (按钮) 返回 ID: view_1001
+								15500 button (按钮) (disabled) 前进 ID: view_1002
+								15501 button (按钮) 重新加载 ID: view_1003
+								15502 group (组)
+									15503 button (按钮) 查看网站信息 ID: view_1011
+									15504 text field (编辑) (settable, string) 地址和搜索栏 Description: 问问 Google 或输入网址 Value: oa.xquant.com/spa/workflow/static4form/index.html?_rdm=1794987691844#/main/workflow/req?requestid=898099&_key=4vg6ra ID: view_1012
+									15505 pane (区域)
+										52977 button (按钮) 为此标签页添加书签
+								15507 pane (区域)
+									15508 button (按钮) Postman Interceptor 可以访问此网站 ID: view_1009
+									15509 button (按钮) 扩展程序 ID: view_1006
+								15510 pane (区域)
+								15511 button (按钮) 杭杰 ID: view_1018
+								15512 button (按钮) Chrome ID: view_1007
+							15513 toolbar (工具栏) 书签 ID: view_1025
+								15514 toolbar (工具栏) 已保存的标签页分组
+									15515 button (按钮) 标签页分组
+								15516 separator (分隔符) 分隔符
+								15517 button (书签文件夹按钮) 历史 ID: view_1028
+								15518 button (书签文件夹按钮) 站点 ID: view_1028
+								15519 button (书签文件夹按钮) 社区 ID: view_1028
+								15520 button (书签文件夹按钮) 工具 ID: view_1028
+								15521 button (书签文件夹按钮) 公司 ID: view_1028
+								15522 button (书签文件夹按钮) 信创 ID: view_1028
+								15523 button (书签文件夹按钮) 数据库 ID: view_1028
+								15524 button (书签文件夹按钮) 性能 ID: view_1028
+								15525 button (书签文件夹按钮) 前端 ID: view_1028
+								15526 button (书签文件夹按钮) java ID: view_1028
+								15527 button (书签文件夹按钮) python ID: view_1028
+								15528 button (书签文件夹按钮) 金融 ID: view_1028
+								15529 button (书签文件夹按钮) 业务模块 ID: view_1028
+								15530 button (书签文件夹按钮) 数理统计 ID: view_1028
+								15531 button (书签文件夹按钮) AIGC ID: view_1028
+								15532 button (书签文件夹按钮) linux ID: view_1028
+								15533 button (书签文件夹按钮) 运维 ID: view_1028
+								15534 button (书签文件夹按钮) SAP ID: view_1028
+								15535 button (书签文件夹按钮) 生活 ID: view_1028
+								15536 button (书签文件夹按钮) web3&区块链 ID: view_1028
+								15537 button (书签文件夹按钮) cs ID: view_1028
+								15538 button (书签文件夹按钮) hotel ID: view_1028
+						15539 pane (区域)
+							15540 pane (区域)
+								15541 pane (区域)
+								52978 document (文档) 出差申请及报销流程-竺杭杰-2023-04-12 Value: https://oa.xquant.com/spa/workflow/static4form/index.html?_rdm=1794987691844#/main/workflow/req?requestid=898099&_key=4vg6ra ID: RootWebArea
+									52979 group (组)
+										52980 text (文本) 
+										52981 text (文本) 流程:处理 - 出差申请及报销流程 - 提交
+										52982 text (文本) CLSQBX-2023041213853
+										52983 group (组) Description: 关注
+											52984 text (文本) 
+										52985 tab (选项卡)
+											52986 tab item (选项卡项目) (selectable) 流程表单
+											52987 tab item (选项卡项目) (selectable) 流程图
+											52988 tab item (选项卡项目) (selectable) 流程状态
+										52989 pane (选项卡面板)
+										52990 button (按钮) 转 发 Description: 转发
+										52991 group (组)
+											52992 text (文本) 
+										52993 group (组)
+											52994 table (表格)
+												52995 data item (行)
+													52996 data item (项)
+													52997 data item (项) 员工出差申请及报销流程
+													52998 data item (项)
+												52999 data item (行)
+													53000 data item (项)
+													53001 data item (项) 标题
+													53002 data item (项) 出差申请及报销流程-竺杭杰-2023-04-12
+														53003 group (组)
+													53004 data item (项) 流程编号
+													53005 data item (项) CLSQBX-2023041213853
+														53006 group (组)
+													53007 data item (项)
+												53008 data item (行)
+													53009 data item (项)
+													53010 data item (项) 申请人
+													53011 data item (项) 竺杭杰
+														53012 group (组)
+															53013 hyperlink (链接) 竺杭杰 Description: 竺杭杰
+													53014 data item (项) 申请日期
+													53015 data item (项) 2023-04-12
+														53016 group (组)
+													53017 data item (项)
+												53018 data item (行)
+													53019 data item (项)
+													53020 data item (项) 申请人部门
+													53021 data item (项) 信用及数管业务线/信用管理及公共/信用管理组 杭州衡泰技术股份有限公司
+														53022 group (组)
+															53023 hyperlink (链接) 信用及数管业务线/信用管理及公共/信用管理组 Description: 信用及数管业务线/信用管理及公共/信用管理组
+														53024 group (组)
+															53025 hyperlink (链接) 杭州衡泰技术股份有限公司 Description: 杭州衡泰技术股份有限公司
+													53026 data item (项) 属地
+													53027 data item (项) 杭州
+														53028 group (组)
+															53029 hyperlink (链接) 杭州 Description: 杭州
+													53030 data item (项)
+												53031 data item (行)
+													53032 data item (项)
+													53033 data item (项) 费用承担部门
+													53034 data item (项) 信用及数管业务线/信用管理及公共/信用管理组 请选到末级部门！
+														53035 group (组)
+															53036 hyperlink (链接) 信用及数管业务线/信用管理及公共/信用管理组 Description: 信用及数管业务线/信用管理及公共/信用管理组
+													53037 data item (项) 团队内分组
+													53038 data item (项) /
+														53039 group (组)
+													53040 data item (项)
+												53041 data item (行)
+													53042 data item (项)
+													53043 data item (项) 人员属性
+													53044 data item (项) 成本
+														53045 group (组)
+													53046 data item (项) 性别
+													53047 data item (项) 男
+														53048 group (组)
+													53049 data item (项)
+												53050 data item (行)
+													53051 data item (项)
+													53052 data item (项) ——出差申请内容——
+													53053 data item (项)
+												53054 data item (行)
+													53055 data item (项)
+													53056 data item (项) 出差事由
+													53057 data item (项) 中泰需求沟通
+														53058 group (组)
+													53059 data item (项)
+												53060 data item (行)
+													53061 data item (项)
+													53062 data item (项) 出差实际开始日期
+													53063 data item (项) 2023-04-12 08:30
+														53064 group (组)
+														53065 group (组)
+													53066 data item (项) 出差预计开始日期
+													53067 data item (项) 2023-04-12 08:30
+														53068 group (组)
+														53069 group (组)
+													53070 data item (项)
+												53071 data item (行)
+													53072 data item (项)
+													53073 data item (项) 出差实际结束日期
+													53074 data item (项) 2023-04-15 19:00
+														53075 group (组)
+														53076 group (组)
+													53077 data item (项) 出差预计结束日期
+													53078 data item (项) 2023-04-15 19:00
+														53079 group (组)
+														53080 group (组)
+													53081 data item (项)
+												53082 data item (行)
+													53083 data item (项)
+													53084 data item (项) 出差天数
+													53085 data item (项) 4
+														53086 group (组)
+													53087 data item (项) 床铺单价
+													53088 data item (项) 75.00
+														53089 group (组)
+													53090 data item (项)
+												53091 data item (行)
+													53092 data item (项)
+													53093 data item (项) 宿舍类别
+													53094 data item (项) 专项宿舍
+														53095 group (组)
+													53096 data item (项) 宿舍
+													53097 data item (项)
+														53098 group (组)
+															53099 hyperlink (链接)
+													53100 data item (项)
+												53101 data item (行)
+													53102 data item (项)
+													53103 data item (项) 是否申请员工宿舍
+													53104 data item (项) 是
+														53105 group (组)
+													53106 data item (项) 宿舍床铺信息表
+													53107 data item (项) 宿舍情况表
+														53108 group (组)
+															53109 hyperlink (链接) 宿舍情况表 Value: https://oa.xquant.com/spa/cube/index.html#/main/cube/search?customid=7
+													53110 data item (项)
+												53111 data item (行)
+													53112 data item (项)
+													53113 data item (项) 住宿时间
+													53114 data item (项) 2023-04-12 —— 2023-04-15
+														53115 group (组)
+														53116 group (组)
+													53117 data item (项) 宿舍总支出
+													53118 data item (项) 225.00
+														53119 group (组)
+													53120 data item (项)
+												53121 data item (行)
+													53122 data item (项)
+													53123 data item (项) 备注
+													53124 data item (项)
+														53125 group (组)
+													53126 data item (项) 住宿天数
+													53127 data item (项) 3.00
+														53128 group (组)
+													53129 data item (项)
+												53130 data item (行)
+													53131 data item (项)
+													53132 data item (项) 同住人
+													53133 data item (项)
+														53134 group (组)
+													53135 data item (项)
+													53136 data item (项)
+													53137 data item (项)
+												53138 data item (行)
+													53139 data item (项)
+													53140 data item (项) ——出差报销内容——
+													53141 data item (项)
+												53142 data item (行)
+													53143 data item (项)
+													53144 data item (项) 入账公司
+													53145 data item (项) 杭州衡泰技术股份有限公司
+														53146 group (组)
+															53147 hyperlink (链接) 杭州衡泰技术股份有限公司 Description: 杭州衡泰技术股份有限公司
+													53148 data item (项) 预算部门
+													53149 data item (项) 信用及数管业务线
+														53150 group (组)
+															53151 hyperlink (链接) 信用及数管业务线 Description: 信用及数管业务线
+													53152 data item (项)
+												53153 data item (行)
+													53154 data item (项)
+													53155 data item (项) 合计报销金额
+													53156 data item (项) 1538.00
+														53157 group (组)
+													53158 data item (项) 预算科目
+													53159 data item (项)
+														53160 group (组)
+													53161 data item (项)
+												53162 data item (行)
+													53163 data item (项)
+													53164 data item (项) 合计发票金额
+													53165 data item (项) 0.00
+														53166 group (组)
+													53167 data item (项) 付款金额
+													53168 data item (项) 1538.00
+														53169 group (组)
+													53170 data item (项)
+												53171 data item (行)
+													53172 data item (项)
+													53173 data item (项) 携程与个人报销总费用
+													53174 data item (项) 1538.00
+														53175 group (组)
+													53176 data item (项)
+												53177 data item (行)
+													53178 data item (项)
+													53179 data item (项) 发票类别
+													53180 data item (项) 混合（纯纸质发票/电子纸质都有） 纯电子发票无需提供纸质件
+														53181 group (组)
+													53182 data item (项) 冲销借款金额
+													53183 data item (项)
+														53184 group (组)
+													53185 data item (项)
+												53186 data item (行)
+													53187 data item (项)
+													53188 data item (项) 总挂账金额
+													53189 data item (项)
+														53190 group (组)
+													53191 data item (项) 总扣款金额
+													53192 data item (项)
+														53193 group (组)
+													53194 data item (项)
+												53195 data item (行)
+													53196 data item (项)
+													53197 data item (项) 预算信息
+													53198 data item (项)
+														53199 group (组)
+													53200 data item (项)
+												53201 data item (行)
+													53202 data item (项)
+													53203 data item (项) 财务核定事由
+													53204 data item (项) 中泰需求沟通
+														53205 group (组)
+													53206 data item (项)
+												53207 data item (行)
+													53208 data item (项)
+													53209 data item (项) 补贴标准（例如：小明的出差补贴是100/天，交通补贴是300/月，折算后每日差补：100-300/30=90/天）
+													53210 data item (项)
+												53211 data item (行)
+													53212 data item (项)
+													53213 data item (项) 出差补贴
+													53214 data item (项)
+														53215 group (组)
+													53216 data item (项) 交通补贴（工资中已发放）
+													53217 data item (项) 0
+														53218 group (组)
+													53219 data item (项)
+												53220 data item (行)
+													53221 data item (项)
+													53222 data item (项)
+													53223 data item (项) 订单详情
+													53224 data item (项)
+													53225 data item (项)
+													53226 data item (项)
+												53227 data item (行)
+													53228 data item (项)
+													53229 data item (项)
+														53230 document (文档) Value: https://oa.xquant.com/interface/ctrip/CtripOrderList.jsp?requestid=898099 ID: RootWebArea
+															53231 table (表格)
+															53232 hyperlink (链接) 单击取消 Description: 单击取消 Value: javascript:;
+													53233 data item (项)
+												53234 data item (行)
+													53235 data item (项)
+													53236 data item (项)
+														53237 table (表格) ID: oTable0
+															53238 data item (行)
+																53239 data item (项)
+																53240 data item (项)
+																53241 data item (项)
+																53242 data item (项)
+																53243 data item (项)
+																53244 data item (项)
+																53245 data item (项)
+																53246 data item (项)
+																53247 data item (项)
+																53248 data item (项)
+																53249 data item (项)
+																53250 data item (项)
+																53251 data item (项)
+																53252 data item (项)
+																53253 data item (项)
+																53254 data item (项)
+																53255 data item (项)
+																53256 data item (项)
+															53257 data item (行)
+																53258 data item (项) 通过携程商旅平台公司垫付费用明细
+																53259 data item (项)
+																53260 data item (项)
+															53261 data item (行)
+																53262 data item (项)
+																	53263 checkbox (复选框) (disabled)
+																53264 data item (项) 序号
+																53265 data item (项) 费用项目
+																53266 data item (项) 项目
+																53267 data item (项) 会计科目编码
+																53268 data item (项) 承担部门
+																53269 data item (项) 出行人
+																53270 data item (项) 预算扣减金额
+																53271 data item (项) 结算金额
+																53272 data item (项) 扣款金额
+																53273 data item (项) 税率
+																53274 data item (项) 税额
+																53275 data item (项) 不含税金额
+																53276 data item (项) 费用日期
+																53277 data item (项) 起始城市
+																53278 data item (项) 到达城市
+																53279 data item (项) 酒店天数
+																53280 data item (项) 酒店差标
+															53281 data item (行)
+																53282 data item (项) 合计
+																53283 data item (项) 0.00
+																53284 data item (项) 0.00
+																53285 data item (项)
+																53286 data item (项)
+																53287 data item (项)
+																53288 data item (项)
+																53289 data item (项)
+																53290 data item (项)
+																53291 data item (项)
+																53292 data item (项)
+																53293 data item (项)
+													53294 data item (项)
+												53295 data item (行)
+													53296 data item (项)
+													53297 data item (项)
+													53298 data item (项)
+													53299 data item (项)
+													53300 data item (项)
+													53301 data item (项)
+												53302 data item (行)
+													53303 data item (项)
+													53304 data item (项)
+														53305 table (表格) ID: oTable1
+															53306 data item (行)
+																53307 data item (项)
+																53308 data item (项)
+																53309 data item (项)
+																53310 data item (项)
+																53311 data item (项)
+																53312 data item (项)
+																53313 data item (项)
+																53314 data item (项)
+																53315 data item (项)
+																53316 data item (项)
+																53317 data item (项)
+																53318 data item (项)
+																53319 data item (项)
+																53320 data item (项)
+																53321 data item (项)
+																53322 data item (项)
+																53323 data item (项)
+																53324 data item (项)
+																53325 data item (项)
+																53326 data item (项)
+																53327 data item (项)
+																53328 data item (项)
+																53329 data item (项)
+																53330 data item (项)
+																53331 data item (项)
+															53332 data item (行)
+																53333 data item (项) 个人报销明细表
+																53334 data item (项)
+																53335 data item (项)
+																53336 data item (项)
+																53337 data item (项)
+																53338 data item (项)
+																53339 data item (项)
+																53340 data item (项)
+																53341 data item (项)
+																53342 data item (项)
+																53343 data item (项)
+																53344 data item (项)
+																53345 data item (项)
+																53346 data item (项)
+																53347 data item (项)
+																53348 data item (项)
+																53349 data item (项)
+																53350 data item (项)
+																53351 data item (项)
+																53352 data item (项)
+																53353 data item (项)
+																53354 data item (项)
+															53355 data item (行)
+																53356 data item (项)
+																	53357 checkbox (复选框) (disabled)
+																53358 data item (项) 序号
+																53359 data item (项) 费用日期
+																53360 data item (项) 费用项目
+																53361 data item (项) 项目
+																53362 data item (项) 会计科目编码
+																53363 data item (项) 承担主体
+																53364 data item (项) 出行人
+																53365 data item (项) 报销人
+																53366 data item (项) 出差开始日期
+																53367 data item (项) 出差结束日期
+																53368 data item (项) 住宿天数
+																53369 data item (项) 起始城市
+																53370 data item (项) 到达城市
+																53371 data item (项) 发票类型
+																53372 data item (项) 发票号码
+																53373 data item (项) 发票金额
+																53374 data item (项) 报销金额
+																53375 data item (项) 财务核定金额（预算扣减金额）
+																53376 data item (项) 说明
+																53377 data item (项) 税率
+																53378 data item (项) 税额
+																53379 data item (项) 不含税金额
+																53380 data item (项) 相关发票
+																53381 data item (项) 附件
+															53382 data item (行)
+																53383 data item (项)
+																	53384 checkbox (复选框) (disabled)
+																53385 data item (项) 1
+																53386 data item (项) 2023-05-04
+																	53387 group (组)
+																53388 data item (项) 差旅费＞差旅费-火车
+																	53389 group (组)
+																		53390 hyperlink (链接) 差旅费＞差旅费-火车 Description: 差旅费＞差旅费-火车
+																53391 data item (项) 售前支持
+																	53392 group (组)
+																		53393 hyperlink (链接) 售前支持 Description: 售前支持
+																53394 data item (项) 6601006
+																	53395 group (组)
+																53396 data item (项) 信用及数管业务线
+																	53397 group (组)
+																		53398 hyperlink (链接) 信用及数管业务线 Description: 信用及数管业务线
+																53399 data item (项) 竺杭杰
+																	53400 group (组)
+																		53401 hyperlink (链接) 竺杭杰 Description: 竺杭杰
+																53402 data item (项) 竺杭杰
+																	53403 group (组)
+																		53404 hyperlink (链接) 竺杭杰 Description: 竺杭杰
+																53405 data item (项) 2023-04-12
+																	53406 group (组)
+																53407 data item (项) 2023-04-14
+																	53408 group (组)
+																53409 data item (项)
+																	53410 group (组)
+																53411 data item (项) 杭州
+																	53412 group (组)
+																53413 data item (项) 北京
+																	53414 group (组)
+																53415 data item (项)
+																	53416 group (组)
+																53417 data item (项)
+																	53418 group (组)
+																53419 data item (项) 0.00
+																	53420 group (组)
+																53421 data item (项) 581.50
+																	53422 group (组)
+																53423 data item (项) 581.50
+																	53424 group (组)
+																53425 data item (项)
+																	53426 group (组)
+																53427 data item (项) 0.09
+																	53428 group (组)
+																53429 data item (项) 48.01
+																	53430 group (组)
+																53431 data item (项) 533.49
+																	53432 group (组)
+																53433 data item (项)
+																	53434 group (组)
+																53435 data item (项)
+																	53436 group (组)
+															53437 data item (行)
+																53438 data item (项)
+																	53439 checkbox (复选框) (disabled)
+																53440 data item (项) 2
+																53441 data item (项) 2023-05-04
+																	53442 group (组)
+																53443 data item (项) 差旅费＞差旅费-火车
+																	53444 group (组)
+																		53445 hyperlink (链接) 差旅费＞差旅费-火车 Description: 差旅费＞差旅费-火车
+																53446 data item (项) 售前支持
+																	53447 group (组)
+																		53448 hyperlink (链接) 售前支持 Description: 售前支持
+																53449 data item (项) 6601006
+																	53450 group (组)
+																53451 data item (项) 信用及数管业务线
+																	53452 group (组)
+																		53453 hyperlink (链接) 信用及数管业务线 Description: 信用及数管业务线
+																53454 data item (项) 竺杭杰
+																	53455 group (组)
+																		53456 hyperlink (链接) 竺杭杰 Description: 竺杭杰
+																53457 data item (项) 竺杭杰
+																	53458 group (组)
+																		53459 hyperlink (链接) 竺杭杰 Description: 竺杭杰
+																53460 data item (项) 2023-04-12
+																	53461 group (组)
+																53462 data item (项) 2023-04-14
+																	53463 group (组)
+																53464 data item (项)
+																	53465 group (组)
+																53466 data item (项) 杭州
+																	53467 group (组)
+																53468 data item (项) 北京
+																	53469 group (组)
+																53470 data item (项)
+																	53471 group (组)
+																53472 data item (项)
+																	53473 group (组)
+																53474 data item (项) 0.00
+																	53475 group (组)
+																53476 data item (项) 581.50
+																	53477 group (组)
+																53478 data item (项) 581.50
+																	53479 group (组)
+																53480 data item (项)
+																	53481 group (组)
+																53482 data item (项) 0.09
+																	53483 group (组)
+																53484 data item (项) 48.01
+																	53485 group (组)
+																53486 data item (项) 533.49
+																	53487 group (组)
+																53488 data item (项)
+																	53489 group (组)
+																53490 data item (项)
+																	53491 group (组)
+															53492 data item (行)
+																53493 data item (项)
+																	53494 checkbox (复选框) (disabled)
+																53495 data item (项) 3
+																53496 data item (项) 2023-05-04
+																	53497 group (组)
+																53498 data item (项) 差旅费＞差旅费-出差补贴
+																	53499 group (组)
+																		53500 hyperlink (链接) 差旅费＞差旅费-出差补贴 Description: 差旅费＞差旅费-出差补贴
+																53501 data item (项) 售前支持
+																	53502 group (组)
+																		53503 hyperlink (链接) 售前支持 Description: 售前支持
+																53504 data item (项) 6601010
+																	53505 group (组)
+																53506 data item (项) 信用及数管业务线
+																	53507 group (组)
+																		53508 hyperlink (链接) 信用及数管业务线 Description: 信用及数管业务线
+																53509 data item (项) 竺杭杰
+																	53510 group (组)
+																		53511 hyperlink (链接) 竺杭杰 Description: 竺杭杰
+																53512 data item (项) 竺杭杰
+																	53513 group (组)
+																		53514 hyperlink (链接) 竺杭杰 Description: 竺杭杰
+																53515 data item (项) 2023-04-12
+																	53516 group (组)
+																53517 data item (项) 2023-04-14
+																	53518 group (组)
+																53519 data item (项)
+																	53520 group (组)
+																53521 data item (项) 杭州
+																	53522 group (组)
+																53523 data item (项) 北京
+																	53524 group (组)
+																53525 data item (项)
+																	53526 group (组)
+																53527 data item (项)
+																	53528 group (组)
+																53529 data item (项) 0.00
+																	53530 group (组)
+																53531 data item (项) 375.00
+																	53532 group (组)
+																53533 data item (项) 375.00
+																	53534 group (组)
+																53535 data item (项) （3-0.5）*150=375
+																	53536 group (组)
+																53537 data item (项) 0.00
+																	53538 group (组)
+																53539 data item (项) 0.00
+																	53540 group (组)
+																53541 data item (项) 375.00
+																	53542 group (组)
+																53543 data item (项)
+																	53544 group (组)
+																53545 data item (项)
+																	53546 group (组)
+															53547 data item (行)
+																53548 data item (项) 合计
+																53549 data item (项)
+																53550 data item (项)
+																53551 data item (项)
+																53552 data item (项)
+																53553 data item (项)
+																53554 data item (项)
+																53555 data item (项)
+																53556 data item (项)
+																53557 data item (项)
+																53558 data item (项)
+																53559 data item (项)
+																53560 data item (项)
+																53561 data item (项)
+																53562 data item (项)
+																53563 data item (项)
+																53564 data item (项)
+																53565 data item (项)
+																53566 data item (项)
+																53567 data item (项)
+																53568 data item (项)
+																53569 data item (项)
+																53570 data item (项)
+																53571 data item (项)
+													53572 data item (项)
+												53573 data item (行)
+													53574 data item (项)
+													53575 data item (项)
+														53576 table (表格) ID: oTable3
+															53577 data item (行)
+																53578 data item (项)
+																53579 data item (项)
+																53580 data item (项)
+																53581 data item (项)
+																53582 data item (项)
+																53583 data item (项)
+																53584 data item (项)
+																53585 data item (项)
+																53586 data item (项)
+																53587 data item (项)
+																53588 data item (项)
+															53589 data item (行)
+																53590 data item (项) 冲销借款明细
+																53591 data item (项)
+																53592 data item (项)
+																53593 data item (项)
+																53594 data item (项)
+																53595 data item (项)
+																53596 data item (项)
+															53597 data item (行)
+																53598 data item (项)
+																	53599 checkbox (复选框) (disabled)
+																53600 data item (项) 序号
+																53601 data item (项) 借款人
+																53602 data item (项) 借款流程
+																53603 data item (项) 借款单单号
+																53604 data item (项) 借款部门
+																53605 data item (项) 核定项目
+																53606 data item (项) 费用说明
+																53607 data item (项) 每单借款余额
+																53608 data item (项) 冲销借款金额
+																53609 data item (项) 在途冲销金额
+															53610 data item (行)
+																53611 data item (项)
+																53612 data item (项)
+																53613 data item (项)
+																53614 data item (项)
+																53615 data item (项)
+																53616 data item (项)
+																53617 data item (项)
+																53618 data item (项)
+																53619 data item (项)
+																53620 data item (项) 0.00
+																53621 data item (项)
+													53622 data item (项)
+												53623 data item (行)
+													53624 data item (项)
+													53625 data item (项)
+														53626 table (表格) ID: oTable2
+															53627 data item (行)
+																53628 data item (项)
+																53629 data item (项)
+																53630 data item (项)
+																53631 data item (项)
+																53632 data item (项)
+																53633 data item (项)
+															53634 data item (行)
+																53635 data item (项) 打款明细
+																53636 data item (项)
+																53637 data item (项)
+																53638 data item (项)
+																53639 data item (项)
+															53640 data item (行)
+																53641 data item (项)
+																	53642 checkbox (复选框) (disabled)
+																53643 data item (项) 序号
+																53644 data item (项) 姓名
+																53645 data item (项) 账号信息
+																53646 data item (项) 银行支行信息
+																53647 data item (项) 金额
+															53648 data item (行)
+																53649 data item (项)
+																	53650 checkbox (复选框) (disabled)
+																53651 data item (项) 1
+																53652 data item (项) 竺杭杰
+																	53653 group (组)
+																		53654 hyperlink (链接) 竺杭杰 Description: 竺杭杰
+																53655 data item (项) 623061571025897609
+																	53656 group (组)
+																53657 data item (项) 杭州银行
+																	53658 group (组)
+																53659 data item (项) 1538.00
+																	53660 group (组)
+													53661 data item (项)
+											53662 menu (菜单)
+												53663 menu item (菜单项) 流转意见
+												53664 menu item (菜单项) 与我相关
+											53665 group (组)
+												53666 text (文本) 
+											53667 text (文本) |
+											53668 group (组)
+												53669 text (文本) 
+											53670 text (文本) 亚男
+											53671 hyperlink (链接) 章亚男 Value: javascript:openhrm(3074)
+											53672 hyperlink (链接) 职能总部/财务部/财务组 Value: https://oa.xquant.com/spa/hrm/engine.html#/hrmengine/organization?showTree=false&isView=1&type=department&id=255&_key=3b4uab
+											53673 text (文本) 接收人
+											53674 text (文本) :
+											53675 text (文本) 竺杭杰 章亚男
+											53676 text (文本) 2023-05-26 13:15:55
+											53677 text (文本) [出纳 / 批准]
+											53678 text (文本) 政锫
+											53679 hyperlink (链接) 陆政锫 Value: javascript:openhrm(3045)
+											53680 hyperlink (链接) 职能总部/财务部/财务组 Value: https://oa.xquant.com/spa/hrm/engine.html#/hrmengine/organization?showTree=false&isView=1&type=department&id=255&_key=3b4uab
+											53681 text (文本) 接收人
+											53682 text (文本) :
+											53683 text (文本) 章亚男
+											53684 text (文本) 2023-05-25 14:26:27
+											53685 text (文本) [财务一级审核 / 批准]
+											53686 text (文本) 占锋
+											53687 hyperlink (链接) 胡占锋 Value: javascript:openhrm(11)
+											53688 hyperlink (链接) 职能总部/公司高层/经营层 Value: https://oa.xquant.com/spa/hrm/engine.html#/hrmengine/organization?showTree=false&isView=1&type=department&id=209&_key=3b4uab
+											53689 text (文本) 接收人
+											53690 text (文本) :
+											53691 text (文本) 郭莎莎 李兰 陆政锫 马珍妮
+											53692 text (文本) 2023-05-12 10:38:52
+											53693 text (文本) [业务线高管 / 批准]
+											53694 text (文本) 三星
+											53695 hyperlink (链接) 毛三星 Value: javascript:openhrm(16)
+											53696 hyperlink (链接) 证券交易线/管理及公共/管理组 Value: https://oa.xquant.com/spa/hrm/engine.html#/hrmengine/organization?showTree=false&isView=1&type=department&id=374&_key=3b4uab
+											53697 text (文本) 
+											53698 text (文本) 系统自动批准
+											53699 text (文本) 接收人
+											53700 text (文本) :
+											53701 text (文本) 胡占锋
+											53702 text (文本) 2023-05-05 09:36:36
+											53703 text (文本) [一级部门负责人 / 批准]
+											53704 text (文本) 三星
+											53705 hyperlink (链接) 毛三星 Value: javascript:openhrm(16)
+											53706 hyperlink (链接) 证券交易线/管理及公共/管理组 Value: https://oa.xquant.com/spa/hrm/engine.html#/hrmengine/organization?showTree=false&isView=1&type=department&id=374&_key=3b4uab
+											53707 text (文本) 
+											53708 text (文本) 系统自动批准
+											53709 text (文本) 接收人
+											53710 text (文本) :
+											53711 text (文本) 毛三星
+											53712 text (文本) 2023-05-05 09:36:34
+											53713 text (文本) [二级部门负责人 / 批准]
+											53714 text (文本) 三星
+											53715 hyperlink (链接) 毛三星 Value: javascript:openhrm(16)
+											53716 hyperlink (链接) 证券交易线/管理及公共/管理组 Value: https://oa.xquant.com/spa/hrm/engine.html#/hrmengine/organization?showTree=false&isView=1&type=department&id=374&_key=3b4uab
+											53717 text (文本) 接收人
+											53718 text (文本) :
+											53719 text (文本) 毛三星
+											53720 text (文本) 2023-05-05 09:36:32
+											53721 text (文本) [三级负责人审核 / 批准]
+											53722 text (文本) 晨晨
+											53723 hyperlink (链接) 罗晨晨 Value: javascript:openhrm(38)
+											53724 hyperlink (链接) 职能总部/行政部/行政组 Value: https://oa.xquant.com/spa/hrm/engine.html#/hrmengine/organization?showTree=false&isView=1&type=department&id=197&_key=3b4uab
+											53725 text (文本) 
+											53726 text (文本) 来自钉钉客户端
+											53727 text (文本) 接收人
+											53728 text (文本) :
+											53729 text (文本) 毛三星
+											53730 text (文本) 2023-05-04 21:56:49
+											53731 text (文本) [商旅管理员复核 / 批准]
+											53732 hyperlink (链接) 竺杭杰 Value: javascript:openhrm(755)
+											53733 hyperlink (链接) 信用及数管业务线/信用管理及公共/信用管理组 Value: https://oa.xquant.com/spa/hrm/engine.html#/hrmengine/organization?showTree=false&isView=1&type=department&id=794&_key=3b4uab
+											53734 text (文本) 接收人
+											53735 text (文本) :
+											53736 text (文本) 罗晨晨
+											53737 text (文本) 2023-05-04 17:39:00
+											53738 text (文本) [申请人报销 / 提交]
+											53739 hyperlink (链接) 竺杭杰 Value: javascript:openhrm(755)
+											53740 hyperlink (链接) 信用及数管业务线/信用管理及公共/信用管理组 Value: https://oa.xquant.com/spa/hrm/engine.html#/hrmengine/organization?showTree=false&isView=1&type=department&id=794&_key=3b4uab
+											53741 text (文本) 接收人
+											53742 text (文本) :
+											53743 text (文本) 竺杭杰
+											53744 text (文本) 2023-05-04 17:34:40
+											53745 text (文本) [1-申请人订票 / 提交]
+											53746 text (文本) 晨晨
+											53747 hyperlink (链接) 罗晨晨 Value: javascript:openhrm(38)
+											53748 hyperlink (链接) 职能总部/行政部/行政组 Value: https://oa.xquant.com/spa/hrm/engine.html#/hrmengine/organization?showTree=false&isView=1&type=department&id=197&_key=3b4uab
+											53749 text (文本) 
+											53750 text (文本) 来自钉钉客户端
+											53751 text (文本) 接收人
+											53752 text (文本) :
+											53753 text (文本) 竺杭杰
+											53754 text (文本) 2023-04-12 20:37:11
+											53755 text (文本) [宿舍管理员 / 批准]
+											53756 list (列表)
+												53757 text (文本) 共13条
+												53758 list item (列表项目) 第一页 Description: 第一页
+													53759 text (文本) 
+												53760 list item (列表项目) 上一页 Description: 上一页
+													53761 text (文本) 
+												53762 list item (列表项目) 第一页 Description: 第一页
+												53763 list item (列表项目) 2 Description: 2
+												53764 list item (列表项目) 下一页 Description: 下一页
+													53765 text (文本) 
+												53766 list item (列表项目) 最后一页 Description: 最后一页
+													53767 text (文本) 
+												53768 group (组)
+													53769 combo box (组合框) (settable, string) Value: 10 条/页
+														53770 text (文本) 10 条/页
+														53771 group (组)
+												53772 text (文本) 跳至
+												53773 text field (编辑) (settable, string) Value: 1
+												53774 text (文本) 页
+										53775 group (组)
+								15543 document (文档) Value: chrome://newtab-footer/ ID: RootWebArea
+									15544 hyperlink (链接) Unsplash Instant
+									15545 button (切换按钮) 自定义 Chrome Description: 自定义此页 ID: customizeButton
+										15546 image (图形) ID: baseSvg
+										15547 text (文本) 自定义 Chrome
+							15548 pane (区域)
+						15549 pane (区域)
+							15550 pane (区域)
+								15551 button (按钮) 标签页搜索
+							15552 pane (区域) ID: view_21
+								15553 tab (选项卡)
+									15554 tab item (选项卡项目) (selectable) GaussDB字符集UTF8影响 - DeepSeek - 内存用量 - 141 MB ID: view_20
+										15555 button (按钮) 关闭
+									15556 tab item (选项卡项目) (selectable) Merge Requests · Dashboard · GitLab ID: view_20
+										15557 button (按钮) 关闭
+									15558 tab item (选项卡项目) (selectable) 衡泰技术个人门户 - 内存用量 - 251 MB ID: view_20
+										15559 button (按钮) 关闭
+									15560 tab item (选项卡项目) (selectable) 出差申请及报销流程-竺杭杰-2023-04-12 - 内存用量 - 391 MB ID: view_20
+										15561 button (按钮) 关闭
+									15562 tab item (选项卡项目) (selectable) 中证整体步骤梳理 - 内存用量 - 634 MB ID: view_20
+										15563 button (按钮) 关闭
+									15564 tab item (选项卡项目) (selectable) 需求变更记录 - 内存用量 - 521 MB ID: view_20
+										15565 button (按钮) 关闭
+									15566 tab item (选项卡项目) (selectable) 2026年11月 - 内存用量 - 494 MB ID: view_20
+										15567 button (按钮) 关闭
+									15568 tab item (选项卡项目) (selectable) 中证周会 - 内存用量 - 486 MB ID: view_20
+										15569 button (按钮) 关闭
+									15570 tab item (选项卡项目) (selectable) 在线Markdown编辑器 - 免费实时预览编辑器 ID: view_20
+										15571 button (按钮) 关闭
+									15572 tab item (选项卡项目) (selectable) V2EX - 内存用量 - 109 MB ID: view_20
+										15573 button (按钮) 关闭
+									15574 tab item (选项卡项目) (selectable) 泼墨成画 - V2EX - 内存用量 - 133 MB ID: view_20
+										15575 button (按钮) 关闭
+								15576 pane (区域)
+							15577 button (按钮) 新标签页
+							15578 pane (区域)
+							15579 pane (区域)
+								15580 button (按钮) 打开 Chrome 中的 Gemini
+								15581 pane (区域)
+						15582 pane (区域)
+
+Document text: ```
+Unsplash Instant
+￼
+￼
+自定义 Chrome
+```
+
+Focused element: 15504 text field (编辑) (settable, string) 地址和搜索栏 Description: 问问 Google 或输入网址 Value: oa.xquant.com/spa/workflow/static4form/index.html?_rdm=1794987691844#/main/workflow/req?requestid=898099&_key=4vg6ra ID: view_1012
+
+Document text:
+Unsplash Instant
+￼
+￼
+自定义 Chrome

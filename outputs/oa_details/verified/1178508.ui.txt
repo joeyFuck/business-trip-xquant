@@ -1,0 +1,759 @@
+Window: "出差申请及报销流程-竺杭杰-2024-08-29 - Google Chrome", App: chrome.exe.
+	0 window (窗口) 出差申请及报销流程-竺杭杰-2024-08-29 - Google Chrome Secondary Actions: Raise
+		15488 pane (窗格) (disabled)
+		15489 pane (区域) 出差申请及报销流程-竺杭杰-2024-08-29 - Google Chrome
+			15490 pane (区域)
+				15491 pane (区域)
+					15492 pane (区域)
+						15493 button (按钮) 最小化 ID: view_1
+						15494 button (按钮) 最大化 ID: view_2
+						15495 button (按钮) 关闭 ID: view_4
+					15496 pane (区域)
+						15497 pane (区域)
+							15498 toolbar (工具栏) ID: view_1000
+								15499 button (按钮) 返回 ID: view_1001
+								15500 button (按钮) (disabled) 前进 ID: view_1002
+								15501 button (按钮) 重新加载 ID: view_1003
+								15502 group (组)
+									15503 button (按钮) 查看网站信息 ID: view_1011
+									15504 text field (编辑) (settable, string) 地址和搜索栏 Description: 问问 Google 或输入网址 Value: oa.xquant.com/spa/workflow/static4form/index.html?_rdm=1794988582901#/main/workflow/req?requestid=1178508&_key=m6w7py ID: view_1012
+									15505 pane (区域)
+										85205 button (按钮) 为此标签页添加书签
+								15507 pane (区域)
+									15508 button (按钮) Postman Interceptor 可以访问此网站 ID: view_1009
+									15509 button (按钮) 扩展程序 ID: view_1006
+								15510 pane (区域)
+								15511 button (按钮) 杭杰 ID: view_1018
+								15512 button (按钮) Chrome ID: view_1007
+							15513 toolbar (工具栏) 书签 ID: view_1025
+								15514 toolbar (工具栏) 已保存的标签页分组
+									15515 button (按钮) 标签页分组
+								15516 separator (分隔符) 分隔符
+								15517 button (书签文件夹按钮) 历史 ID: view_1028
+								15518 button (书签文件夹按钮) 站点 ID: view_1028
+								15519 button (书签文件夹按钮) 社区 ID: view_1028
+								15520 button (书签文件夹按钮) 工具 ID: view_1028
+								15521 button (书签文件夹按钮) 公司 ID: view_1028
+								15522 button (书签文件夹按钮) 信创 ID: view_1028
+								15523 button (书签文件夹按钮) 数据库 ID: view_1028
+								15524 button (书签文件夹按钮) 性能 ID: view_1028
+								15525 button (书签文件夹按钮) 前端 ID: view_1028
+								15526 button (书签文件夹按钮) java ID: view_1028
+								15527 button (书签文件夹按钮) python ID: view_1028
+								15528 button (书签文件夹按钮) 金融 ID: view_1028
+								15529 button (书签文件夹按钮) 业务模块 ID: view_1028
+								15530 button (书签文件夹按钮) 数理统计 ID: view_1028
+								15531 button (书签文件夹按钮) AIGC ID: view_1028
+								15532 button (书签文件夹按钮) linux ID: view_1028
+								15533 button (书签文件夹按钮) 运维 ID: view_1028
+								15534 button (书签文件夹按钮) SAP ID: view_1028
+								15535 button (书签文件夹按钮) 生活 ID: view_1028
+								15536 button (书签文件夹按钮) web3&区块链 ID: view_1028
+								15537 button (书签文件夹按钮) cs ID: view_1028
+								15538 button (书签文件夹按钮) hotel ID: view_1028
+						15539 pane (区域)
+							15540 pane (区域)
+								15541 pane (区域)
+								85206 document (文档) 出差申请及报销流程-竺杭杰-2024-08-29 Value: https://oa.xquant.com/spa/workflow/static4form/index.html?_rdm=1794988582901#/main/workflow/req?requestid=1178508&_key=m6w7py ID: RootWebArea
+									85207 group (组)
+										85217 text (文本) 
+										85218 text (文本) 流程:处理 - 出差申请及报销流程 - 提交
+										85219 text (文本) CLSQBX-2024082923697
+										85209 tab (选项卡)
+											85210 tab item (选项卡项目) (selectable) 流程表单
+											85211 tab item (选项卡项目) (selectable) 流程图
+											85212 tab item (选项卡项目) (selectable) 流程状态
+											85220 tab item (选项卡项目) (selectable) 相关资源
+										85213 pane (选项卡面板)
+										85214 group (组)
+											85221 text (文本) 
+										85222 group (组)
+											85223 table (表格)
+												85224 data item (行)
+													85225 data item (项)
+													85226 data item (项) 员工出差申请及报销流程
+													85227 data item (项)
+												85228 data item (行)
+													85229 data item (项)
+													85230 data item (项) 标题
+													85231 data item (项) 出差申请及报销流程-竺杭杰-2024-08-29
+														85232 group (组)
+													85233 data item (项) 流程编号
+													85234 data item (项) CLSQBX-2024082923697
+														85235 group (组)
+													85236 data item (项)
+												85237 data item (行)
+													85238 data item (项)
+													85239 data item (项) 申请人
+													85240 data item (项) 竺杭杰
+														85241 group (组)
+															85242 hyperlink (链接) 竺杭杰 Description: 竺杭杰
+													85243 data item (项) 申请日期
+													85244 data item (项) 2024-08-29
+														85245 group (组)
+													85246 data item (项)
+												85247 data item (行)
+													85248 data item (项)
+													85249 data item (项) 申请人部门
+													85250 data item (项) 信用及数管业务线/信用管理及公共/信用管理组 杭州衡泰技术股份有限公司
+														85251 group (组)
+															85252 hyperlink (链接) 信用及数管业务线/信用管理及公共/信用管理组 Description: 信用及数管业务线/信用管理及公共/信用管理组
+														85253 group (组)
+															85254 hyperlink (链接) 杭州衡泰技术股份有限公司 Description: 杭州衡泰技术股份有限公司
+													85255 data item (项) 属地
+													85256 data item (项) 杭州
+														85257 group (组)
+															85258 hyperlink (链接) 杭州 Description: 杭州
+													85259 data item (项)
+												85260 data item (行)
+													85261 data item (项)
+													85262 data item (项) 费用承担部门
+													85263 data item (项) 信用及数管业务线/信用管理及公共/信用管理组 请选到末级部门！
+														85264 group (组)
+															85265 hyperlink (链接) 信用及数管业务线/信用管理及公共/信用管理组 Description: 信用及数管业务线/信用管理及公共/信用管理组
+													85266 data item (项) 团队内分组
+													85267 data item (项) /
+														85268 group (组)
+													85269 data item (项)
+												85270 data item (行)
+													85271 data item (项)
+													85272 data item (项) 人员属性
+													85273 data item (项) 成本
+														85274 group (组)
+													85275 data item (项) 性别
+													85276 data item (项) 男
+														85277 group (组)
+													85278 data item (项)
+												85279 data item (行)
+													85280 data item (项)
+													85281 data item (项) ——出差申请内容——
+													85282 data item (项)
+												85283 data item (行)
+													85284 data item (项)
+													85285 data item (项) 出差事由
+													85286 data item (项) 国泰基金系统升级沟通
+														85287 group (组)
+													85288 data item (项)
+												85289 data item (行)
+													85290 data item (项)
+													85291 data item (项) 出差实际开始日期
+													85292 data item (项) 2024-08-30 08:00
+														85293 group (组)
+														85294 group (组)
+													85295 data item (项) 出差预计开始日期
+													85296 data item (项) 2024-08-30 08:00
+														85297 group (组)
+														85298 group (组)
+													85299 data item (项)
+												85300 data item (行)
+													85301 data item (项)
+													85302 data item (项) 出差实际结束日期
+													85303 data item (项) 2024-08-30 19:00
+														85304 group (组)
+														85305 group (组)
+													85306 data item (项) 出差预计结束日期
+													85307 data item (项) 2024-08-30 19:00
+														85308 group (组)
+														85309 group (组)
+													85310 data item (项)
+												85311 data item (行)
+													85312 data item (项)
+													85313 data item (项) 备注
+													85314 data item (项) 汇报现阶段系统优化情况 沟通Java替换现有.net系统可行性
+														85315 group (组)
+													85316 data item (项)
+													85317 data item (项)
+													85318 data item (项)
+												85319 data item (行)
+													85320 data item (项)
+													85321 data item (项) 同住人
+													85322 data item (项)
+														85323 group (组)
+													85324 data item (项)
+													85325 data item (项)
+													85326 data item (项)
+												85327 data item (行)
+													85328 data item (项)
+													85329 data item (项) ——出差报销内容——
+													85330 data item (项)
+												85331 data item (行)
+													85332 data item (项)
+													85333 data item (项) 入账公司
+													85334 data item (项) 杭州衡泰技术股份有限公司
+														85335 group (组)
+															85336 hyperlink (链接) 杭州衡泰技术股份有限公司 Description: 杭州衡泰技术股份有限公司
+													85337 data item (项) 预算部门
+													85338 data item (项) 信用及数管业务线
+														85339 group (组)
+															85340 hyperlink (链接) 信用及数管业务线 Description: 信用及数管业务线
+													85341 data item (项)
+												85342 data item (行)
+													85343 data item (项)
+													85344 data item (项) 合计报销金额
+													85345 data item (项) 246.00
+														85346 group (组)
+													85347 data item (项) 预算科目
+													85348 data item (项)
+														85349 group (组)
+													85350 data item (项)
+												85351 data item (行)
+													85352 data item (项)
+													85353 data item (项) 合计发票金额
+													85354 data item (项) 0.00
+														85355 group (组)
+													85356 data item (项) 付款金额
+													85357 data item (项) 246.00
+														85358 group (组)
+													85359 data item (项)
+												85360 data item (行)
+													85361 data item (项)
+													85362 data item (项) 携程与个人报销总费用
+													85363 data item (项) 246.00
+														85364 group (组)
+													85365 data item (项)
+												85366 data item (行)
+													85367 data item (项)
+													85368 data item (项) 发票类别
+													85369 data item (项) 混合（纯纸质发票/电子纸质都有） 纯电子发票无需提供纸质件
+														85370 group (组)
+													85371 data item (项) 冲销借款金额
+													85372 data item (项)
+														85373 group (组)
+													85374 data item (项)
+												85375 data item (行)
+													85376 data item (项)
+													85377 data item (项) 总挂账金额
+													85378 data item (项)
+														85379 group (组)
+													85380 data item (项) 总扣款金额
+													85381 data item (项)
+														85382 group (组)
+													85383 data item (项)
+												85384 data item (行)
+													85385 data item (项)
+													85386 data item (项) 预算信息
+													85387 data item (项)
+														85388 group (组)
+													85389 data item (项)
+												85390 data item (行)
+													85391 data item (项)
+													85392 data item (项) 财务核定事由
+													85393 data item (项) 国泰基金系统升级沟通
+														85394 group (组)
+													85395 data item (项)
+												85396 data item (行)
+													85397 data item (项)
+													85398 data item (项) 补贴标准（例如：小明的出差补贴是100/天，交通补贴是300/月，折算后每日差补：100-300/30=90/天）
+													85399 data item (项)
+												85400 data item (行)
+													85401 data item (项)
+													85402 data item (项) 出差补贴
+													85403 data item (项) 100
+														85404 group (组)
+													85405 data item (项) 交通补贴（工资中已发放）
+													85406 data item (项) 0
+														85407 group (组)
+													85408 data item (项)
+												85409 data item (行)
+													85410 data item (项)
+													85411 data item (项)
+													85412 data item (项) 订单详情
+													85413 data item (项)
+													85414 data item (项)
+													85415 data item (项)
+												85416 data item (行)
+													85417 data item (项)
+													85418 data item (项) 内容加载中，请稍候...
+														85419 image (未加标签的图片) 要获取缺失的图片说明，请打开上下文菜单。
+													85420 data item (项)
+												85421 data item (行)
+													85422 data item (项)
+													85423 data item (项)
+														85424 table (表格) ID: oTable0
+															85425 data item (行)
+																85426 data item (项)
+																85427 data item (项)
+																85428 data item (项)
+																85429 data item (项)
+																85430 data item (项)
+																85431 data item (项)
+																85432 data item (项)
+																85433 data item (项)
+																85434 data item (项)
+																85435 data item (项)
+																85436 data item (项)
+																85437 data item (项)
+																85438 data item (项)
+																85439 data item (项)
+																85440 data item (项)
+																85441 data item (项)
+																85442 data item (项)
+																85443 data item (项)
+															85444 data item (行)
+																85445 data item (项) 通过携程商旅平台公司垫付费用明细
+																85446 data item (项)
+																85447 data item (项)
+															85448 data item (行)
+																85449 data item (项)
+																	85450 checkbox (复选框) (disabled)
+																85451 data item (项) 序号
+																85452 data item (项) 费用项目
+																85453 data item (项) 项目
+																85454 data item (项) 会计科目编码
+																85455 data item (项) 承担部门
+																85456 data item (项) 出行人
+																85457 data item (项) 预算扣减金额
+																85458 data item (项) 结算金额
+																85459 data item (项) 扣款金额
+																85460 data item (项) 税率
+																85461 data item (项) 税额
+																85462 data item (项) 不含税金额
+																85463 data item (项) 费用日期
+																85464 data item (项) 起始城市
+																85465 data item (项) 到达城市
+																85466 data item (项) 酒店天数
+																85467 data item (项) 酒店差标
+															85468 data item (行)
+																85469 data item (项) 合计
+																85470 data item (项) 0.00
+																85471 data item (项) 0.00
+																85472 data item (项)
+																85473 data item (项)
+																85474 data item (项)
+																85475 data item (项)
+																85476 data item (项)
+																85477 data item (项)
+																85478 data item (项)
+																85479 data item (项)
+																85480 data item (项)
+													85481 data item (项)
+												85482 data item (行)
+													85483 data item (项)
+													85484 data item (项)
+													85485 data item (项)
+													85486 data item (项)
+													85487 data item (项)
+													85488 data item (项)
+												85489 data item (行)
+													85490 data item (项)
+													85491 data item (项)
+														85492 table (表格) ID: oTable1
+															85493 data item (行)
+																85494 data item (项)
+																85495 data item (项)
+																85496 data item (项)
+																85497 data item (项)
+																85498 data item (项)
+																85499 data item (项)
+																85500 data item (项)
+																85501 data item (项)
+																85502 data item (项)
+																85503 data item (项)
+																85504 data item (项)
+																85505 data item (项)
+																85506 data item (项)
+																85507 data item (项)
+																85508 data item (项)
+																85509 data item (项)
+																85510 data item (项)
+																85511 data item (项)
+																85512 data item (项)
+																85513 data item (项)
+																85514 data item (项)
+																85515 data item (项)
+																85516 data item (项)
+																85517 data item (项)
+																85518 data item (项)
+															85519 data item (行)
+																85520 data item (项) 个人报销明细表
+																85521 data item (项)
+																85522 data item (项)
+																85523 data item (项)
+																85524 data item (项)
+																85525 data item (项)
+																85526 data item (项)
+																85527 data item (项)
+																85528 data item (项)
+																85529 data item (项)
+																85530 data item (项)
+																85531 data item (项)
+																85532 data item (项)
+																85533 data item (项)
+																85534 data item (项)
+																85535 data item (项)
+																85536 data item (项)
+																85537 data item (项)
+																85538 data item (项)
+																85539 data item (项)
+																85540 data item (项)
+																85541 data item (项)
+															85542 data item (行)
+																85543 data item (项)
+																	85544 checkbox (复选框) (disabled)
+																85545 data item (项) 序号
+																85546 data item (项) 费用日期
+																85547 data item (项) 费用项目
+																85548 data item (项) 项目
+																85549 data item (项) 会计科目编码
+																85550 data item (项) 承担主体
+																85551 data item (项) 出行人
+																85552 data item (项) 报销人
+																85553 data item (项) 出差开始日期
+																85554 data item (项) 出差结束日期
+																85555 data item (项) 住宿天数
+																85556 data item (项) 起始城市
+																85557 data item (项) 到达城市
+																85558 data item (项) 发票类型
+																85559 data item (项) 发票号码
+																85560 data item (项) 发票金额
+																85561 data item (项) 报销金额
+																85562 data item (项) 财务核定金额（预算扣减金额）
+																85563 data item (项) 说明
+																85564 data item (项) 税率
+																85565 data item (项) 税额
+																85566 data item (项) 不含税金额
+																85567 data item (项) 相关发票
+																85568 data item (项) 附件
+															85569 data item (行)
+																85570 data item (项)
+																	85571 checkbox (复选框) (disabled)
+																85572 data item (项) 1
+																85573 data item (项) 2024-09-02
+																	85574 group (组)
+																85575 data item (项) 差旅费＞差旅费-火车
+																	85576 group (组)
+																		85577 hyperlink (链接) 差旅费＞差旅费-火车 Description: 差旅费＞差旅费-火车
+																85578 data item (项) 售前支持
+																	85579 group (组)
+																		85580 hyperlink (链接) 售前支持 Description: 售前支持
+																85581 data item (项) 6601006
+																	85582 group (组)
+																85583 data item (项) 信用及数管业务线
+																	85584 group (组)
+																		85585 hyperlink (链接) 信用及数管业务线 Description: 信用及数管业务线
+																85586 data item (项) 竺杭杰
+																	85587 group (组)
+																		85588 hyperlink (链接) 竺杭杰 Description: 竺杭杰
+																85589 data item (项) 竺杭杰
+																	85590 group (组)
+																		85591 hyperlink (链接) 竺杭杰 Description: 竺杭杰
+																85592 data item (项) 2024-08-30
+																	85593 group (组)
+																85594 data item (项) 2024-08-30
+																	85595 group (组)
+																85596 data item (项)
+																	85597 group (组)
+																85598 data item (项) 杭州
+																	85599 group (组)
+																85600 data item (项) 上海
+																	85601 group (组)
+																85602 data item (项)
+																	85603 group (组)
+																85604 data item (项)
+																	85605 group (组)
+																85606 data item (项) 0.00
+																	85607 group (组)
+																85608 data item (项) 73.00
+																	85609 group (组)
+																85610 data item (项) 73.00
+																	85611 group (组)
+																85612 data item (项)
+																	85613 group (组)
+																85614 data item (项) 0.09
+																	85615 group (组)
+																85616 data item (项) 6.03
+																	85617 group (组)
+																85618 data item (项) 66.97
+																	85619 group (组)
+																85620 data item (项)
+																	85621 group (组)
+																85622 data item (项)
+																	85623 group (组)
+															85624 data item (行)
+																85625 data item (项)
+																	85626 checkbox (复选框) (disabled)
+																85627 data item (项) 2
+																85628 data item (项) 2024-09-02
+																	85629 group (组)
+																85630 data item (项) 差旅费＞差旅费-火车
+																	85631 group (组)
+																		85632 hyperlink (链接) 差旅费＞差旅费-火车 Description: 差旅费＞差旅费-火车
+																85633 data item (项) 售前支持
+																	85634 group (组)
+																		85635 hyperlink (链接) 售前支持 Description: 售前支持
+																85636 data item (项) 6601006
+																	85637 group (组)
+																85638 data item (项) 信用及数管业务线
+																	85639 group (组)
+																		85640 hyperlink (链接) 信用及数管业务线 Description: 信用及数管业务线
+																85641 data item (项) 竺杭杰
+																	85642 group (组)
+																		85643 hyperlink (链接) 竺杭杰 Description: 竺杭杰
+																85644 data item (项) 竺杭杰
+																	85645 group (组)
+																		85646 hyperlink (链接) 竺杭杰 Description: 竺杭杰
+																85647 data item (项) 2024-08-30
+																	85648 group (组)
+																85649 data item (项) 2024-08-30
+																	85650 group (组)
+																85651 data item (项)
+																	85652 group (组)
+																85653 data item (项) 杭州
+																	85654 group (组)
+																85655 data item (项) 上海
+																	85656 group (组)
+																85657 data item (项)
+																	85658 group (组)
+																85659 data item (项)
+																	85660 group (组)
+																85661 data item (项) 0.00
+																	85662 group (组)
+																85663 data item (项) 73.00
+																	85664 group (组)
+																85665 data item (项) 73.00
+																	85666 group (组)
+																85667 data item (项)
+																	85668 group (组)
+																85669 data item (项) 0.09
+																	85670 group (组)
+																85671 data item (项) 6.03
+																	85672 group (组)
+																85673 data item (项) 66.97
+																	85674 group (组)
+																85675 data item (项)
+																	85676 group (组)
+																85677 data item (项)
+																	85678 group (组)
+															85679 data item (行)
+																85680 data item (项)
+																	85681 checkbox (复选框) (disabled)
+																85682 data item (项) 3
+																85683 data item (项) 2024-09-02
+																	85684 group (组)
+																85685 data item (项) 差旅费＞差旅费-出差补贴
+																	85686 group (组)
+																		85687 hyperlink (链接) 差旅费＞差旅费-出差补贴 Description: 差旅费＞差旅费-出差补贴
+																85688 data item (项) 售前支持
+																	85689 group (组)
+																		85690 hyperlink (链接) 售前支持 Description: 售前支持
+																85691 data item (项) 6601010
+																	85692 group (组)
+																85693 data item (项) 信用及数管业务线
+																	85694 group (组)
+																		85695 hyperlink (链接) 信用及数管业务线 Description: 信用及数管业务线
+																85696 data item (项) 竺杭杰
+																	85697 group (组)
+																		85698 hyperlink (链接) 竺杭杰 Description: 竺杭杰
+																85699 data item (项) 竺杭杰
+																	85700 group (组)
+																		85701 hyperlink (链接) 竺杭杰 Description: 竺杭杰
+																85702 data item (项) 2024-08-30
+																	85703 group (组)
+																85704 data item (项) 2024-08-30
+																	85705 group (组)
+																85706 data item (项)
+																	85707 group (组)
+																85708 data item (项) 杭州
+																	85709 group (组)
+																85710 data item (项) 上海
+																	85711 group (组)
+																85712 data item (项)
+																	85713 group (组)
+																85714 data item (项)
+																	85715 group (组)
+																85716 data item (项) 0.00
+																	85717 group (组)
+																85718 data item (项) 100.00
+																	85719 group (组)
+																85720 data item (项) 100.00
+																	85721 group (组)
+																85722 data item (项) 一天100
+																	85723 group (组)
+																85724 data item (项) 0.00
+																	85725 group (组)
+																85726 data item (项) 0.00
+																	85727 group (组)
+																85728 data item (项) 100.00
+																	85729 group (组)
+																85730 data item (项)
+																	85731 group (组)
+																85732 data item (项)
+																	85733 group (组)
+															85734 data item (行)
+																85735 data item (项) 合计
+																85736 data item (项)
+																85737 data item (项)
+																85738 data item (项)
+																85739 data item (项)
+																85740 data item (项)
+																85741 data item (项)
+																85742 data item (项)
+																85743 data item (项)
+																85744 data item (项)
+																85745 data item (项)
+																85746 data item (项)
+																85747 data item (项)
+																85748 data item (项)
+																85749 data item (项)
+																85750 data item (项)
+																85751 data item (项)
+																85752 data item (项)
+																85753 data item (项)
+																85754 data item (项)
+																85755 data item (项)
+																85756 data item (项)
+																85757 data item (项)
+																85758 data item (项)
+													85759 data item (项)
+												85760 data item (行)
+													85761 data item (项)
+													85762 data item (项)
+														85763 table (表格) ID: oTable3
+															85764 data item (行)
+																85765 data item (项)
+																85766 data item (项)
+																85767 data item (项)
+																85768 data item (项)
+																85769 data item (项)
+																85770 data item (项)
+																85771 data item (项)
+																85772 data item (项)
+																85773 data item (项)
+																85774 data item (项)
+																85775 data item (项)
+															85776 data item (行)
+																85777 data item (项) 冲销借款明细
+																85778 data item (项)
+																85779 data item (项)
+																85780 data item (项)
+																85781 data item (项)
+																85782 data item (项)
+																85783 data item (项)
+															85784 data item (行)
+																85785 data item (项)
+																	85786 checkbox (复选框) (disabled)
+																85787 data item (项) 序号
+																85788 data item (项) 借款人
+																85789 data item (项) 借款流程
+																85790 data item (项) 借款单单号
+																85791 data item (项) 借款部门
+																85792 data item (项) 核定项目
+																85793 data item (项) 费用说明
+																85794 data item (项) 每单借款余额
+																85795 data item (项) 冲销借款金额
+																85796 data item (项) 在途冲销金额
+															85797 data item (行)
+																85798 data item (项)
+																85799 data item (项)
+																85800 data item (项)
+																85801 data item (项)
+																85802 data item (项)
+																85803 data item (项)
+																85804 data item (项)
+																85805 data item (项)
+																85806 data item (项)
+																85807 data item (项) 0.00
+																85808 data item (项)
+													85809 data item (项)
+												85810 data item (行)
+													85811 data item (项)
+													85812 data item (项)
+														85813 table (表格) ID: oTable2
+															85814 data item (行)
+																85815 data item (项)
+																85816 data item (项)
+																85817 data item (项)
+																85818 data item (项)
+																85819 data item (项)
+																85820 data item (项)
+															85821 data item (行)
+																85822 data item (项) 打款明细
+																85823 data item (项)
+																85824 data item (项)
+																85825 data item (项)
+																85826 data item (项)
+															85827 data item (行)
+																85828 data item (项)
+																	85829 checkbox (复选框) (disabled)
+																85830 data item (项) 序号
+																85831 data item (项) 姓名
+																85832 data item (项) 账号信息
+																85833 data item (项) 银行支行信息
+																85834 data item (项) 金额
+															85835 data item (行)
+																85836 data item (项)
+																	85837 checkbox (复选框) (disabled)
+																85838 data item (项) 1
+																85839 data item (项) 竺杭杰
+																	85840 group (组)
+																		85841 hyperlink (链接) 竺杭杰 Description: 竺杭杰
+																85842 data item (项) 623061571025897609
+																	85843 group (组)
+																85844 data item (项) 杭州银行
+																	85845 group (组)
+																85846 data item (项) 246.00
+																	85847 group (组)
+													85848 data item (项)
+											85849 menu (菜单)
+												85850 menu item (菜单项)
+											85851 group (组)
+												85852 text (文本) 
+											85853 text (文本) |
+											85854 group (组)
+												85855 text (文本) 
+										85216 group (组)
+								15543 document (文档) Value: chrome://newtab-footer/ ID: RootWebArea
+									15544 hyperlink (链接) Unsplash Instant
+									15545 button (切换按钮) 自定义 Chrome Description: 自定义此页 ID: customizeButton
+										15546 image (图形) ID: baseSvg
+										15547 text (文本) 自定义 Chrome
+							15548 pane (区域)
+						15549 pane (区域)
+							15550 pane (区域)
+								15551 button (按钮) 标签页搜索
+							15552 pane (区域) ID: view_21
+								15553 tab (选项卡)
+									15554 tab item (选项卡项目) (selectable) GaussDB字符集UTF8影响 - DeepSeek - 内存用量 - 141 MB ID: view_20
+										15555 button (按钮) 关闭
+									15556 tab item (选项卡项目) (selectable) Merge Requests · Dashboard · GitLab ID: view_20
+										15557 button (按钮) 关闭
+									15558 tab item (选项卡项目) (selectable) 衡泰技术个人门户 - 内存用量 - 251 MB ID: view_20
+										15559 button (按钮) 关闭
+									15560 tab item (选项卡项目) (selectable) 出差申请及报销流程-竺杭杰-2024-08-29 ID: view_20
+										15561 button (按钮) 关闭
+									15562 tab item (选项卡项目) (selectable) 中证整体步骤梳理 - 内存用量 - 634 MB ID: view_20
+										15563 button (按钮) 关闭
+									15564 tab item (选项卡项目) (selectable) 需求变更记录 - 内存用量 - 521 MB ID: view_20
+										15565 button (按钮) 关闭
+									15566 tab item (选项卡项目) (selectable) 2026年11月 - 内存用量 - 494 MB ID: view_20
+										15567 button (按钮) 关闭
+									15568 tab item (选项卡项目) (selectable) 中证周会 - 内存用量 - 486 MB ID: view_20
+										15569 button (按钮) 关闭
+									15570 tab item (选项卡项目) (selectable) 在线Markdown编辑器 - 免费实时预览编辑器 ID: view_20
+										15571 button (按钮) 关闭
+									15572 tab item (选项卡项目) (selectable) V2EX - 内存用量 - 109 MB ID: view_20
+										15573 button (按钮) 关闭
+									15574 tab item (选项卡项目) (selectable) 泼墨成画 - V2EX - 内存用量 - 133 MB ID: view_20
+										15575 button (按钮) 关闭
+								15576 pane (区域)
+							15577 button (按钮) 新标签页
+							15578 pane (区域)
+							15579 pane (区域)
+								15580 button (按钮) 打开 Chrome 中的 Gemini
+								15581 pane (区域)
+						15582 pane (区域)
+
+Document text: ```
+Unsplash Instant
+￼
+￼
+自定义 Chrome
+```
+
+Focused element: 15504 text field (编辑) (settable, string) 地址和搜索栏 Description: 问问 Google 或输入网址 Value: oa.xquant.com/spa/workflow/static4form/index.html?_rdm=1794988582901#/main/workflow/req?requestid=1178508&_key=m6w7py ID: view_1012
+
+Document text:
+Unsplash Instant
+￼
+￼
+自定义 Chrome

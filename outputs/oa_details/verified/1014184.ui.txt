@@ -1,0 +1,870 @@
+Window: "出差申请及报销流程-竺杭杰-2023-11-10 - Google Chrome", App: chrome.exe.
+	0 window (窗口) 出差申请及报销流程-竺杭杰-2023-11-10 - Google Chrome Secondary Actions: Raise
+		15488 pane (窗格) (disabled)
+		15489 pane (区域) 出差申请及报销流程-竺杭杰-2023-11-10 - Google Chrome
+			15490 pane (区域)
+				15491 pane (区域)
+					15492 pane (区域)
+						15493 button (按钮) 最小化 ID: view_1
+						15494 button (按钮) 最大化 ID: view_2
+						15495 button (按钮) 关闭 ID: view_4
+					15496 pane (区域)
+						15497 pane (区域)
+							15498 toolbar (工具栏) ID: view_1000
+								15499 button (按钮) 返回 ID: view_1001
+								15500 button (按钮) (disabled) 前进 ID: view_1002
+								15501 button (按钮) 重新加载 ID: view_1003
+								15502 group (组)
+									15503 button (按钮) 查看网站信息 ID: view_1011
+									15504 text field (编辑) (settable, string) 地址和搜索栏 Description: 问问 Google 或输入网址 Value: oa.xquant.com/spa/workflow/static4form/index.html?_rdm=1794987580794#/main/workflow/req?requestid=1014184&_key=jwnyv3 ID: view_1012
+									15505 pane (区域)
+										45447 button (按钮) 为此标签页添加书签
+								15507 pane (区域)
+									15508 button (按钮) Postman Interceptor 可以访问此网站 ID: view_1009
+									15509 button (按钮) 扩展程序 ID: view_1006
+								15510 pane (区域)
+								15511 button (按钮) 杭杰 ID: view_1018
+								15512 button (按钮) Chrome ID: view_1007
+							15513 toolbar (工具栏) 书签 ID: view_1025
+								15514 toolbar (工具栏) 已保存的标签页分组
+									15515 button (按钮) 标签页分组
+								15516 separator (分隔符) 分隔符
+								15517 button (书签文件夹按钮) 历史 ID: view_1028
+								15518 button (书签文件夹按钮) 站点 ID: view_1028
+								15519 button (书签文件夹按钮) 社区 ID: view_1028
+								15520 button (书签文件夹按钮) 工具 ID: view_1028
+								15521 button (书签文件夹按钮) 公司 ID: view_1028
+								15522 button (书签文件夹按钮) 信创 ID: view_1028
+								15523 button (书签文件夹按钮) 数据库 ID: view_1028
+								15524 button (书签文件夹按钮) 性能 ID: view_1028
+								15525 button (书签文件夹按钮) 前端 ID: view_1028
+								15526 button (书签文件夹按钮) java ID: view_1028
+								15527 button (书签文件夹按钮) python ID: view_1028
+								15528 button (书签文件夹按钮) 金融 ID: view_1028
+								15529 button (书签文件夹按钮) 业务模块 ID: view_1028
+								15530 button (书签文件夹按钮) 数理统计 ID: view_1028
+								15531 button (书签文件夹按钮) AIGC ID: view_1028
+								15532 button (书签文件夹按钮) linux ID: view_1028
+								15533 button (书签文件夹按钮) 运维 ID: view_1028
+								15534 button (书签文件夹按钮) SAP ID: view_1028
+								15535 button (书签文件夹按钮) 生活 ID: view_1028
+								15536 button (书签文件夹按钮) web3&区块链 ID: view_1028
+								15537 button (书签文件夹按钮) cs ID: view_1028
+								15538 button (书签文件夹按钮) hotel ID: view_1028
+						15539 pane (区域)
+							15540 pane (区域)
+								15541 pane (区域)
+								45448 document (文档) 出差申请及报销流程-竺杭杰-2023-11-10 Value: https://oa.xquant.com/spa/workflow/static4form/index.html?_rdm=1794987580794#/main/workflow/req?requestid=1014184&_key=jwnyv3 ID: RootWebArea
+									45449 group (组)
+										45459 text (文本) 
+										45460 text (文本) 流程:处理 - 出差申请及报销流程 - 提交
+										45461 text (文本) CLSQBX-2023111017836
+										45451 tab (选项卡)
+											45452 tab item (选项卡项目) (selectable) 流程表单
+											45453 tab item (选项卡项目) (selectable) 流程图
+											45454 tab item (选项卡项目) (selectable) 流程状态
+											45462 tab item (选项卡项目) (selectable) 相关资源
+										45455 pane (选项卡面板)
+										45456 group (组)
+											45463 text (文本) 
+										45464 group (组)
+											45465 table (表格)
+												45466 data item (行)
+													45467 data item (项)
+													45468 data item (项) 员工出差申请及报销流程
+													45469 data item (项)
+												45470 data item (行)
+													45471 data item (项)
+													45472 data item (项) 标题
+													45473 data item (项) 出差申请及报销流程-竺杭杰-2023-11-10
+														45474 group (组)
+													45475 data item (项) 流程编号
+													45476 data item (项) CLSQBX-2023111017836
+														45477 group (组)
+													45478 data item (项)
+												45479 data item (行)
+													45480 data item (项)
+													45481 data item (项) 申请人
+													45482 data item (项) 竺杭杰
+														45483 group (组)
+															45484 hyperlink (链接) 竺杭杰 Description: 竺杭杰
+													45485 data item (项) 申请日期
+													45486 data item (项) 2023-11-10
+														45487 group (组)
+													45488 data item (项)
+												45489 data item (行)
+													45490 data item (项)
+													45491 data item (项) 申请人部门
+													45492 data item (项) 信用及数管业务线/信用管理及公共/信用管理组 杭州衡泰技术股份有限公司
+														45493 group (组)
+															45494 hyperlink (链接) 信用及数管业务线/信用管理及公共/信用管理组 Description: 信用及数管业务线/信用管理及公共/信用管理组
+														45495 group (组)
+															45496 hyperlink (链接) 杭州衡泰技术股份有限公司 Description: 杭州衡泰技术股份有限公司
+													45497 data item (项) 属地
+													45498 data item (项) 杭州
+														45499 group (组)
+															45500 hyperlink (链接) 杭州 Description: 杭州
+													45501 data item (项)
+												45502 data item (行)
+													45503 data item (项)
+													45504 data item (项) 费用承担部门
+													45505 data item (项) 信用及数管业务线/信用管理及公共/信用管理组 请选到末级部门！
+														45506 group (组)
+															45507 hyperlink (链接) 信用及数管业务线/信用管理及公共/信用管理组 Description: 信用及数管业务线/信用管理及公共/信用管理组
+													45508 data item (项) 团队内分组
+													45509 data item (项) /
+														45510 group (组)
+													45511 data item (项)
+												45512 data item (行)
+													45513 data item (项)
+													45514 data item (项) 人员属性
+													45515 data item (项) 成本
+														45516 group (组)
+													45517 data item (项) 性别
+													45518 data item (项) 男
+														45519 group (组)
+													45520 data item (项)
+												45521 data item (行)
+													45522 data item (项)
+													45523 data item (项) ——出差申请内容——
+													45524 data item (项)
+												45525 data item (行)
+													45526 data item (项)
+													45527 data item (项) 出差事由
+													45528 data item (项) 广发现场支持及商机讨论
+														45529 group (组)
+													45530 data item (项)
+												45531 data item (行)
+													45532 data item (项)
+													45533 data item (项) 出差实际开始日期
+													45534 data item (项) 2023-11-13 07:00
+														45535 group (组)
+														45536 group (组)
+													45537 data item (项) 出差预计开始日期
+													45538 data item (项) 2023-11-13 07:00
+														45539 group (组)
+														45540 group (组)
+													45541 data item (项)
+												45542 data item (行)
+													45543 data item (项)
+													45544 data item (项) 出差实际结束日期
+													45545 data item (项) 2023-11-17 18:00
+														45546 group (组)
+														45547 group (组)
+													45548 data item (项) 出差预计结束日期
+													45549 data item (项) 2023-11-17 18:00
+														45550 group (组)
+														45551 group (组)
+													45552 data item (项)
+												45553 data item (行)
+													45554 data item (项)
+													45555 data item (项) 备注
+													45556 data item (项) 早班飞机，比高铁便宜。 住宿跟寒晓两人，宿舍没位置了。
+														45557 group (组)
+													45558 data item (项)
+													45559 data item (项)
+													45560 data item (项)
+												45561 data item (行)
+													45562 data item (项)
+													45563 data item (项) 同住人
+													45564 data item (项)
+														45565 group (组)
+													45566 data item (项)
+													45567 data item (项)
+													45568 data item (项)
+												45569 data item (行)
+													45570 data item (项)
+													45571 data item (项) ——出差报销内容——
+													45572 data item (项)
+												45573 data item (行)
+													45574 data item (项)
+													45575 data item (项) 入账公司
+													45576 data item (项) 杭州衡泰技术股份有限公司
+														45577 group (组)
+															45578 hyperlink (链接) 杭州衡泰技术股份有限公司 Description: 杭州衡泰技术股份有限公司
+													45579 data item (项) 预算部门
+													45580 data item (项) 信用及数管业务线
+														45581 group (组)
+															45582 hyperlink (链接) 信用及数管业务线 Description: 信用及数管业务线
+													45583 data item (项)
+												45584 data item (行)
+													45585 data item (项)
+													45586 data item (项) 合计报销金额
+													45587 data item (项) 1497.00
+														45588 group (组)
+													45589 data item (项) 预算科目
+													45590 data item (项)
+														45591 group (组)
+													45592 data item (项)
+												45593 data item (行)
+													45594 data item (项)
+													45595 data item (项) 合计发票金额
+													45596 data item (项) 38.00
+														45597 group (组)
+													45598 data item (项) 付款金额
+													45599 data item (项) 1497.00
+														45600 group (组)
+													45601 data item (项)
+												45602 data item (行)
+													45603 data item (项)
+													45604 data item (项) 携程与个人报销总费用
+													45605 data item (项) 1497.00
+														45606 group (组)
+													45607 data item (项)
+												45608 data item (行)
+													45609 data item (项)
+													45610 data item (项) 发票类别
+													45611 data item (项) 混合（纯纸质发票/电子纸质都有） 纯电子发票无需提供纸质件
+														45612 group (组)
+													45613 data item (项) 冲销借款金额
+													45614 data item (项)
+														45615 group (组)
+													45616 data item (项)
+												45617 data item (行)
+													45618 data item (项)
+													45619 data item (项) 总挂账金额
+													45620 data item (项) 0.00
+														45621 group (组)
+													45622 data item (项) 总扣款金额
+													45623 data item (项)
+														45624 group (组)
+													45625 data item (项)
+												45626 data item (行)
+													45627 data item (项)
+													45628 data item (项) 预算信息
+													45629 data item (项)
+														45630 group (组)
+													45631 data item (项)
+												45632 data item (行)
+													45633 data item (项)
+													45634 data item (项) 财务核定事由
+													45635 data item (项) 广发现场支持及商机讨论
+														45636 group (组)
+													45637 data item (项)
+												45638 data item (行)
+													45639 data item (项)
+													45640 data item (项) 补贴标准（例如：小明的出差补贴是100/天，交通补贴是300/月，折算后每日差补：100-300/30=90/天）
+													45641 data item (项)
+												45642 data item (行)
+													45643 data item (项)
+													45644 data item (项) 出差补贴
+													45645 data item (项) 100
+														45646 group (组)
+													45647 data item (项) 交通补贴（工资中已发放）
+													45648 data item (项) 0
+														45649 group (组)
+													45650 data item (项)
+												45651 data item (行)
+													45652 data item (项)
+													45653 data item (项)
+													45654 data item (项) 订单详情
+													45655 data item (项)
+													45656 data item (项)
+													45657 data item (项)
+												45658 data item (行)
+													45659 data item (项)
+													45660 data item (项) 内容加载中，请稍候...
+														45661 image (未加标签的图片) 要获取缺失的图片说明，请打开上下文菜单。
+													45662 data item (项)
+												45663 data item (行)
+													45664 data item (项)
+													45665 data item (项)
+														45666 table (表格) ID: oTable0
+															45667 data item (行)
+																45668 data item (项)
+																45669 data item (项)
+																45670 data item (项)
+																45671 data item (项)
+																45672 data item (项)
+																45673 data item (项)
+																45674 data item (项)
+																45675 data item (项)
+																45676 data item (项)
+																45677 data item (项)
+																45678 data item (项)
+																45679 data item (项)
+																45680 data item (项)
+																45681 data item (项)
+																45682 data item (项)
+																45683 data item (项)
+																45684 data item (项)
+																45685 data item (项)
+															45686 data item (行)
+																45687 data item (项) 通过携程商旅平台公司垫付费用明细
+																45688 data item (项)
+																45689 data item (项)
+															45690 data item (行)
+																45691 data item (项)
+																	45692 checkbox (复选框) (disabled)
+																45693 data item (项) 序号
+																45694 data item (项) 费用项目
+																45695 data item (项) 项目
+																45696 data item (项) 会计科目编码
+																45697 data item (项) 承担部门
+																45698 data item (项) 出行人
+																45699 data item (项) 预算扣减金额
+																45700 data item (项) 结算金额
+																45701 data item (项) 扣款金额
+																45702 data item (项) 税率
+																45703 data item (项) 税额
+																45704 data item (项) 不含税金额
+																45705 data item (项) 费用日期
+																45706 data item (项) 起始城市
+																45707 data item (项) 到达城市
+																45708 data item (项) 酒店天数
+																45709 data item (项) 酒店差标
+															45710 data item (行)
+																45711 data item (项) 合计
+																45712 data item (项) 0.00
+																45713 data item (项) 0.00
+																45714 data item (项)
+																45715 data item (项)
+																45716 data item (项)
+																45717 data item (项)
+																45718 data item (项)
+																45719 data item (项)
+																45720 data item (项)
+																45721 data item (项)
+																45722 data item (项)
+													45723 data item (项)
+												45724 data item (行)
+													45725 data item (项)
+													45726 data item (项)
+													45727 data item (项)
+													45728 data item (项)
+													45729 data item (项)
+													45730 data item (项)
+												45731 data item (行)
+													45732 data item (项)
+													45733 data item (项)
+														45734 table (表格) ID: oTable1
+															45735 data item (行)
+																45736 data item (项)
+																45737 data item (项)
+																45738 data item (项)
+																45739 data item (项)
+																45740 data item (项)
+																45741 data item (项)
+																45742 data item (项)
+																45743 data item (项)
+																45744 data item (项)
+																45745 data item (项)
+																45746 data item (项)
+																45747 data item (项)
+																45748 data item (项)
+																45749 data item (项)
+																45750 data item (项)
+																45751 data item (项)
+																45752 data item (项)
+																45753 data item (项)
+																45754 data item (项)
+																45755 data item (项)
+																45756 data item (项)
+																45757 data item (项)
+																45758 data item (项)
+																45759 data item (项)
+																45760 data item (项)
+															45761 data item (行)
+																45762 data item (项) 个人报销明细表
+																45763 data item (项)
+																45764 data item (项)
+																45765 data item (项)
+																45766 data item (项)
+																45767 data item (项)
+																45768 data item (项)
+																45769 data item (项)
+																45770 data item (项)
+																45771 data item (项)
+																45772 data item (项)
+																45773 data item (项)
+																45774 data item (项)
+																45775 data item (项)
+																45776 data item (项)
+																45777 data item (项)
+																45778 data item (项)
+																45779 data item (项)
+																45780 data item (项)
+																45781 data item (项)
+																45782 data item (项)
+																45783 data item (项)
+															45784 data item (行)
+																45785 data item (项)
+																	45786 checkbox (复选框) (disabled)
+																45787 data item (项) 序号
+																45788 data item (项) 费用日期
+																45789 data item (项) 费用项目
+																45790 data item (项) 项目
+																45791 data item (项) 会计科目编码
+																45792 data item (项) 承担主体
+																45793 data item (项) 出行人
+																45794 data item (项) 报销人
+																45795 data item (项) 出差开始日期
+																45796 data item (项) 出差结束日期
+																45797 data item (项) 住宿天数
+																45798 data item (项) 起始城市
+																45799 data item (项) 到达城市
+																45800 data item (项) 发票类型
+																45801 data item (项) 发票号码
+																45802 data item (项) 发票金额
+																45803 data item (项) 报销金额
+																45804 data item (项) 财务核定金额（预算扣减金额）
+																45805 data item (项) 说明
+																45806 data item (项) 税率
+																45807 data item (项) 税额
+																45808 data item (项) 不含税金额
+																45809 data item (项) 相关发票
+																45810 data item (项) 附件
+															45811 data item (行)
+																45812 data item (项)
+																	45813 checkbox (复选框) (disabled)
+																45814 data item (项) 1
+																45815 data item (项) 2023-11-20
+																	45816 group (组)
+																45817 data item (项) 差旅费＞差旅费-飞机
+																	45818 group (组)
+																		45819 hyperlink (链接) 差旅费＞差旅费-飞机 Description: 差旅费＞差旅费-飞机
+																45820 data item (项) 广发证券xCIRMS1.0投研二期
+																	45821 group (组)
+																		45822 hyperlink (链接) 广发证券xCIRMS1.0投研二期 Description: 广发证券xCIRMS1.0投研二期
+																45823 data item (项) 5201007
+																	45824 group (组)
+																45825 data item (项) 信用及数管业务线
+																	45826 group (组)
+																		45827 hyperlink (链接) 信用及数管业务线 Description: 信用及数管业务线
+																45828 data item (项) 竺杭杰
+																	45829 group (组)
+																		45830 hyperlink (链接) 竺杭杰 Description: 竺杭杰
+																45831 data item (项) 竺杭杰
+																	45832 group (组)
+																		45833 hyperlink (链接) 竺杭杰 Description: 竺杭杰
+																45834 data item (项) 2023-11-13
+																	45835 group (组)
+																45836 data item (项) 2023-11-13
+																	45837 group (组)
+																45838 data item (项)
+																	45839 group (组)
+																45840 data item (项) 杭州
+																	45841 group (组)
+																45842 data item (项) 广州
+																	45843 group (组)
+																45844 data item (项) 电子发票（普通发票）
+																	45845 group (组)
+																45846 data item (项)
+																	45847 group (组)
+																45848 data item (项) 38.00
+																	45849 group (组)
+																45850 data item (项) 38.00
+																	45851 group (组)
+																45852 data item (项) 0.00
+																	45853 group (组)
+																45854 data item (项) 38是保险，没注意，没取消勾选
+																	45855 group (组)
+																45856 data item (项) 0.00
+																	45857 group (组)
+																45858 data item (项) 0.00
+																	45859 group (组)
+																45860 data item (项) 0.00
+																	45861 group (组)
+																45862 data item (项) 4570121-杭州-广州--机票服务费发票.pdf
+																	45863 group (组)
+																		45864 hyperlink (链接) 4570121-杭州-广州--机票服务费发票.pdf
+																45865 data item (项)
+																	45866 group (组)
+															45867 data item (行)
+																45868 data item (项)
+																	45869 checkbox (复选框) (disabled)
+																45870 data item (项) 2
+																45871 data item (项) 2023-11-20
+																	45872 group (组)
+																45873 data item (项) 差旅费＞差旅费-飞机
+																	45874 group (组)
+																		45875 hyperlink (链接) 差旅费＞差旅费-飞机 Description: 差旅费＞差旅费-飞机
+																45876 data item (项) 广发证券xCIRMS1.0投研二期
+																	45877 group (组)
+																		45878 hyperlink (链接) 广发证券xCIRMS1.0投研二期 Description: 广发证券xCIRMS1.0投研二期
+																45879 data item (项) 5201007
+																	45880 group (组)
+																45881 data item (项) 信用及数管业务线
+																	45882 group (组)
+																		45883 hyperlink (链接) 信用及数管业务线 Description: 信用及数管业务线
+																45884 data item (项) 竺杭杰
+																	45885 group (组)
+																		45886 hyperlink (链接) 竺杭杰 Description: 竺杭杰
+																45887 data item (项) 竺杭杰
+																	45888 group (组)
+																		45889 hyperlink (链接) 竺杭杰 Description: 竺杭杰
+																45890 data item (项) 2023-11-14
+																	45891 group (组)
+																45892 data item (项) 2023-11-14
+																	45893 group (组)
+																45894 data item (项)
+																	45895 group (组)
+																45896 data item (项) 广州
+																	45897 group (组)
+																45898 data item (项) 杭州
+																	45899 group (组)
+																45900 data item (项)
+																	45901 group (组)
+																45902 data item (项)
+																	45903 group (组)
+																45904 data item (项) 0.00
+																	45905 group (组)
+																45906 data item (项) 549.00
+																	45907 group (组)
+																45908 data item (项) 549.00
+																	45909 group (组)
+																45910 data item (项)
+																	45911 group (组)
+																45912 data item (项) 0.09
+																	45913 group (组)
+																45914 data item (项) 41.20
+																	45915 group (组)
+																45916 data item (项) 507.80
+																	45917 group (组)
+																45918 data item (项)
+																	45919 group (组)
+																45920 data item (项)
+																	45921 group (组)
+															45922 data item (行)
+																45923 data item (项)
+																	45924 checkbox (复选框) (disabled)
+																45925 data item (项) 3
+																45926 data item (项) 2023-11-20
+																	45927 group (组)
+																45928 data item (项) 差旅费＞差旅费-住宿费
+																	45929 group (组)
+																		45930 hyperlink (链接) 差旅费＞差旅费-住宿费 Description: 差旅费＞差旅费-住宿费
+																45931 data item (项) 广发证券xCIRMS1.0投研二期
+																	45932 group (组)
+																		45933 hyperlink (链接) 广发证券xCIRMS1.0投研二期 Description: 广发证券xCIRMS1.0投研二期
+																45934 data item (项) 5201009
+																	45935 group (组)
+																45936 data item (项) 信用及数管业务线
+																	45937 group (组)
+																		45938 hyperlink (链接) 信用及数管业务线 Description: 信用及数管业务线
+																45939 data item (项) 竺杭杰
+																	45940 group (组)
+																		45941 hyperlink (链接) 竺杭杰 Description: 竺杭杰
+																45942 data item (项) 竺杭杰
+																	45943 group (组)
+																		45944 hyperlink (链接) 竺杭杰 Description: 竺杭杰
+																45945 data item (项) 2023-11-13
+																	45946 group (组)
+																45947 data item (项) 2023-11-14
+																	45948 group (组)
+																45949 data item (项) 1
+																	45950 group (组)
+																45951 data item (项) 杭州
+																	45952 group (组)
+																45953 data item (项) 广州
+																	45954 group (组)
+																45955 data item (项)
+																	45956 group (组)
+																45957 data item (项)
+																	45958 group (组)
+																45959 data item (项) 0.00
+																	45960 group (组)
+																45961 data item (项) 288.00
+																	45962 group (组)
+																45963 data item (项) 288.00
+																	45964 group (组)
+																45965 data item (项)
+																	45966 group (组)
+																45967 data item (项) 0.00
+																	45968 group (组)
+																45969 data item (项) 0.00
+																	45970 group (组)
+																45971 data item (项) 288.00
+																	45972 group (组)
+																45973 data item (项)
+																	45974 group (组)
+																45975 data item (项)
+																	45976 group (组)
+															45977 data item (行)
+																45978 data item (项)
+																	45979 checkbox (复选框) (disabled)
+																45980 data item (项) 4
+																45981 data item (项) 2023-11-20
+																	45982 group (组)
+																45983 data item (项) 差旅费＞差旅费-出差补贴
+																	45984 group (组)
+																		45985 hyperlink (链接) 差旅费＞差旅费-出差补贴 Description: 差旅费＞差旅费-出差补贴
+																45986 data item (项) 广发证券xCIRMS1.0投研二期
+																	45987 group (组)
+																		45988 hyperlink (链接) 广发证券xCIRMS1.0投研二期 Description: 广发证券xCIRMS1.0投研二期
+																45989 data item (项) 5201010
+																	45990 group (组)
+																45991 data item (项) 信用及数管业务线
+																	45992 group (组)
+																		45993 hyperlink (链接) 信用及数管业务线 Description: 信用及数管业务线
+																45994 data item (项) 竺杭杰
+																	45995 group (组)
+																		45996 hyperlink (链接) 竺杭杰 Description: 竺杭杰
+																45997 data item (项) 竺杭杰
+																	45998 group (组)
+																		45999 hyperlink (链接) 竺杭杰 Description: 竺杭杰
+																46000 data item (项) 2023-11-13
+																	46001 group (组)
+																46002 data item (项) 2023-11-14
+																	46003 group (组)
+																46004 data item (项)
+																	46005 group (组)
+																46006 data item (项) 杭州
+																	46007 group (组)
+																46008 data item (项) 广州
+																	46009 group (组)
+																46010 data item (项)
+																	46011 group (组)
+																46012 data item (项)
+																	46013 group (组)
+																46014 data item (项) 0.00
+																	46015 group (组)
+																46016 data item (项) 150.00
+																	46017 group (组)
+																46018 data item (项) 150.00
+																	46019 group (组)
+																46020 data item (项) 1.5*100=150
+																	46021 group (组)
+																46022 data item (项) 0.00
+																	46023 group (组)
+																46024 data item (项) 0.00
+																	46025 group (组)
+																46026 data item (项) 150.00
+																	46027 group (组)
+																46028 data item (项)
+																	46029 group (组)
+																46030 data item (项)
+																	46031 group (组)
+															46032 data item (行)
+																46033 data item (项)
+																	46034 checkbox (复选框) (disabled)
+																46035 data item (项) 5
+																46036 data item (项) 2023-11-20
+																	46037 group (组)
+																46038 data item (项) 差旅费＞差旅费-飞机
+																	46039 group (组)
+																		46040 hyperlink (链接) 差旅费＞差旅费-飞机 Description: 差旅费＞差旅费-飞机
+																46041 data item (项) 广发证券xCIRMS1.0投研二期
+																	46042 group (组)
+																		46043 hyperlink (链接) 广发证券xCIRMS1.0投研二期 Description: 广发证券xCIRMS1.0投研二期
+																46044 data item (项) 5201007
+																	46045 group (组)
+																46046 data item (项) 信用及数管业务线
+																	46047 group (组)
+																		46048 hyperlink (链接) 信用及数管业务线 Description: 信用及数管业务线
+																46049 data item (项) 竺杭杰
+																	46050 group (组)
+																		46051 hyperlink (链接) 竺杭杰 Description: 竺杭杰
+																46052 data item (项) 竺杭杰
+																	46053 group (组)
+																		46054 hyperlink (链接) 竺杭杰 Description: 竺杭杰
+																46055 data item (项) 2023-11-13
+																	46056 group (组)
+																46057 data item (项) 2023-11-13
+																	46058 group (组)
+																46059 data item (项)
+																	46060 group (组)
+																46061 data item (项) 杭州
+																	46062 group (组)
+																46063 data item (项) 广州
+																	46064 group (组)
+																46065 data item (项)
+																	46066 group (组)
+																46067 data item (项)
+																	46068 group (组)
+																46069 data item (项) 0.00
+																	46070 group (组)
+																46071 data item (项) 510.00
+																	46072 group (组)
+																46073 data item (项) 510.00
+																	46074 group (组)
+																46075 data item (项)
+																	46076 group (组)
+																46077 data item (项) 0.09
+																	46078 group (组)
+																46079 data item (项) 37.98
+																	46080 group (组)
+																46081 data item (项) 472.02
+																	46082 group (组)
+																46083 data item (项)
+																	46084 group (组)
+																46085 data item (项)
+																	46086 group (组)
+															46087 data item (行)
+																46088 data item (项) 合计
+																46089 data item (项)
+																46090 data item (项)
+																46091 data item (项)
+																46092 data item (项)
+																46093 data item (项)
+																46094 data item (项)
+																46095 data item (项)
+																46096 data item (项)
+																46097 data item (项)
+																46098 data item (项)
+																46099 data item (项)
+																46100 data item (项)
+																46101 data item (项)
+																46102 data item (项)
+																46103 data item (项)
+																46104 data item (项)
+																46105 data item (项)
+																46106 data item (项)
+																46107 data item (项)
+																46108 data item (项)
+																46109 data item (项)
+																46110 data item (项)
+																46111 data item (项)
+													46112 data item (项)
+												46113 data item (行)
+													46114 data item (项)
+													46115 data item (项)
+														46116 table (表格) ID: oTable3
+															46117 data item (行)
+																46118 data item (项)
+																46119 data item (项)
+																46120 data item (项)
+																46121 data item (项)
+																46122 data item (项)
+																46123 data item (项)
+																46124 data item (项)
+																46125 data item (项)
+																46126 data item (项)
+																46127 data item (项)
+																46128 data item (项)
+															46129 data item (行)
+																46130 data item (项) 冲销借款明细
+																46131 data item (项)
+																46132 data item (项)
+																46133 data item (项)
+																46134 data item (项)
+																46135 data item (项)
+																46136 data item (项)
+															46137 data item (行)
+																46138 data item (项)
+																	46139 checkbox (复选框) (disabled)
+																46140 data item (项) 序号
+																46141 data item (项) 借款人
+																46142 data item (项) 借款流程
+																46143 data item (项) 借款单单号
+																46144 data item (项) 借款部门
+																46145 data item (项) 核定项目
+																46146 data item (项) 费用说明
+																46147 data item (项) 每单借款余额
+																46148 data item (项) 冲销借款金额
+																46149 data item (项) 在途冲销金额
+															46150 data item (行)
+																46151 data item (项)
+																46152 data item (项)
+																46153 data item (项)
+																46154 data item (项)
+																46155 data item (项)
+																46156 data item (项)
+																46157 data item (项)
+																46158 data item (项)
+																46159 data item (项)
+																46160 data item (项) 0.00
+																46161 data item (项)
+													46162 data item (项)
+												46163 data item (行)
+													46164 data item (项)
+													46165 data item (项)
+														46166 table (表格) ID: oTable2
+															46167 data item (行)
+																46168 data item (项)
+																46169 data item (项)
+																46170 data item (项)
+																46171 data item (项)
+																46172 data item (项)
+																46173 data item (项)
+															46174 data item (行)
+																46175 data item (项) 打款明细
+																46176 data item (项)
+																46177 data item (项)
+																46178 data item (项)
+																46179 data item (项)
+															46180 data item (行)
+																46181 data item (项)
+																	46182 checkbox (复选框) (disabled)
+																46183 data item (项) 序号
+																46184 data item (项) 姓名
+																46185 data item (项) 账号信息
+																46186 data item (项) 银行支行信息
+																46187 data item (项) 金额
+															46188 data item (行)
+																46189 data item (项)
+																	46190 checkbox (复选框) (disabled)
+																46191 data item (项) 1
+																46192 data item (项) 竺杭杰
+																	46193 group (组)
+																		46194 hyperlink (链接) 竺杭杰 Description: 竺杭杰
+																46195 data item (项) 623061571025897609
+																	46196 group (组)
+																46197 data item (项) 杭州银行
+																	46198 group (组)
+																46199 data item (项) 1497.00
+																	46200 group (组)
+													46201 data item (项)
+											46202 menu (菜单)
+												46203 menu item (菜单项)
+											46204 group (组)
+												46205 text (文本) 
+											46206 text (文本) |
+											46207 group (组)
+												46208 text (文本) 
+										45458 group (组)
+								15543 document (文档) Value: chrome://newtab-footer/ ID: RootWebArea
+									15544 hyperlink (链接) Unsplash Instant
+									15545 button (切换按钮) 自定义 Chrome Description: 自定义此页 ID: customizeButton
+										15546 image (图形) ID: baseSvg
+										15547 text (文本) 自定义 Chrome
+							15548 pane (区域)
+						15549 pane (区域)
+							15550 pane (区域)
+								15551 button (按钮) 标签页搜索
+							15552 pane (区域) ID: view_21
+								15553 tab (选项卡)
+									15554 tab item (选项卡项目) (selectable) GaussDB字符集UTF8影响 - DeepSeek - 内存用量 - 141 MB ID: view_20
+										15555 button (按钮) 关闭
+									15556 tab item (选项卡项目) (selectable) Merge Requests · Dashboard · GitLab ID: view_20
+										15557 button (按钮) 关闭
+									15558 tab item (选项卡项目) (selectable) 衡泰技术个人门户 - 内存用量 - 251 MB ID: view_20
+										15559 button (按钮) 关闭
+									15560 tab item (选项卡项目) (selectable) 出差申请及报销流程-竺杭杰-2023-11-10 ID: view_20
+										15561 button (按钮) 关闭
+									15562 tab item (选项卡项目) (selectable) 中证整体步骤梳理 - 内存用量 - 634 MB ID: view_20
+										15563 button (按钮) 关闭
+									15564 tab item (选项卡项目) (selectable) 需求变更记录 - 内存用量 - 521 MB ID: view_20
+										15565 button (按钮) 关闭
+									15566 tab item (选项卡项目) (selectable) 2026年11月 - 内存用量 - 494 MB ID: view_20
+										15567 button (按钮) 关闭
+									15568 tab item (选项卡项目) (selectable) 中证周会 - 内存用量 - 486 MB ID: view_20
+										15569 button (按钮) 关闭
+									15570 tab item (选项卡项目) (selectable) 在线Markdown编辑器 - 免费实时预览编辑器 ID: view_20
+										15571 button (按钮) 关闭
+									15572 tab item (选项卡项目) (selectable) V2EX - 内存用量 - 109 MB ID: view_20
+										15573 button (按钮) 关闭
+									15574 tab item (选项卡项目) (selectable) 泼墨成画 - V2EX - 内存用量 - 133 MB ID: view_20
+										15575 button (按钮) 关闭
+								15576 pane (区域)
+							15577 button (按钮) 新标签页
+							15578 pane (区域)
+							15579 pane (区域)
+								15580 button (按钮) 打开 Chrome 中的 Gemini
+								15581 pane (区域)
+						15582 pane (区域)
+
+Document text: ```
+Unsplash Instant
+￼
+￼
+自定义 Chrome
+```
+
+Focused element: 15504 text field (编辑) (settable, string) 地址和搜索栏 Description: 问问 Google 或输入网址 Value: oa.xquant.com/spa/workflow/static4form/index.html?_rdm=1794987580794#/main/workflow/req?requestid=1014184&_key=jwnyv3 ID: view_1012
+
+Document text:
+Unsplash Instant
+￼
+￼
+自定义 Chrome

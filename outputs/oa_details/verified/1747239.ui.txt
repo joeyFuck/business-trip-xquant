@@ -1,0 +1,345 @@
+Window: "出差申请及报销流程-竺杭杰-2026-11-16 - Google Chrome", App: chrome.exe.
+	0 window (窗口) 出差申请及报销流程-竺杭杰-2026-11-16 - Google Chrome Secondary Actions: Raise
+		15488 pane (窗格) (disabled)
+		15489 pane (区域) 出差申请及报销流程-竺杭杰-2026-11-16 - Google Chrome
+			15490 pane (区域)
+				15491 pane (区域)
+					15492 pane (区域)
+						15493 button (按钮) 最小化 ID: view_1
+						15494 button (按钮) 最大化 ID: view_2
+						15495 button (按钮) 关闭 ID: view_4
+					15496 pane (区域)
+						15497 pane (区域)
+							15498 toolbar (工具栏) ID: view_1000
+								15499 button (按钮) 返回 ID: view_1001
+								15500 button (按钮) (disabled) 前进 ID: view_1002
+								15501 button (按钮) 重新加载 ID: view_1003
+								15502 group (组)
+									15503 button (按钮) 查看网站信息 ID: view_1011
+									15504 text field (编辑) (settable, string) 地址和搜索栏 Description: 问问 Google 或输入网址 Value: oa.xquant.com/spa/workflow/static4form/index.html?_rdm=1794988304807#/main/workflow/req?requestid=1747239&_key=mqg8z9 ID: view_1012
+									15505 pane (区域)
+										73556 button (按钮) 为此标签页添加书签
+								15507 pane (区域)
+									15508 button (按钮) Postman Interceptor 可以访问此网站 ID: view_1009
+									15509 button (按钮) 扩展程序 ID: view_1006
+								15510 pane (区域)
+								15511 button (按钮) 杭杰 ID: view_1018
+								15512 button (按钮) Chrome ID: view_1007
+							15513 toolbar (工具栏) 书签 ID: view_1025
+								15514 toolbar (工具栏) 已保存的标签页分组
+									15515 button (按钮) 标签页分组
+								15516 separator (分隔符) 分隔符
+								15517 button (书签文件夹按钮) 历史 ID: view_1028
+								15518 button (书签文件夹按钮) 站点 ID: view_1028
+								15519 button (书签文件夹按钮) 社区 ID: view_1028
+								15520 button (书签文件夹按钮) 工具 ID: view_1028
+								15521 button (书签文件夹按钮) 公司 ID: view_1028
+								15522 button (书签文件夹按钮) 信创 ID: view_1028
+								15523 button (书签文件夹按钮) 数据库 ID: view_1028
+								15524 button (书签文件夹按钮) 性能 ID: view_1028
+								15525 button (书签文件夹按钮) 前端 ID: view_1028
+								15526 button (书签文件夹按钮) java ID: view_1028
+								15527 button (书签文件夹按钮) python ID: view_1028
+								15528 button (书签文件夹按钮) 金融 ID: view_1028
+								15529 button (书签文件夹按钮) 业务模块 ID: view_1028
+								15530 button (书签文件夹按钮) 数理统计 ID: view_1028
+								15531 button (书签文件夹按钮) AIGC ID: view_1028
+								15532 button (书签文件夹按钮) linux ID: view_1028
+								15533 button (书签文件夹按钮) 运维 ID: view_1028
+								15534 button (书签文件夹按钮) SAP ID: view_1028
+								15535 button (书签文件夹按钮) 生活 ID: view_1028
+								15536 button (书签文件夹按钮) web3&区块链 ID: view_1028
+								15537 button (书签文件夹按钮) cs ID: view_1028
+								15538 button (书签文件夹按钮) hotel ID: view_1028
+						15539 pane (区域)
+							15540 pane (区域)
+								15541 pane (区域)
+								73557 document (文档) 出差申请及报销流程-竺杭杰-2026-11-16 Value: https://oa.xquant.com/spa/workflow/static4form/index.html?_rdm=1794988304807#/main/workflow/req?requestid=1747239&_key=mqg8z9 ID: RootWebArea
+									73558 group (组)
+										73755 group (组) ID: container
+											73567 text (文本) 
+											73737 text (文本) 流程:处理 - 出差申请及报销流程 - 宿舍管理员提交到订票
+											73738 text (文本) CLSQBX-2026111638457
+											73739 group (组) Description: 关注
+												73740 text (文本) 
+											73560 tab (选项卡)
+												73561 tab item (选项卡项目) (selectable) 流程表单
+												73562 tab item (选项卡项目) (selectable) 流程图
+												73563 tab item (选项卡项目) (selectable) 流程状态
+											73564 pane (选项卡面板)
+											73741 button (按钮) 提 交 Description: 提交
+											73742 button (按钮) 保 存 Description: 保存
+											73743 button (按钮) 转 发 Description: 转发
+											73565 group (组)
+												73744 text (文本) 
+											73573 group (组)
+												73574 table (表格)
+													73575 data item (行)
+														73576 data item (项) 出差申请及报销流程
+													73577 data item (行)
+														73578 data item (项) 标题
+														73579 data item (项) 出差申请及报销流程-竺杭杰-2026-11-16
+															73580 group (组)
+														73581 data item (项) 流程编号
+														73582 data item (项) CLSQBX-2026111638457
+															73583 group (组)
+													73584 data item (行)
+														73585 data item (项) 申请人
+														73586 data item (项) 竺杭杰
+															73587 group (组)
+																73588 hyperlink (链接) 竺杭杰 Description: 竺杭杰
+														73589 data item (项) 申请日期
+														73590 data item (项) 2026-11-16
+															73591 group (组)
+													73592 data item (行)
+														73593 data item (项) 申请人部门
+														73594 data item (项) 信用及数管业务线/信用管理及公共/信用管理组
+															73595 group (组)
+																73596 hyperlink (链接) 信用及数管业务线/信用管理及公共/信用管理组 Description: 信用及数管业务线/信用管理及公共/信用管理组
+														73597 data item (项) 分部
+														73598 data item (项) 杭州衡泰技术股份有限公司
+															73599 group (组)
+																73600 hyperlink (链接) 杭州衡泰技术股份有限公司 Description: 杭州衡泰技术股份有限公司
+													73601 data item (行)
+														73602 data item (项) 费用承担部门
+														73603 data item (项) 信用及数管业务线/信用管理及公共/信用管理组
+															73604 group (组)
+																73605 hyperlink (链接) 信用及数管业务线/信用管理及公共/信用管理组 Description: 信用及数管业务线/信用管理及公共/信用管理组
+														73606 data item (项) 团队内分组
+														73607 data item (项) /
+															73608 group (组)
+													73609 data item (行)
+														73610 data item (项) 性别
+														73611 data item (项) 男
+															73612 group (组)
+														73613 data item (项) 属地
+														73614 data item (项) 杭州
+															73615 group (组)
+																73616 hyperlink (链接) 杭州 Description: 杭州
+													73617 data item (行)
+														73618 data item (项) ——申请内容——
+													73619 data item (行)
+														73620 data item (项) 出差事由
+														73621 data item (项) 中证驻场
+															73622 group (组)
+														73623 data item (项) 项目名称
+														73624 data item (项) 中证指数xCIRMS1.02026-2027年度新一代估值系统建设项目
+															73625 group (组)
+																73626 hyperlink (链接) 中证指数xCIRMS1.02026-2027年度新一代估值系统建设项目 Description: 中证指数xCIRMS1.02026-2027年度新一代估值系统建设项目
+													73627 data item (行)
+														73628 data item (项) 出差预计开始日期
+														73629 data item (项) 2026-11-16 08:30
+															73630 group (组)
+															73631 group (组)
+														73632 data item (项) 出差实际开始日期
+														73633 data item (项) 2026-11-16 08:30
+															73634 group (组)
+															73635 group (组)
+													73636 data item (行)
+														73637 data item (项) 出差预计结束日期
+														73638 data item (项) 2026-11-20 18:00
+															73639 group (组)
+															73640 group (组)
+														73641 data item (项) 出差实际结束日期
+														73642 data item (项) 2026-11-20 18:00
+															73643 group (组)
+															73644 group (组)
+													73645 data item (行)
+														73646 data item (项) 出差天数
+														73647 data item (项) 5
+															73648 group (组)
+														73649 data item (项) 是否申请员工宿舍
+														73650 data item (项) 是
+															73651 group (组)
+													73652 data item (行)
+														73653 data item (项) 同住人
+														73654 data item (项)
+															73655 group (组)
+														73656 data item (项) 出差期间是否需要打卡
+														73657 data item (项) 是
+															73658 group (组)
+													73659 data item (行)
+														73660 data item (项) 酒店入住城市
+														73661 data item (项) 
+															73662 group (组)
+																73663 group (组)
+																	73664 list (列表)
+																73665 button (按钮) 
+														73666 data item (项)
+														73667 data item (项)
+													73668 data item (行)
+														73669 data item (项) 宿舍具体地址
+														73670 data item (项) 上海市浦东新区花木路828弄6号502室 宿舍情况表
+															73671 group (组)
+																73672 hyperlink (链接) 上海市浦东新区花木路828弄6号502室 Description: 上海市浦东新区花木路828弄6号502室
+															73673 group (组)
+																73674 hyperlink (链接) 宿舍情况表 Value: https://oa.xquant.com/spa/cube/index.html#/main/cube/search?customid=7
+													73675 data item (行)
+														73676 data item (项) 宿舍类别
+														73677 data item (项) 专项宿舍
+															73678 group (组)
+														73679 data item (项) 床铺单价
+														73680 data item (项)
+															73681 group (组)
+													73682 data item (行)
+														73683 data item (项) 床铺数量
+														73684 data item (项) 1.00
+															73685 group (组)
+														73686 data item (项) 宿舍总支出
+														73687 data item (项) 0.00
+															73688 group (组)
+													73689 data item (行)
+														73690 data item (项) 住宿时间
+														73691 data item (项) 2026-11-16 —— 2026-11-20
+															73692 group (组)
+															73693 group (组)
+														73694 data item (项) 住宿天数
+														73695 data item (项) 4.00
+															73696 group (组)
+													73697 data item (行)
+														73698 data item (项) 宿舍所在地
+														73699 data item (项) 上海
+															73700 group (组)
+														73701 data item (项)
+														73702 data item (项)
+													73703 data item (行)
+														73704 data item (项) 商旅使用手册
+														73705 data item (项) 商旅使用手册(点我下载)
+															73706 group (组)
+																73707 hyperlink (链接) 商旅使用手册(点我下载) Value: https://oa.xquant.com/weaver/weaver.file.FileDownload?download=1&fileid=164440
+													73708 data item (行)
+														73709 data item (项) 备注
+														73710 data item (项)
+															73711 group (组)
+																73712 text field (编辑) (settable, string) ID: field15807
+													73713 data item (行)
+														73714 data item (项) 有退票费产生时，请选择行程完成
+													73715 data item (行)
+														73716 data item (项) 携程订票
+															73745 button (按钮) 携程订票 Description: 携程订票
+														73717 data item (项) 点击查看订单详情
+															73746 button (按钮) 点击查看订单详情 Description: 点击查看订单详情
+														73718 data item (项) 行程状态确认
+														73719 data item (项)
+															73720 group (组)
+																73721 group (组)
+																	73722 combo box (组合框) (settable, string)
+																		73723 group (组)
+																73724 image (图形)
+													73725 data item (行)
+														73726 data item (项)
+															73747 document (文档) Value: https://oa.xquant.com/interface/ctrip/CtripOrderList.jsp?requestid=1747239 ID: RootWebArea
+																73748 table (表格)
+																73749 hyperlink (链接) 单击取消 Description: 单击取消 Value: javascript:;
+													73728 data item (行)
+														73729 data item (项) 填写规范： 最小出差单位为半天，不可以小时提交。 1：上午半天，请填写：8：30-11：40； 2：下午半天，请填写：13：00-17：30； 3：全天出差，请填写：8：30-17：30； 4 : 酒店提前离店需联系携程客服修改订单：10106116； 5: 出差行程延期或提前，可在行程状态确认中选择行程变更点提交。
+												73751 group (组)
+													73752 text (文本) 
+													73753 text (文本) 签字意见
+												73730 menu (菜单)
+													73731 menu item (菜单项) 流转意见
+													73754 menu item (菜单项) 与我相关
+												73732 group (组)
+													73733 text (文本) 
+												73734 text (文本) |
+												73735 group (组)
+													73736 text (文本) 
+												73756 text (文本) 晨晨
+												73757 hyperlink (链接) 罗晨晨 Value: javascript:openhrm(38)
+												73758 hyperlink (链接) 职能总部/行政部/行政组 Value: https://oa.xquant.com/spa/hrm/engine.html#/hrmengine/organization?showTree=false&isView=1&type=department&id=197&_key=3b4uab
+												73759 text (文本) 接收人
+												73760 text (文本) :
+												73761 text (文本) 竺杭杰
+												73762 text (文本) 2026-11-16 09:48:21
+												73763 text (文本) [宿舍管理员 / 批准]
+												73764 hyperlink (链接) 竺杭杰 Value: javascript:openhrm(755)
+												73765 hyperlink (链接) 信用及数管业务线/信用管理及公共/信用管理组 Value: https://oa.xquant.com/spa/hrm/engine.html#/hrmengine/organization?showTree=false&isView=1&type=department&id=794&_key=3b4uab
+												73766 text (文本) 接收人
+												73767 text (文本) :
+												73768 text (文本) 竺杭杰
+												73769 text (文本) 2026-11-16 09:47:23
+												73770 text (文本) [申请人 / 抄送]
+												73771 hyperlink (链接) 竺杭杰 Value: javascript:openhrm(755)
+												73772 hyperlink (链接) 信用及数管业务线/信用管理及公共/信用管理组 Value: https://oa.xquant.com/spa/hrm/engine.html#/hrmengine/organization?showTree=false&isView=1&type=department&id=794&_key=3b4uab
+												73773 text (文本) 接收人
+												73774 text (文本) :
+												73775 text (文本) 罗晨晨 王荣 王黛 周馨兰
+												73776 text (文本) 2026-11-16 09:47:23
+												73777 text (文本) [申请人 / 提交]
+												73778 list (列表)
+													73779 text (文本) 共3条
+													73780 list item (列表项目) 第一页 Description: 第一页
+														73781 text (文本) 
+													73782 list item (列表项目) 上一页 Description: 上一页
+														73783 text (文本) 
+													73784 list item (列表项目) 第一页 Description: 第一页
+													73785 list item (列表项目) 下一页 Description: 下一页
+														73786 text (文本) 
+													73787 list item (列表项目) 最后一页 Description: 最后一页
+														73788 text (文本) 
+													73789 group (组)
+														73790 combo box (组合框) (settable, string) Value: 10 条/页
+															73791 text (文本) 10 条/页
+															73792 group (组)
+													73793 text (文本) 跳至
+													73794 text field (编辑) (settable, string) Value: 1
+													73795 text (文本) 页
+											73569 group (组)
+										73796 group (组)
+										73797 group (组) ID: ascrail2000
+											73798 group (组)
+								15543 document (文档) Value: chrome://newtab-footer/ ID: RootWebArea
+									15544 hyperlink (链接) Unsplash Instant
+									15545 button (切换按钮) 自定义 Chrome Description: 自定义此页 ID: customizeButton
+										15546 image (图形) ID: baseSvg
+										15547 text (文本) 自定义 Chrome
+							15548 pane (区域)
+						15549 pane (区域)
+							15550 pane (区域)
+								15551 button (按钮) 标签页搜索
+							15552 pane (区域) ID: view_21
+								15553 tab (选项卡)
+									15554 tab item (选项卡项目) (selectable) GaussDB字符集UTF8影响 - DeepSeek - 内存用量 - 141 MB ID: view_20
+										15555 button (按钮) 关闭
+									15556 tab item (选项卡项目) (selectable) Merge Requests · Dashboard · GitLab ID: view_20
+										15557 button (按钮) 关闭
+									15558 tab item (选项卡项目) (selectable) 衡泰技术个人门户 - 内存用量 - 251 MB ID: view_20
+										15559 button (按钮) 关闭
+									15560 tab item (选项卡项目) (selectable) 出差申请及报销流程-竺杭杰-2026-11-16 - 内存用量 - 363 MB ID: view_20
+										15561 button (按钮) 关闭
+									15562 tab item (选项卡项目) (selectable) 中证整体步骤梳理 - 内存用量 - 634 MB ID: view_20
+										15563 button (按钮) 关闭
+									15564 tab item (选项卡项目) (selectable) 需求变更记录 - 内存用量 - 521 MB ID: view_20
+										15565 button (按钮) 关闭
+									15566 tab item (选项卡项目) (selectable) 2026年11月 - 内存用量 - 494 MB ID: view_20
+										15567 button (按钮) 关闭
+									15568 tab item (选项卡项目) (selectable) 中证周会 - 内存用量 - 486 MB ID: view_20
+										15569 button (按钮) 关闭
+									15570 tab item (选项卡项目) (selectable) 在线Markdown编辑器 - 免费实时预览编辑器 ID: view_20
+										15571 button (按钮) 关闭
+									15572 tab item (选项卡项目) (selectable) V2EX - 内存用量 - 109 MB ID: view_20
+										15573 button (按钮) 关闭
+									15574 tab item (选项卡项目) (selectable) 泼墨成画 - V2EX - 内存用量 - 133 MB ID: view_20
+										15575 button (按钮) 关闭
+								15576 pane (区域)
+							15577 button (按钮) 新标签页
+							15578 pane (区域)
+							15579 pane (区域)
+								15580 button (按钮) 打开 Chrome 中的 Gemini
+								15581 pane (区域)
+						15582 pane (区域)
+
+Document text: ```
+Unsplash Instant
+￼
+￼
+自定义 Chrome
+```
+
+Focused element: 15504 text field (编辑) (settable, string) 地址和搜索栏 Description: 问问 Google 或输入网址 Value: oa.xquant.com/spa/workflow/static4form/index.html?_rdm=1794988304807#/main/workflow/req?requestid=1747239&_key=mqg8z9 ID: view_1012
+
+Document text:
+Unsplash Instant
+￼
+￼
+自定义 Chrome

@@ -1,0 +1,767 @@
+Window: "出差申请及报销流程-竺杭杰-2023-07-13 - Google Chrome", App: chrome.exe.
+	0 window (窗口) 出差申请及报销流程-竺杭杰-2023-07-13 - Google Chrome Secondary Actions: Raise
+		15488 pane (窗格) (disabled)
+		15489 pane (区域) 出差申请及报销流程-竺杭杰-2023-07-13 - Google Chrome
+			15490 pane (区域)
+				15491 pane (区域)
+					15492 pane (区域)
+						15493 button (按钮) 最小化 ID: view_1
+						15494 button (按钮) 最大化 ID: view_2
+						15495 button (按钮) 关闭 ID: view_4
+					15496 pane (区域)
+						15497 pane (区域)
+							15498 toolbar (工具栏) ID: view_1000
+								15499 button (按钮) 返回 ID: view_1001
+								15500 button (按钮) (disabled) 前进 ID: view_1002
+								15501 button (按钮) 重新加载 ID: view_1003
+								15502 group (组)
+									15503 button (按钮) 查看网站信息 ID: view_1011
+									15504 text field (编辑) (settable, string) 地址和搜索栏 Description: 问问 Google 或输入网址 Value: oa.xquant.com/spa/workflow/static4form/index.html?_rdm=1794988119836#/main/workflow/req?requestid=950962&_key=q63z9a ID: view_1012
+									15505 pane (区域)
+										70506 button (按钮) 为此标签页添加书签
+								15507 pane (区域)
+									15508 button (按钮) Postman Interceptor 可以访问此网站 ID: view_1009
+									15509 button (按钮) 扩展程序 ID: view_1006
+								15510 pane (区域)
+								15511 button (按钮) 杭杰 ID: view_1018
+								15512 button (按钮) Chrome ID: view_1007
+							15513 toolbar (工具栏) 书签 ID: view_1025
+								15514 toolbar (工具栏) 已保存的标签页分组
+									15515 button (按钮) 标签页分组
+								15516 separator (分隔符) 分隔符
+								15517 button (书签文件夹按钮) 历史 ID: view_1028
+								15518 button (书签文件夹按钮) 站点 ID: view_1028
+								15519 button (书签文件夹按钮) 社区 ID: view_1028
+								15520 button (书签文件夹按钮) 工具 ID: view_1028
+								15521 button (书签文件夹按钮) 公司 ID: view_1028
+								15522 button (书签文件夹按钮) 信创 ID: view_1028
+								15523 button (书签文件夹按钮) 数据库 ID: view_1028
+								15524 button (书签文件夹按钮) 性能 ID: view_1028
+								15525 button (书签文件夹按钮) 前端 ID: view_1028
+								15526 button (书签文件夹按钮) java ID: view_1028
+								15527 button (书签文件夹按钮) python ID: view_1028
+								15528 button (书签文件夹按钮) 金融 ID: view_1028
+								15529 button (书签文件夹按钮) 业务模块 ID: view_1028
+								15530 button (书签文件夹按钮) 数理统计 ID: view_1028
+								15531 button (书签文件夹按钮) AIGC ID: view_1028
+								15532 button (书签文件夹按钮) linux ID: view_1028
+								15533 button (书签文件夹按钮) 运维 ID: view_1028
+								15534 button (书签文件夹按钮) SAP ID: view_1028
+								15535 button (书签文件夹按钮) 生活 ID: view_1028
+								15536 button (书签文件夹按钮) web3&区块链 ID: view_1028
+								15537 button (书签文件夹按钮) cs ID: view_1028
+								15538 button (书签文件夹按钮) hotel ID: view_1028
+						15539 pane (区域)
+							15540 pane (区域)
+								15541 pane (区域)
+								70507 document (文档) 出差申请及报销流程-竺杭杰-2023-07-13 Value: https://oa.xquant.com/spa/workflow/static4form/index.html?_rdm=1794988119836#/main/workflow/req?requestid=950962&_key=q63z9a ID: RootWebArea
+									70508 group (组)
+										70517 text (文本) 
+										71018 text (文本) 流程:处理 - 出差申请及报销流程 - 提交
+										71019 text (文本) CLSQBX-2023071315533
+										71020 group (组) Description: 关注
+											71021 text (文本) 
+										70510 tab (选项卡)
+											70511 tab item (选项卡项目) (selectable) 流程表单
+											70512 tab item (选项卡项目) (selectable) 流程图
+											70513 tab item (选项卡项目) (selectable) 流程状态
+											70522 tab item (选项卡项目) (selectable) 相关资源
+										70514 pane (选项卡面板)
+										71022 button (按钮) 转 发 Description: 转发
+										70515 group (组)
+											71023 text (文本) 
+										70523 group (组)
+											70524 table (表格)
+												70525 data item (行)
+													70526 data item (项)
+													70527 data item (项) 员工出差申请及报销流程
+													70528 data item (项)
+												70529 data item (行)
+													70530 data item (项)
+													70531 data item (项) 标题
+													70532 data item (项) 出差申请及报销流程-竺杭杰-2023-07-13
+														70533 group (组)
+													70534 data item (项) 流程编号
+													70535 data item (项) CLSQBX-2023071315533
+														70536 group (组)
+													70537 data item (项)
+												70538 data item (行)
+													70539 data item (项)
+													70540 data item (项) 申请人
+													70541 data item (项) 竺杭杰
+														70542 group (组)
+															70543 hyperlink (链接) 竺杭杰 Description: 竺杭杰
+													70544 data item (项) 申请日期
+													70545 data item (项) 2023-07-13
+														70546 group (组)
+													70547 data item (项)
+												70548 data item (行)
+													70549 data item (项)
+													70550 data item (项) 申请人部门
+													70551 data item (项) 信用及数管业务线/信用管理及公共/信用管理组 杭州衡泰技术股份有限公司
+														70552 group (组)
+															70553 hyperlink (链接) 信用及数管业务线/信用管理及公共/信用管理组 Description: 信用及数管业务线/信用管理及公共/信用管理组
+														70554 group (组)
+															70555 hyperlink (链接) 杭州衡泰技术股份有限公司 Description: 杭州衡泰技术股份有限公司
+													70556 data item (项) 属地
+													70557 data item (项) 杭州
+														70558 group (组)
+															70559 hyperlink (链接) 杭州 Description: 杭州
+													70560 data item (项)
+												70561 data item (行)
+													70562 data item (项)
+													70563 data item (项) 费用承担部门
+													70564 data item (项) 信用及数管业务线/信用管理及公共/信用管理组 请选到末级部门！
+														70565 group (组)
+															70566 hyperlink (链接) 信用及数管业务线/信用管理及公共/信用管理组 Description: 信用及数管业务线/信用管理及公共/信用管理组
+													70567 data item (项) 团队内分组
+													70568 data item (项) /
+														70569 group (组)
+													70570 data item (项)
+												70571 data item (行)
+													70572 data item (项)
+													70573 data item (项) 人员属性
+													70574 data item (项) 成本
+														70575 group (组)
+													70576 data item (项) 性别
+													70577 data item (项) 男
+														70578 group (组)
+													70579 data item (项)
+												70580 data item (行)
+													70581 data item (项)
+													70582 data item (项) ——出差申请内容——
+													70583 data item (项)
+												70584 data item (行)
+													70585 data item (项)
+													70586 data item (项) 出差事由
+													70587 data item (项) 上海：申万资管、DM交流、国元
+														70588 group (组)
+													70589 data item (项)
+												70590 data item (行)
+													70591 data item (项)
+													70592 data item (项) 出差实际开始日期
+													70593 data item (项) 2023-07-11 08:00
+														70594 group (组)
+														70595 group (组)
+													70596 data item (项) 出差预计开始日期
+													70597 data item (项) 2023-07-11 08:00
+														70598 group (组)
+														70599 group (组)
+													70600 data item (项)
+												70601 data item (行)
+													70602 data item (项)
+													70603 data item (项) 出差实际结束日期
+													70604 data item (项) 2023-07-12 20:00
+														70605 group (组)
+														70606 group (组)
+													70607 data item (项) 出差预计结束日期
+													70608 data item (项) 2023-07-12 20:00
+														70609 group (组)
+														70610 group (组)
+													70611 data item (项)
+												70650 data item (行)
+													70651 data item (项)
+													70652 data item (项) 备注
+													70653 data item (项) 申万资管售前沟通、DM交流、国元出入池需求沟通
+														70654 group (组)
+													70655 data item (项)
+													70656 data item (项)
+													70658 data item (项)
+												70659 data item (行)
+													70660 data item (项)
+													70661 data item (项) 同住人
+													70662 data item (项)
+														70663 group (组)
+													70664 data item (项)
+													70665 data item (项)
+													70666 data item (项)
+												70667 data item (行)
+													70668 data item (项)
+													70669 data item (项) ——出差报销内容——
+													70670 data item (项)
+												70671 data item (行)
+													70672 data item (项)
+													70673 data item (项) 入账公司
+													70674 data item (项) 杭州衡泰技术股份有限公司
+														70675 group (组)
+															70676 hyperlink (链接) 杭州衡泰技术股份有限公司 Description: 杭州衡泰技术股份有限公司
+													70677 data item (项) 预算部门
+													70678 data item (项) 信用及数管业务线
+														70679 group (组)
+															70680 hyperlink (链接) 信用及数管业务线 Description: 信用及数管业务线
+													70681 data item (项)
+												70682 data item (行)
+													70683 data item (项)
+													70684 data item (项) 合计报销金额
+													70685 data item (项) 296.00
+														70686 group (组)
+													70687 data item (项) 预算科目
+													70688 data item (项)
+														70689 group (组)
+													70690 data item (项)
+												70691 data item (行)
+													70692 data item (项)
+													70693 data item (项) 合计发票金额
+													70694 data item (项) 0.00
+														70695 group (组)
+													70696 data item (项) 付款金额
+													70697 data item (项) 296.00
+														70698 group (组)
+													70699 data item (项)
+												70700 data item (行)
+													70701 data item (项)
+													70702 data item (项) 携程与个人报销总费用
+													70703 data item (项) 296.00
+														70704 group (组)
+													70705 data item (项)
+												70706 data item (行)
+													70707 data item (项)
+													70708 data item (项) 发票类别
+													70709 data item (项) 混合（纯纸质发票/电子纸质都有） 纯电子发票无需提供纸质件
+														70710 group (组)
+													70711 data item (项) 冲销借款金额
+													70712 data item (项)
+														70713 group (组)
+													70714 data item (项)
+												70715 data item (行)
+													70716 data item (项)
+													70717 data item (项) 总挂账金额
+													70718 data item (项)
+														70719 group (组)
+													70720 data item (项) 总扣款金额
+													70721 data item (项)
+														70722 group (组)
+													70723 data item (项)
+												70724 data item (行)
+													70725 data item (项)
+													70726 data item (项) 预算信息
+													70727 data item (项)
+														70728 group (组)
+													70729 data item (项)
+												70730 data item (行)
+													70731 data item (项)
+													70732 data item (项) 财务核定事由
+													70733 data item (项) 上海：申万资管、DM交流、国元
+														70734 group (组)
+													70735 data item (项)
+												70736 data item (行)
+													70737 data item (项)
+													70738 data item (项) 补贴标准（例如：小明的出差补贴是100/天，交通补贴是300/月，折算后每日差补：100-300/30=90/天）
+													70739 data item (项)
+												70740 data item (行)
+													70741 data item (项)
+													70742 data item (项) 出差补贴
+													70743 data item (项) 100
+														70744 group (组)
+													70745 data item (项) 交通补贴（工资中已发放）
+													70746 data item (项) 0
+														70747 group (组)
+													70748 data item (项)
+												70749 data item (行)
+													70750 data item (项)
+													70751 data item (项)
+													70752 data item (项) 订单详情
+													70753 data item (项)
+													70754 data item (项)
+													70755 data item (项)
+												70756 data item (行)
+													70757 data item (项)
+													70758 data item (项) 内容加载中，请稍候...
+														70759 image (未加标签的图片) 要获取缺失的图片说明，请打开上下文菜单。
+														71024 document (文档) Value: https://oa.xquant.com/interface/ctrip/CtripOrderList.jsp?requestid=950962 ID: RootWebArea
+															71025 table (表格)
+															71026 hyperlink (链接) 单击取消 Description: 单击取消 Value: javascript:;
+															71027 image (未加标签的图片) 要获取缺失的图片说明，请打开上下文菜单。
+													70760 data item (项)
+												70761 data item (行)
+													70762 data item (项)
+													70763 data item (项)
+														70764 table (表格) ID: oTable0
+															70765 data item (行)
+																70766 data item (项)
+																70767 data item (项)
+																70768 data item (项)
+																70769 data item (项)
+																70770 data item (项)
+																70771 data item (项)
+																70772 data item (项)
+																70773 data item (项)
+																70774 data item (项)
+																70775 data item (项)
+																70776 data item (项)
+																70777 data item (项)
+																70778 data item (项)
+																70779 data item (项)
+																70780 data item (项)
+																70781 data item (项)
+																70782 data item (项)
+																70783 data item (项)
+															70784 data item (行)
+																70785 data item (项) 通过携程商旅平台公司垫付费用明细
+																70786 data item (项)
+																70787 data item (项)
+															70788 data item (行)
+																70789 data item (项)
+																	70790 checkbox (复选框) (disabled)
+																70791 data item (项) 序号
+																70792 data item (项) 费用项目
+																70793 data item (项) 项目
+																70794 data item (项) 会计科目编码
+																70795 data item (项) 承担部门
+																70796 data item (项) 出行人
+																70797 data item (项) 预算扣减金额
+																70798 data item (项) 结算金额
+																70799 data item (项) 扣款金额
+																70800 data item (项) 税率
+																70801 data item (项) 税额
+																70802 data item (项) 不含税金额
+																70803 data item (项) 费用日期
+																70804 data item (项) 起始城市
+																70805 data item (项) 到达城市
+																70806 data item (项) 酒店天数
+																70807 data item (项) 酒店差标
+															70808 data item (行)
+																70809 data item (项) 合计
+																70810 data item (项) 0.00
+																70811 data item (项) 0.00
+																70812 data item (项)
+																70813 data item (项)
+																70814 data item (项)
+																70815 data item (项)
+																70816 data item (项)
+																70817 data item (项)
+																70818 data item (项)
+																70819 data item (项)
+																70820 data item (项)
+													70821 data item (项)
+												70822 data item (行)
+													70823 data item (项)
+													70824 data item (项)
+													70825 data item (项)
+													70826 data item (项)
+													70827 data item (项)
+													70828 data item (项)
+												70829 data item (行)
+													70830 data item (项)
+													70831 data item (项)
+														70832 table (表格) ID: oTable1
+															70833 data item (行)
+																70834 data item (项)
+																70835 data item (项)
+																70836 data item (项)
+																70837 data item (项)
+																70838 data item (项)
+																70839 data item (项)
+																70840 data item (项)
+																70841 data item (项)
+																70842 data item (项)
+																70843 data item (项)
+																70844 data item (项)
+																70845 data item (项)
+																70846 data item (项)
+																70847 data item (项)
+																70848 data item (项)
+																70849 data item (项)
+																70850 data item (项)
+																70851 data item (项)
+																70852 data item (项)
+																70853 data item (项)
+																70854 data item (项)
+																70855 data item (项)
+																70856 data item (项)
+																70857 data item (项)
+																70858 data item (项)
+															70859 data item (行)
+																70860 data item (项) 个人报销明细表
+																70861 data item (项)
+																70862 data item (项)
+																70863 data item (项)
+																70864 data item (项)
+																70865 data item (项)
+																70866 data item (项)
+																70867 data item (项)
+																70868 data item (项)
+																70869 data item (项)
+																70870 data item (项)
+																70871 data item (项)
+																70872 data item (项)
+																70873 data item (项)
+																70874 data item (项)
+																70875 data item (项)
+																70876 data item (项)
+																70877 data item (项)
+																70878 data item (项)
+																70879 data item (项)
+																70880 data item (项)
+																70881 data item (项)
+															70882 data item (行)
+																70883 data item (项)
+																	70884 checkbox (复选框) (disabled)
+																70885 data item (项) 序号
+																70886 data item (项) 费用日期
+																70887 data item (项) 费用项目
+																70888 data item (项) 项目
+																70889 data item (项) 会计科目编码
+																70890 data item (项) 承担主体
+																70891 data item (项) 出行人
+																70892 data item (项) 报销人
+																70893 data item (项) 出差开始日期
+																70894 data item (项) 出差结束日期
+																70895 data item (项) 住宿天数
+																70896 data item (项) 起始城市
+																70897 data item (项) 到达城市
+																70898 data item (项) 发票类型
+																70899 data item (项) 发票号码
+																70900 data item (项) 发票金额
+																70901 data item (项) 报销金额
+																70902 data item (项) 财务核定金额（预算扣减金额）
+																70903 data item (项) 说明
+																70904 data item (项) 税率
+																70905 data item (项) 税额
+																70906 data item (项) 不含税金额
+																70907 data item (项) 相关发票
+																70908 data item (项) 附件
+															71028 data item (行)
+																71029 data item (项)
+																	71030 checkbox (复选框) (disabled)
+																71031 data item (项) 1
+																71032 data item (项) 2023-07-17
+																	71033 group (组)
+																71034 data item (项) 差旅费＞差旅费-火车
+																	71035 group (组)
+																		71036 hyperlink (链接) 差旅费＞差旅费-火车 Description: 差旅费＞差旅费-火车
+																71037 data item (项) 售前支持
+																	71038 group (组)
+																		71039 hyperlink (链接) 售前支持 Description: 售前支持
+																71040 data item (项) 6601006
+																	71041 group (组)
+																71042 data item (项) 信用及数管业务线
+																	71043 group (组)
+																		71044 hyperlink (链接) 信用及数管业务线 Description: 信用及数管业务线
+																71045 data item (项) 竺杭杰
+																	71046 group (组)
+																		71047 hyperlink (链接) 竺杭杰 Description: 竺杭杰
+																71048 data item (项) 竺杭杰
+																	71049 group (组)
+																		71050 hyperlink (链接) 竺杭杰 Description: 竺杭杰
+																71051 data item (项) 2023-07-11
+																	71052 group (组)
+																71053 data item (项) 2023-07-12
+																	71054 group (组)
+																71055 data item (项)
+																	71056 group (组)
+																71057 data item (项) 杭州
+																	71058 group (组)
+																71059 data item (项) 上海
+																	71060 group (组)
+																71061 data item (项)
+																	71062 group (组)
+																71063 data item (项)
+																	71064 group (组)
+																71065 data item (项) 0.00
+																	71066 group (组)
+																71067 data item (项) 73.00
+																	71068 group (组)
+																71069 data item (项) 73.00
+																	71070 group (组)
+																71071 data item (项)
+																	71072 group (组)
+																71073 data item (项) 0.09
+																	71074 group (组)
+																71075 data item (项) 6.03
+																	71076 group (组)
+																71077 data item (项) 66.97
+																	71078 group (组)
+																71079 data item (项)
+																	71080 group (组)
+																71081 data item (项)
+																	71082 group (组)
+															71083 data item (行)
+																71084 data item (项)
+																	71085 checkbox (复选框) (disabled)
+																71086 data item (项) 2
+																71087 data item (项) 2023-07-17
+																	71088 group (组)
+																71089 data item (项) 差旅费＞差旅费-火车
+																	71090 group (组)
+																		71091 hyperlink (链接) 差旅费＞差旅费-火车 Description: 差旅费＞差旅费-火车
+																71092 data item (项) 售前支持
+																	71093 group (组)
+																		71094 hyperlink (链接) 售前支持 Description: 售前支持
+																71095 data item (项) 6601006
+																	71096 group (组)
+																71097 data item (项) 信用及数管业务线
+																	71098 group (组)
+																		71099 hyperlink (链接) 信用及数管业务线 Description: 信用及数管业务线
+																71100 data item (项) 竺杭杰
+																	71101 group (组)
+																		71102 hyperlink (链接) 竺杭杰 Description: 竺杭杰
+																71103 data item (项) 竺杭杰
+																	71104 group (组)
+																		71105 hyperlink (链接) 竺杭杰 Description: 竺杭杰
+																71106 data item (项) 2023-07-11
+																	71107 group (组)
+																71108 data item (项) 2023-07-12
+																	71109 group (组)
+																71110 data item (项)
+																	71111 group (组)
+																71112 data item (项) 杭州
+																	71113 group (组)
+																71114 data item (项) 上海
+																	71115 group (组)
+																71116 data item (项)
+																	71117 group (组)
+																71118 data item (项)
+																	71119 group (组)
+																71120 data item (项) 0.00
+																	71121 group (组)
+																71122 data item (项) 73.00
+																	71123 group (组)
+																71124 data item (项) 73.00
+																	71125 group (组)
+																71126 data item (项)
+																	71127 group (组)
+																71128 data item (项) 0.09
+																	71129 group (组)
+																71130 data item (项) 6.03
+																	71131 group (组)
+																71132 data item (项) 66.97
+																	71133 group (组)
+																71134 data item (项)
+																	71135 group (组)
+																71136 data item (项)
+																	71137 group (组)
+															71138 data item (行)
+																71139 data item (项)
+																	71140 checkbox (复选框) (disabled)
+																71141 data item (项) 3
+																71142 data item (项) 2023-07-17
+																	71143 group (组)
+																71144 data item (项) 差旅费＞差旅费-出差补贴
+																	71145 group (组)
+																		71146 hyperlink (链接) 差旅费＞差旅费-出差补贴 Description: 差旅费＞差旅费-出差补贴
+																71147 data item (项) 售前支持
+																	71148 group (组)
+																		71149 hyperlink (链接) 售前支持 Description: 售前支持
+																71150 data item (项) 6601010
+																	71151 group (组)
+																71152 data item (项) 信用及数管业务线
+																	71153 group (组)
+																		71154 hyperlink (链接) 信用及数管业务线 Description: 信用及数管业务线
+																71155 data item (项) 竺杭杰
+																	71156 group (组)
+																		71157 hyperlink (链接) 竺杭杰 Description: 竺杭杰
+																71158 data item (项) 竺杭杰
+																	71159 group (组)
+																		71160 hyperlink (链接) 竺杭杰 Description: 竺杭杰
+																71161 data item (项) 2023-07-11
+																	71162 group (组)
+																71163 data item (项) 2023-07-12
+																	71164 group (组)
+																71165 data item (项)
+																	71166 group (组)
+																71167 data item (项) 杭州
+																	71168 group (组)
+																71169 data item (项) 上海
+																	71170 group (组)
+																71171 data item (项)
+																	71172 group (组)
+																71173 data item (项)
+																	71174 group (组)
+																71175 data item (项) 0.00
+																	71176 group (组)
+																71177 data item (项) 150.00
+																	71178 group (组)
+																71179 data item (项) 150.00
+																	71180 group (组)
+																71181 data item (项) （2-0.5）*100=150
+																	71182 group (组)
+																71183 data item (项) 0.00
+																	71184 group (组)
+																71185 data item (项) 0.00
+																	71186 group (组)
+																71187 data item (项) 150.00
+																	71188 group (组)
+																71189 data item (项)
+																	71190 group (组)
+																71191 data item (项)
+																	71192 group (组)
+															70909 data item (行)
+																70910 data item (项) 合计
+																70911 data item (项)
+																70912 data item (项)
+																70913 data item (项)
+																70914 data item (项)
+																70915 data item (项)
+																70916 data item (项)
+																70917 data item (项)
+																70918 data item (项)
+																70919 data item (项)
+																70920 data item (项)
+																70921 data item (项)
+																70922 data item (项)
+																70923 data item (项)
+																70924 data item (项)
+																70925 data item (项)
+																70926 data item (项)
+																70927 data item (项)
+																70928 data item (项)
+																70929 data item (项)
+																70930 data item (项)
+																70931 data item (项)
+																70932 data item (项)
+																70933 data item (项)
+													70934 data item (项)
+												70935 data item (行)
+													70936 data item (项)
+													70937 data item (项)
+														70938 table (表格) ID: oTable3
+															70939 data item (行)
+																70940 data item (项)
+																70941 data item (项)
+																70942 data item (项)
+																70943 data item (项)
+																70944 data item (项)
+																70945 data item (项)
+																70946 data item (项)
+																70947 data item (项)
+																70948 data item (项)
+																70949 data item (项)
+																70950 data item (项)
+															70951 data item (行)
+																70952 data item (项) 冲销借款明细
+																70953 data item (项)
+																70954 data item (项)
+																70955 data item (项)
+																70956 data item (项)
+																70957 data item (项)
+																70958 data item (项)
+															70959 data item (行)
+																70960 data item (项)
+																	70961 checkbox (复选框) (disabled)
+																70962 data item (项) 序号
+																70963 data item (项) 借款人
+																70964 data item (项) 借款流程
+																70965 data item (项) 借款单单号
+																70966 data item (项) 借款部门
+																70967 data item (项) 核定项目
+																70968 data item (项) 费用说明
+																70969 data item (项) 每单借款余额
+																70970 data item (项) 冲销借款金额
+																70971 data item (项) 在途冲销金额
+															70972 data item (行)
+																70973 data item (项)
+																70974 data item (项)
+																70975 data item (项)
+																70976 data item (项)
+																70977 data item (项)
+																70978 data item (项)
+																70979 data item (项)
+																70980 data item (项)
+																70981 data item (项)
+																70982 data item (项) 0.00
+																70983 data item (项)
+													70984 data item (项)
+												70985 data item (行)
+													70986 data item (项)
+													70987 data item (项)
+														70988 table (表格) ID: oTable2
+															70989 data item (行)
+																70990 data item (项)
+																70991 data item (项)
+																70992 data item (项)
+																70993 data item (项)
+																70994 data item (项)
+																70995 data item (项)
+															70996 data item (行)
+																70997 data item (项) 打款明细
+																70998 data item (项)
+																70999 data item (项)
+																71000 data item (项)
+																71001 data item (项)
+															71002 data item (行)
+																71003 data item (项)
+																	71004 checkbox (复选框) (disabled)
+																71005 data item (项) 序号
+																71006 data item (项) 姓名
+																71007 data item (项) 账号信息
+																71008 data item (项) 银行支行信息
+																71009 data item (项) 金额
+															71193 data item (行)
+																71194 data item (项)
+																	71195 checkbox (复选框) (disabled)
+																71196 data item (项) 1
+																71197 data item (项) 竺杭杰
+																	71198 group (组)
+																		71199 hyperlink (链接) 竺杭杰 Description: 竺杭杰
+																71200 data item (项) 623061571025897609
+																	71201 group (组)
+																71202 data item (项) 杭州银行
+																	71203 group (组)
+																71204 data item (项) 296.00
+																	71205 group (组)
+													71010 data item (项)
+											71011 menu (菜单)
+												71012 menu item (菜单项) 流转意见
+												71206 menu item (菜单项) 与我相关
+											71013 group (组)
+												71014 text (文本) 
+											71015 text (文本) |
+											71016 group (组)
+												71017 text (文本) 
+										70519 group (组)
+								15543 document (文档) Value: chrome://newtab-footer/ ID: RootWebArea
+									15544 hyperlink (链接) Unsplash Instant
+									15545 button (切换按钮) 自定义 Chrome Description: 自定义此页 ID: customizeButton
+										15546 image (图形) ID: baseSvg
+										15547 text (文本) 自定义 Chrome
+							15548 pane (区域)
+						15549 pane (区域)
+							15550 pane (区域)
+								15551 button (按钮) 标签页搜索
+							15552 pane (区域) ID: view_21
+								15553 tab (选项卡)
+									15554 tab item (选项卡项目) (selectable) GaussDB字符集UTF8影响 - DeepSeek - 内存用量 - 141 MB ID: view_20
+										15555 button (按钮) 关闭
+									15556 tab item (选项卡项目) (selectable) Merge Requests · Dashboard · GitLab ID: view_20
+										15557 button (按钮) 关闭
+									15558 tab item (选项卡项目) (selectable) 衡泰技术个人门户 - 内存用量 - 251 MB ID: view_20
+										15559 button (按钮) 关闭
+									15560 tab item (选项卡项目) (selectable) 出差申请及报销流程-竺杭杰-2023-07-13 ID: view_20
+										15561 button (按钮) 关闭
+									15562 tab item (选项卡项目) (selectable) 中证整体步骤梳理 - 内存用量 - 634 MB ID: view_20
+										15563 button (按钮) 关闭
+									15564 tab item (选项卡项目) (selectable) 需求变更记录 - 内存用量 - 521 MB ID: view_20
+										15565 button (按钮) 关闭
+									15566 tab item (选项卡项目) (selectable) 2026年11月 - 内存用量 - 494 MB ID: view_20
+										15567 button (按钮) 关闭
+									15568 tab item (选项卡项目) (selectable) 中证周会 - 内存用量 - 486 MB ID: view_20
+										15569 button (按钮) 关闭
+									15570 tab item (选项卡项目) (selectable) 在线Markdown编辑器 - 免费实时预览编辑器 ID: view_20
+										15571 button (按钮) 关闭
+									15572 tab item (选项卡项目) (selectable) V2EX - 内存用量 - 109 MB ID: view_20
+										15573 button (按钮) 关闭
+									15574 tab item (选项卡项目) (selectable) 泼墨成画 - V2EX - 内存用量 - 133 MB ID: view_20
+										15575 button (按钮) 关闭
+								15576 pane (区域)
+							15577 button (按钮) 新标签页
+							15578 pane (区域)
+							15579 pane (区域)
+								15580 button (按钮) 打开 Chrome 中的 Gemini
+								15581 pane (区域)
+						15582 pane (区域)
+
+Document text: ```
+Unsplash Instant
+￼
+￼
+自定义 Chrome
+```
+
+Focused element: 15504 text field (编辑) (settable, string) 地址和搜索栏 Description: 问问 Google 或输入网址 Value: oa.xquant.com/spa/workflow/static4form/index.html?_rdm=1794988119836#/main/workflow/req?requestid=950962&_key=q63z9a ID: view_1012
+
+Document text:
+Unsplash Instant
+￼
+￼
+自定义 Chrome

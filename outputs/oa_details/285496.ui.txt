@@ -1,0 +1,691 @@
+Window: "差旅费报销流程-竺杭杰-2020-12-07 - Google Chrome", App: chrome.exe.
+	0 window (窗口) 差旅费报销流程-竺杭杰-2020-12-07 - Google Chrome Secondary Actions: Raise
+		1 pane (窗格) (disabled)
+		2 pane (区域) 差旅费报销流程-竺杭杰-2020-12-07 - Google Chrome
+			3 pane (区域)
+				4 pane (区域)
+					5 pane (区域)
+						6 button (按钮) 最小化 ID: view_1
+						475 button (按钮) 最大化 ID: view_2
+						8 button (按钮) 关闭 ID: view_4
+					9 pane (区域)
+						10 pane (区域)
+							11 toolbar (工具栏) ID: view_1000
+								12 button (按钮) 返回 ID: view_1001
+								13 button (按钮) (disabled) 前进 ID: view_1002
+								14 button (按钮) 重新加载 ID: view_1003
+								15 group (组)
+									16 button (按钮) 查看网站信息 ID: view_1011
+									17 text field (编辑) (settable, string) 地址和搜索栏 Description: 问问 Google 或输入网址 Value: oa.xquant.com/spa/workflow/static4form/index.html?_rdm=1794986799440#/main/workflow/req?requestid=285496&_key=2cxdan ID: view_1012
+									18 pane (区域)
+										3563 button (按钮) 为此标签页添加书签
+								20 pane (区域)
+									21 button (按钮) Postman Interceptor 可以访问此网站 ID: view_1009
+									22 button (按钮) 扩展程序 ID: view_1006
+								23 pane (区域)
+								24 button (按钮) 杭杰 ID: view_1018
+								25 button (按钮) Chrome ID: view_1007
+							26 toolbar (工具栏) 书签 ID: view_1025
+								27 toolbar (工具栏) 已保存的标签页分组
+									28 button (按钮) 标签页分组
+								29 separator (分隔符) 分隔符
+								30 button (书签文件夹按钮) 历史 ID: view_1028
+								31 button (书签文件夹按钮) 站点 ID: view_1028
+								32 button (书签文件夹按钮) 社区 ID: view_1028
+								33 button (书签文件夹按钮) 工具 ID: view_1028
+								34 button (书签文件夹按钮) 公司 ID: view_1028
+								35 button (书签文件夹按钮) 信创 ID: view_1028
+								36 button (书签文件夹按钮) 数据库 ID: view_1028
+								37 button (书签文件夹按钮) 性能 ID: view_1028
+								38 button (书签文件夹按钮) 前端 ID: view_1028
+								39 button (书签文件夹按钮) java ID: view_1028
+								40 button (书签文件夹按钮) python ID: view_1028
+								41 button (书签文件夹按钮) 金融 ID: view_1028
+								42 button (书签文件夹按钮) 业务模块 ID: view_1028
+								43 button (书签文件夹按钮) 数理统计 ID: view_1028
+								44 button (书签文件夹按钮) AIGC ID: view_1028
+								45 button (书签文件夹按钮) linux ID: view_1028
+								46 button (书签文件夹按钮) 运维 ID: view_1028
+								47 button (书签文件夹按钮) SAP ID: view_1028
+								48 button (书签文件夹按钮) 生活 ID: view_1028
+								49 button (书签文件夹按钮) web3&区块链 ID: view_1028
+								50 button (书签文件夹按钮) cs ID: view_1028
+								51 button (书签文件夹按钮) hotel ID: view_1028
+						52 pane (区域)
+							53 pane (区域)
+								54 pane (区域)
+								3564 document (文档) 差旅费报销流程-竺杭杰-2020-12-07 Value: https://oa.xquant.com/spa/workflow/static4form/index.html?_rdm=1794986799440#/main/workflow/req?requestid=285496&_key=2cxdan ID: RootWebArea
+									3565 group (组)
+										3577 text (文本) 
+										3831 text (文本) 流程:处理 - 差旅费报销流程 - 出纳 至 归档
+										3832 text (文本) CLFBX202012074796
+										3833 group (组) Description: 关注
+											3834 text (文本) 
+										3567 tab (选项卡)
+											3568 tab item (选项卡项目) (selectable) 流程表单
+											3569 tab item (选项卡项目) (selectable) 流程图
+											3570 tab item (选项卡项目) (selectable) 流程状态
+										3571 pane (选项卡面板)
+										3835 button (按钮) 转 发 Description: 转发
+										3572 group (组)
+											3836 text (文本) 
+										3582 group (组)
+											3583 table (表格)
+												3584 data item (行)
+													3585 data item (项) 差旅费报销流程
+												3586 data item (行)
+													3587 data item (项)
+												3588 data item (行)
+													3589 data item (项) 标题
+													3590 data item (项) 差旅费报销流程-竺杭杰-2020-12-07
+														3591 group (组)
+													3592 data item (项) 单据编号
+													3593 data item (项) CLFBX202012074796
+														3594 group (组)
+												3595 data item (行)
+													3596 data item (项) 报销人
+													3597 data item (项) 竺杭杰
+														3598 group (组)
+															3837 hyperlink (链接) 竺杭杰 Description: 竺杭杰
+													3599 data item (项) 报销日期
+													3600 data item (项) 2020-12-07
+														3601 group (组)
+												3602 data item (行)
+													3603 data item (项) 部门
+													3604 data item (项) 数据业务线/信用产品部/开发组
+														3605 group (组)
+															3838 hyperlink (链接) 数据业务线/信用产品部/开发组 Description: 数据业务线/信用产品部/开发组
+													3606 data item (项) 人员属性
+													3607 data item (项) 成本
+														3608 group (组)
+												3609 data item (行)
+													3610 data item (项) 入账公司
+													3611 data item (项) 杭州衡泰技术股份有限公司
+														3612 group (组)
+															3839 hyperlink (链接) 杭州衡泰技术股份有限公司 Description: 杭州衡泰技术股份有限公司
+													3613 data item (项) 性别
+													3614 data item (项) 男
+														3615 group (组)
+												3616 data item (行)
+													3617 data item (项) 费用承担部门
+													3618 data item (项) 数据业务线/信用产品部/开发组 请选到末级部门！
+														3619 group (组)
+															3840 hyperlink (链接) 数据业务线/信用产品部/开发组 Description: 数据业务线/信用产品部/开发组
+													3620 data item (项) 属地
+													3621 data item (项) 杭州
+														3622 group (组)
+															3841 hyperlink (链接) 杭州 Description: 杭州
+												3623 data item (行)
+													3624 data item (项) 预算部门
+													3625 data item (项) 数据业务线/信用产品部
+														3626 group (组)
+															3842 hyperlink (链接) 数据业务线/信用产品部 Description: 数据业务线/信用产品部
+													3627 data item (项) 预算科目
+													3628 data item (项) 差旅费
+														3629 group (组)
+															3843 hyperlink (链接) 差旅费 Description: 差旅费
+												3630 data item (行)
+													3631 data item (项) 是否存在借款流程
+													3632 data item (项) 否
+														3633 group (组)
+													3634 data item (项) 冲销借款金额
+													3635 data item (项) 0.00
+														3636 group (组)
+												3637 data item (行)
+													3638 data item (项) 合计报销金额
+													3639 data item (项) 5389.72
+														3640 group (组)
+													3641 data item (项) 付款金额
+													3642 data item (项) 5389.72
+														3643 group (组)
+												3644 data item (行)
+													3645 data item (项) 事由
+													3646 data item (项) 中泰北京需求调研 最多可填写20个字！
+														3647 group (组)
+												3648 data item (行)
+													3649 data item (项) 核定事由
+													3650 data item (项) 中泰北京需求调研
+														3651 group (组)
+												3652 data item (行)
+													3653 data item (项) 是否入住宿舍
+													3654 data item (项) 否
+														3655 group (组)
+												3656 data item (行)
+													3657 data item (项) 关联借款流程
+													3658 data item (项)
+														3659 group (组)
+												3664 data item (行)
+													3665 data item (项) 关联出差申请
+													3666 data item (项) 出差申请流程-竺杭杰-2020-11-30
+														3667 group (组)
+															3844 hyperlink (链接) 出差申请流程-竺杭杰-2020-11-30
+												3668 data item (行)
+													3669 data item (项) 补贴标准（例如：小明的出差补贴是150/天，交通补贴是300/月，折算后每日差补：150-300/30=140/天）
+												3670 data item (行)
+													3671 data item (项) 出差补贴
+													3672 data item (项) 150
+														3673 group (组)
+													3674 data item (项) 交通补贴（工资中已发放）
+													3675 data item (项) 0
+														3676 group (组)
+												3677 data item (行)
+													3678 data item (项) 报销信息
+												3679 data item (行)
+													3680 data item (项)
+														3681 table (表格)
+															3682 data item (行)
+																3683 data item (项)
+																3684 data item (项)
+																3685 data item (项)
+																3686 data item (项)
+																3687 data item (项)
+																3688 data item (项)
+																3689 data item (项)
+																3690 data item (项)
+																3691 data item (项)
+																3692 data item (项)
+																3693 data item (项)
+																3694 data item (项)
+																3695 data item (项)
+																3696 data item (项)
+																3697 data item (项)
+																3698 data item (项)
+															3699 data item (行)
+																3700 data item (项)
+																3701 data item (项)
+																3702 data item (项)
+																3703 data item (项)
+																3704 data item (项)
+																3705 data item (项)
+																3706 data item (项)
+																3707 data item (项)
+																3708 data item (项)
+																3709 data item (项)
+																3710 data item (项)
+																3711 data item (项)
+																3712 data item (项)
+																3713 data item (项)
+																3714 data item (项)
+																3715 data item (项)
+														3716 table (表格) ID: oTable0
+															3717 data item (行)
+																3718 data item (项)
+																3719 data item (项)
+																3720 data item (项)
+																3721 data item (项)
+																3722 data item (项)
+																3723 data item (项)
+																3724 data item (项)
+																3725 data item (项)
+																3726 data item (项)
+																3727 data item (项)
+																3728 data item (项)
+																3729 data item (项)
+																3730 data item (项)
+																3731 data item (项)
+																3732 data item (项)
+																3733 data item (项)
+															3734 data item (行)
+																3735 data item (项)
+																	3736 checkbox (复选框) (disabled)
+																3737 data item (项) 序号
+																3738 data item (项) 费用项目
+																3739 data item (项) 项目
+																3740 data item (项) 会计科目编码
+																3741 data item (项) 预算部门
+																3742 data item (项) 出差开始日期
+																3743 data item (项) 出差结束日期
+																3744 data item (项) 起始城市
+																3745 data item (项) 到达城市
+																3746 data item (项) 报销金额
+																3747 data item (项) 核定金额
+																3748 data item (项) 说明
+																3749 data item (项) 税率
+																3750 data item (项) 税额
+																3751 data item (项) 不含税金额
+															3890 data item (行)
+																3891 data item (项)
+																	3892 checkbox (复选框) (disabled)
+																3893 data item (项) 1
+																3894 data item (项) 差旅费＞差旅费-火车
+																	3895 group (组)
+																		3896 hyperlink (链接) 差旅费＞差旅费-火车 Description: 差旅费＞差旅费-火车
+																3897 data item (项)
+																	3898 group (组)
+																		3899 hyperlink (链接)
+																3900 data item (项) 5201006
+																	3901 group (组)
+																3902 data item (项) 数据业务线/信用产品部
+																	3903 group (组)
+																		3904 hyperlink (链接) 数据业务线/信用产品部 Description: 数据业务线/信用产品部
+																3905 data item (项) 2020-11-21
+																	3906 group (组)
+																3907 data item (项) 2020-11-21
+																	3908 group (组)
+																3909 data item (项) 杭州
+																	3910 group (组)
+																3911 data item (项) 北京
+																	3912 group (组)
+																3913 data item (项) 538.50
+																	3914 group (组)
+																3915 data item (项) 538.50
+																	3916 group (组)
+																3917 data item (项)
+																	3918 group (组)
+																3919 data item (项) 0.09
+																	3920 group (组)
+																3921 data item (项) 44.46
+																	3922 group (组)
+																3923 data item (项) 494.04
+																	3924 group (组)
+															3925 data item (行)
+																3926 data item (项)
+																	3927 checkbox (复选框) (disabled)
+																3928 data item (项) 2
+																3929 data item (项) 差旅费＞差旅费-火车
+																	3930 group (组)
+																		3931 hyperlink (链接) 差旅费＞差旅费-火车 Description: 差旅费＞差旅费-火车
+																3932 data item (项)
+																	3933 group (组)
+																		3934 hyperlink (链接)
+																3935 data item (项) 5201006
+																	3936 group (组)
+																3937 data item (项) 数据业务线/信用产品部
+																	3938 group (组)
+																		3939 hyperlink (链接) 数据业务线/信用产品部 Description: 数据业务线/信用产品部
+																3940 data item (项) 2020-12-05
+																	3941 group (组)
+																3942 data item (项) 2020-12-05
+																	3943 group (组)
+																3944 data item (项) 北京
+																	3945 group (组)
+																3946 data item (项) 杭州
+																	3947 group (组)
+																3948 data item (项) 538.50
+																	3949 group (组)
+																3950 data item (项) 538.50
+																	3951 group (组)
+																3952 data item (项)
+																	3953 group (组)
+																3954 data item (项) 0.09
+																	3955 group (组)
+																3956 data item (项) 44.46
+																	3957 group (组)
+																3958 data item (项) 494.04
+																	3959 group (组)
+															3960 data item (行)
+																3961 data item (项)
+																	3962 checkbox (复选框) (disabled)
+																3963 data item (项) 3
+																3964 data item (项) 差旅费＞差旅费-市内交通费
+																	3965 group (组)
+																		3966 hyperlink (链接) 差旅费＞差旅费-市内交通费 Description: 差旅费＞差旅费-市内交通费
+																3967 data item (项)
+																	3968 group (组)
+																		3969 hyperlink (链接)
+																3970 data item (项) 5201008
+																	3971 group (组)
+																3972 data item (项) 数据业务线/信用产品部
+																	3973 group (组)
+																		3974 hyperlink (链接) 数据业务线/信用产品部 Description: 数据业务线/信用产品部
+																3975 data item (项) 2020-11-21
+																	3976 group (组)
+																3977 data item (项) 2020-11-21
+																	3978 group (组)
+																3979 data item (项) 白荡海
+																	3980 group (组)
+																3981 data item (项) 杭州东站
+																	3982 group (组)
+																3983 data item (项) 32.89
+																	3984 group (组)
+																3985 data item (项) 32.89
+																	3986 group (组)
+																3987 data item (项)
+																	3988 group (组)
+																3989 data item (项) 0.00
+																	3990 group (组)
+																3991 data item (项) 0.00
+																	3992 group (组)
+																3993 data item (项) 32.89
+																	3994 group (组)
+															3995 data item (行)
+																3996 data item (项)
+																	3997 checkbox (复选框) (disabled)
+																3998 data item (项) 4
+																3999 data item (项) 差旅费＞差旅费-市内交通费
+																	4000 group (组)
+																		4001 hyperlink (链接) 差旅费＞差旅费-市内交通费 Description: 差旅费＞差旅费-市内交通费
+																4002 data item (项)
+																	4003 group (组)
+																		4004 hyperlink (链接)
+																4005 data item (项) 5201008
+																	4006 group (组)
+																4007 data item (项) 数据业务线/信用产品部
+																	4008 group (组)
+																		4009 hyperlink (链接) 数据业务线/信用产品部 Description: 数据业务线/信用产品部
+																4010 data item (项) 2020-12-05
+																	4011 group (组)
+																4012 data item (项) 2020-12-05
+																	4013 group (组)
+																4014 data item (项) 杭州东站
+																	4015 group (组)
+																4016 data item (项) 白荡海人家
+																	4017 group (组)
+																4018 data item (项) 39.83
+																	4019 group (组)
+																4020 data item (项) 39.83
+																	4021 group (组)
+																4022 data item (项)
+																	4023 group (组)
+																4024 data item (项) 0.00
+																	4025 group (组)
+																4026 data item (项) 0.00
+																	4027 group (组)
+																4028 data item (项) 39.83
+																	4029 group (组)
+															4030 data item (行)
+																4031 data item (项)
+																	4032 checkbox (复选框) (disabled)
+																4033 data item (项) 5
+																4034 data item (项) 差旅费＞差旅费-住宿费
+																	4035 group (组)
+																		4036 hyperlink (链接) 差旅费＞差旅费-住宿费 Description: 差旅费＞差旅费-住宿费
+																4037 data item (项)
+																	4038 group (组)
+																		4039 hyperlink (链接)
+																4040 data item (项) 5201009
+																	4041 group (组)
+																4042 data item (项) 数据业务线/信用产品部
+																	4043 group (组)
+																		4044 hyperlink (链接) 数据业务线/信用产品部 Description: 数据业务线/信用产品部
+																4045 data item (项) 2020-11-29
+																	4046 group (组)
+																4047 data item (项) 2020-12-05
+																	4048 group (组)
+																4049 data item (项) 杭州
+																	4050 group (组)
+																4051 data item (项) 北京
+																	4052 group (组)
+																4053 data item (项) 2065.00
+																	4054 group (组)
+																4055 data item (项) 2065.00
+																	4056 group (组)
+																4057 data item (项)
+																	4058 group (组)
+																4059 data item (项) 0.00
+																	4060 group (组)
+																4061 data item (项) 0.00
+																	4062 group (组)
+																4063 data item (项) 2065.00
+																	4064 group (组)
+															4065 data item (行)
+																4066 data item (项)
+																	4067 checkbox (复选框) (disabled)
+																4068 data item (项) 6
+																4069 data item (项) 差旅费＞差旅费-出差补贴
+																	4070 group (组)
+																		4071 hyperlink (链接) 差旅费＞差旅费-出差补贴 Description: 差旅费＞差旅费-出差补贴
+																4072 data item (项)
+																	4073 group (组)
+																		4074 hyperlink (链接)
+																4075 data item (项) 5201010
+																	4076 group (组)
+																4077 data item (项) 数据业务线/信用产品部
+																	4078 group (组)
+																		4079 hyperlink (链接) 数据业务线/信用产品部 Description: 数据业务线/信用产品部
+																4080 data item (项) 2020-11-21
+																	4081 group (组)
+																4082 data item (项) 2020-12-05
+																	4083 group (组)
+																4084 data item (项) 杭州
+																	4085 group (组)
+																4086 data item (项) 北京
+																	4087 group (组)
+																4088 data item (项) 2325.00
+																	4089 group (组)
+																4090 data item (项) 2175.00
+																	4091 group (组)
+																4092 data item (项)
+																	4093 group (组)
+																4094 data item (项) 0.00
+																	4095 group (组)
+																4096 data item (项) 0.00
+																	4097 group (组)
+																4098 data item (项) 2175.00
+																	4099 group (组)
+												3752 data item (行)
+													3753 data item (项) 冲销信息
+												3754 data item (行)
+													3755 data item (项)
+														3756 table (表格) ID: oTable2
+															3757 data item (行)
+																3758 data item (项)
+																3759 data item (项)
+																3760 data item (项)
+																3761 data item (项)
+																3762 data item (项)
+																3763 data item (项)
+																3764 data item (项)
+																3765 data item (项)
+																3766 data item (项)
+																3767 data item (项)
+															3768 data item (行)
+																3769 data item (项)
+																3770 data item (项)
+																3771 data item (项)
+																3772 data item (项)
+																3773 data item (项)
+																3774 data item (项)
+																3775 data item (项)
+																3776 data item (项)
+																3777 data item (项)
+																3778 data item (项)
+															3779 data item (行)
+																3780 data item (项)
+																	3781 checkbox (复选框) (disabled)
+																3782 data item (项) 序号
+																3783 data item (项) 借款人
+																3784 data item (项) 借款流程
+																3785 data item (项) 借款单单号
+																3786 data item (项) 借款部门
+																3787 data item (项) 核定项目
+																3788 data item (项) 费用说明
+																3789 data item (项) 每单借款余额
+																3790 data item (项) 冲销借款金额
+															4100 data item (行)
+																4101 data item (项)
+																	4102 checkbox (复选框) (disabled)
+																4103 data item (项) 1
+																4104 data item (项) 竺杭杰
+																	4105 group (组)
+																		4106 hyperlink (链接) 竺杭杰 Description: 竺杭杰
+																4107 data item (项)
+																	4108 group (组)
+																4109 data item (项)
+																	4110 group (组)
+																4111 data item (项) 数据业务线/信用产品部/开发组
+																	4112 group (组)
+																		4113 hyperlink (链接) 数据业务线/信用产品部/开发组 Description: 数据业务线/信用产品部/开发组
+																4114 data item (项)
+																	4115 group (组)
+																4116 data item (项)
+																	4117 group (组)
+																4118 data item (项)
+																	4119 group (组)
+																4120 data item (项)
+																	4121 group (组)
+												3791 data item (行)
+													3792 data item (项) 打款信息
+												3793 data item (行)
+													3794 data item (项)
+														3795 table (表格) ID: oTable1
+															3796 data item (行)
+																3797 data item (项)
+																3798 data item (项)
+																3799 data item (项)
+																3800 data item (项)
+																3801 data item (项)
+																3802 data item (项)
+															3803 data item (行)
+																3804 data item (项)
+																3805 data item (项)
+																3806 data item (项)
+																3807 data item (项)
+																3808 data item (项)
+																3809 data item (项)
+															3810 data item (行)
+																3811 data item (项)
+																	3812 checkbox (复选框) (disabled)
+																3813 data item (项) 序号
+																3814 data item (项) 姓名
+																3815 data item (项) 账号信息
+																3816 data item (项) 银行支行信息
+																3817 data item (项) 金额
+															4122 data item (行)
+																4123 data item (项)
+																	4124 checkbox (复选框) (disabled)
+																4125 data item (项) 1
+																4126 data item (项) 竺杭杰
+																	4127 group (组)
+																		4128 hyperlink (链接) 竺杭杰 Description: 竺杭杰
+																4129 data item (项) 623061571025897609
+																	4130 group (组)
+																4131 data item (项) 杭州银行
+																	4132 group (组)
+																4133 data item (项) 5389.72
+																	4134 group (组)
+												3818 data item (行)
+													3819 data item (项) 凭证返回编号
+													3820 data item (项)
+														3821 group (组)
+													3822 data item (项)
+													3823 data item (项)
+											3824 menu (菜单)
+												3825 menu item (菜单项) 流转意见
+												3845 menu item (菜单项) 与我相关
+											3826 group (组)
+												3827 text (文本) 
+											3828 text (文本) |
+											3829 group (组)
+												3830 text (文本) 
+											4135 text (文本) 艳菲
+											3846 hyperlink (链接) 陈艳菲 Value: javascript:openhrm(792)
+											3847 hyperlink (链接) 职能总部/财务部/财务组 Value: https://oa.xquant.com/spa/hrm/engine.html#/hrmengine/organization?showTree=false&isView=1&type=department&id=255&_key=3b4uab
+											3848 text (文本) 接收人
+											3849 text (文本) :
+											3850 text (文本) 竺杭杰
+											3851 text (文本) 2020-12-14 16:48:09
+											3852 text (文本) [出纳 / 批准]
+											3853 hyperlink (链接) 汪丽 Value: javascript:openhrm(662)
+											3854 hyperlink (链接) 职能总部/财务部/管理组 Value: https://oa.xquant.com/spa/hrm/engine.html#/hrmengine/organization?showTree=false&isView=1&type=department&id=281&_key=3b4uab
+											3855 text (文本) 接收人
+											3856 text (文本) :
+											3857 text (文本) 陈艳菲
+											3858 text (文本) 2020-12-14 15:35:45
+											3859 text (文本) [财务二级审核 / 批准]
+											3860 hyperlink (链接) 卓园梅 Value: javascript:openhrm(838)
+											3861 hyperlink (链接) 职能总部/财务部/财务组 Value: https://oa.xquant.com/spa/hrm/engine.html#/hrmengine/organization?showTree=false&isView=1&type=department&id=255&_key=3b4uab
+											3862 text (文本) 接收人
+											3863 text (文本) :
+											3864 text (文本) 汪丽 曹洁
+											3865 text (文本) 2020-12-12 10:36:33
+											3866 text (文本) [财务一级审核 / 批准]
+											4136 text (文本) 寒晓
+											3867 hyperlink (链接) 姜寒晓 Value: javascript:openhrm(32)
+											3868 hyperlink (链接) 数据业务线/信用产品部/管理层 Value: https://oa.xquant.com/spa/hrm/engine.html#/hrmengine/organization?showTree=false&isView=1&type=department&id=248&_key=3b4uab
+											3869 text (文本) 接收人
+											3870 text (文本) :
+											3871 text (文本) 潘美婷 卓园梅
+											3872 text (文本) 2020-12-09 10:45:49
+											3873 text (文本) [二级部门负责人 / 批准]
+											4137 text (文本) 金良
+											3874 hyperlink (链接) 唐金良 Value: javascript:openhrm(1294)
+											3875 hyperlink (链接) 数据业务线/信用产品部/管理组 Value: https://oa.xquant.com/spa/hrm/engine.html#/hrmengine/organization?showTree=false&isView=1&type=department&id=238&_key=3b4uab
+											3876 text (文本) 接收人
+											3877 text (文本) :
+											3878 text (文本) 姜寒晓
+											3879 text (文本) 2020-12-08 10:05:02
+											3880 text (文本) [三级负责人 / 批准]
+											3881 hyperlink (链接) 竺杭杰 Value: javascript:openhrm(755)
+											3882 hyperlink (链接) 数据业务线/信用产品部/开发组 Value: https://oa.xquant.com/spa/hrm/engine.html#/hrmengine/organization?showTree=false&isView=1&type=department&id=451&_key=3b4uab
+											3883 text (文本) 
+											3884 text (文本) 来自Web手机版客户端
+											3885 text (文本) 接收人
+											3886 text (文本) :
+											3887 text (文本) 唐金良
+											3888 text (文本) 2020-12-07 18:42:09
+											3889 text (文本) [申请人 / 提交]
+											4138 list (列表)
+												4139 text (文本) 共6条
+												4140 list item (列表项目) 第一页 Description: 第一页
+													4141 text (文本) 
+												4142 list item (列表项目) 上一页 Description: 上一页
+													4143 text (文本) 
+												4144 list item (列表项目) 第一页 Description: 第一页
+												4145 list item (列表项目) 下一页 Description: 下一页
+													4146 text (文本) 
+												4147 list item (列表项目) 最后一页 Description: 最后一页
+													4148 text (文本) 
+												4149 group (组)
+													4150 combo box (组合框) (settable, string) Value: 10 条/页
+														4151 text (文本) 10 条/页
+														4152 group (组)
+												4153 text (文本) 跳至
+												4154 text field (编辑) (settable, string) Value: 1
+												4155 text (文本) 页
+										3576 group (组)
+								435 document (文档) Value: chrome://newtab-footer/ ID: RootWebArea
+									436 hyperlink (链接) Unsplash Instant
+									437 button (切换按钮) 自定义 Chrome Description: 自定义此页 ID: customizeButton
+										438 image (图形) ID: baseSvg
+										439 text (文本) 自定义 Chrome
+							440 pane (区域)
+						441 pane (区域)
+							442 pane (区域)
+								443 button (按钮) 标签页搜索
+							444 pane (区域) ID: view_21
+								445 tab (选项卡)
+									446 tab item (选项卡项目) (selectable) GaussDB字符集UTF8影响 - DeepSeek - 内存用量 - 141 MB ID: view_20
+										447 button (按钮) 关闭
+									448 tab item (选项卡项目) (selectable) Merge Requests · Dashboard · GitLab ID: view_20
+										449 button (按钮) 关闭
+									450 tab item (选项卡项目) (selectable) 衡泰技术个人门户 - 内存用量 - 251 MB ID: view_20
+										451 button (按钮) 关闭
+									452 tab item (选项卡项目) (selectable) 差旅费报销流程-竺杭杰-2020-12-07 - 内存用量 - 235 MB ID: view_20
+										453 button (按钮) 关闭
+									454 tab item (选项卡项目) (selectable) 中证整体步骤梳理 - 内存用量 - 634 MB ID: view_20
+										455 button (按钮) 关闭
+									456 tab item (选项卡项目) (selectable) 需求变更记录 - 内存用量 - 521 MB ID: view_20
+										457 button (按钮) 关闭
+									458 tab item (选项卡项目) (selectable) 2026年11月 - 内存用量 - 494 MB ID: view_20
+										459 button (按钮) 关闭
+									460 tab item (选项卡项目) (selectable) 中证周会 - 内存用量 - 486 MB ID: view_20
+										461 button (按钮) 关闭
+									462 tab item (选项卡项目) (selectable) 在线Markdown编辑器 - 免费实时预览编辑器 ID: view_20
+										463 button (按钮) 关闭
+									464 tab item (选项卡项目) (selectable) V2EX - 内存用量 - 109 MB ID: view_20
+										465 button (按钮) 关闭
+									466 tab item (选项卡项目) (selectable) 泼墨成画 - V2EX - 内存用量 - 133 MB ID: view_20
+										467 button (按钮) 关闭
+								468 pane (区域)
+							469 button (按钮) 新标签页
+							470 pane (区域)
+							471 pane (区域)
+								472 button (按钮) 打开 Chrome 中的 Gemini
+								473 pane (区域)
+						474 pane (区域)
+
+Document text: ```
+Unsplash Instant
+￼
+￼
+自定义 Chrome
+```
+
+Focused element: 17 text field (编辑) (settable, string) 地址和搜索栏 Description: 问问 Google 或输入网址 Value: oa.xquant.com/spa/workflow/static4form/index.html?_rdm=1794986799440#/main/workflow/req?requestid=285496&_key=2cxdan ID: view_1012
+
+Document text:
+Unsplash Instant
+￼
+￼
+自定义 Chrome

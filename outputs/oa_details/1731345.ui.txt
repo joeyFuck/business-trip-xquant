@@ -1,0 +1,743 @@
+Window: "出差申请及报销流程-竺杭杰-2026-10-19 - Google Chrome", App: chrome.exe.
+	0 window (窗口) 出差申请及报销流程-竺杭杰-2026-10-19 - Google Chrome Secondary Actions: Raise
+		1 pane (窗格) (disabled)
+		2 pane (区域) 出差申请及报销流程-竺杭杰-2026-10-19 - Google Chrome
+			3 pane (区域)
+				4 pane (区域)
+					5 pane (区域)
+						6 button (按钮) 最小化 ID: view_1
+						475 button (按钮) 最大化 ID: view_2
+						8 button (按钮) 关闭 ID: view_4
+					9 pane (区域)
+						10 pane (区域)
+							11 toolbar (工具栏) ID: view_1000
+								12 button (按钮) 返回 ID: view_1001
+								13 button (按钮) (disabled) 前进 ID: view_1002
+								14 button (按钮) 重新加载 ID: view_1003
+								15 group (组)
+									16 button (按钮) 查看网站信息 ID: view_1011
+									17 text field (编辑) (settable, string) 地址和搜索栏 Description: 问问 Google 或输入网址 Value: oa.xquant.com/spa/workflow/static4form/index.html?_rdm=1794987020765#/main/workflow/req?requestid=1731345&_key=5e9lwn ID: view_1012
+									18 pane (区域)
+										9221 button (按钮) 为此标签页添加书签
+								20 pane (区域)
+									21 button (按钮) Postman Interceptor 可以访问此网站 ID: view_1009
+									22 button (按钮) 扩展程序 ID: view_1006
+								23 pane (区域)
+								24 button (按钮) 杭杰 ID: view_1018
+								25 button (按钮) Chrome ID: view_1007
+							26 toolbar (工具栏) 书签 ID: view_1025
+								27 toolbar (工具栏) 已保存的标签页分组
+									28 button (按钮) 标签页分组
+								29 separator (分隔符) 分隔符
+								30 button (书签文件夹按钮) 历史 ID: view_1028
+								31 button (书签文件夹按钮) 站点 ID: view_1028
+								32 button (书签文件夹按钮) 社区 ID: view_1028
+								33 button (书签文件夹按钮) 工具 ID: view_1028
+								34 button (书签文件夹按钮) 公司 ID: view_1028
+								35 button (书签文件夹按钮) 信创 ID: view_1028
+								36 button (书签文件夹按钮) 数据库 ID: view_1028
+								37 button (书签文件夹按钮) 性能 ID: view_1028
+								38 button (书签文件夹按钮) 前端 ID: view_1028
+								39 button (书签文件夹按钮) java ID: view_1028
+								40 button (书签文件夹按钮) python ID: view_1028
+								41 button (书签文件夹按钮) 金融 ID: view_1028
+								42 button (书签文件夹按钮) 业务模块 ID: view_1028
+								43 button (书签文件夹按钮) 数理统计 ID: view_1028
+								44 button (书签文件夹按钮) AIGC ID: view_1028
+								45 button (书签文件夹按钮) linux ID: view_1028
+								46 button (书签文件夹按钮) 运维 ID: view_1028
+								47 button (书签文件夹按钮) SAP ID: view_1028
+								48 button (书签文件夹按钮) 生活 ID: view_1028
+								49 button (书签文件夹按钮) web3&区块链 ID: view_1028
+								50 button (书签文件夹按钮) cs ID: view_1028
+								51 button (书签文件夹按钮) hotel ID: view_1028
+						52 pane (区域)
+							53 pane (区域)
+								54 pane (区域)
+								9222 document (文档) 出差申请及报销流程-竺杭杰-2026-10-19 Value: https://oa.xquant.com/spa/workflow/static4form/index.html?_rdm=1794987020765#/main/workflow/req?requestid=1731345&_key=5e9lwn ID: RootWebArea
+									9223 group (组)
+										9224 text (文本) 
+										9225 text (文本) 流程:处理 - 出差申请及报销流程 - 财务一级至出纳
+										9226 text (文本) CLSQBX-2026101937853
+										9227 group (组) Description: 关注
+											9228 text (文本) 
+										9229 tab (选项卡)
+											9230 tab item (选项卡项目) (selectable) 流程表单
+											9231 tab item (选项卡项目) (selectable) 流程图
+											9232 tab item (选项卡项目) (selectable) 流程状态
+										9233 pane (选项卡面板)
+										9234 group (组)
+											9235 text (文本) 
+										9236 group (组)
+											9237 table (表格)
+												9238 data item (行)
+													9239 data item (项)
+													9240 data item (项) 员工出差申请及报销流程
+													9241 data item (项)
+												9242 data item (行)
+													9243 data item (项)
+													9244 data item (项) 标题
+													9245 data item (项) 出差申请及报销流程-竺杭杰-2026-10-19
+														9246 group (组)
+													9247 data item (项) 流程编号
+													9248 data item (项) CLSQBX-2026101937853
+														9249 group (组)
+													9250 data item (项)
+												9251 data item (行)
+													9252 data item (项)
+													9253 data item (项) 申请人
+													9254 data item (项) 竺杭杰
+														9255 group (组)
+															9256 hyperlink (链接) 竺杭杰 Description: 竺杭杰
+													9257 data item (项) 申请日期
+													9258 data item (项) 2026-10-19
+														9259 group (组)
+													9260 data item (项)
+												9261 data item (行)
+													9262 data item (项)
+													9263 data item (项) 申请人部门
+													9264 data item (项) 信用及数管业务线/信用管理及公共/信用管理组 杭州衡泰技术股份有限公司
+														9265 group (组)
+															9266 hyperlink (链接) 信用及数管业务线/信用管理及公共/信用管理组 Description: 信用及数管业务线/信用管理及公共/信用管理组
+														9267 group (组)
+															9268 hyperlink (链接) 杭州衡泰技术股份有限公司 Description: 杭州衡泰技术股份有限公司
+													9269 data item (项) 属地
+													9270 data item (项) 杭州
+														9271 group (组)
+															9272 hyperlink (链接) 杭州 Description: 杭州
+													9273 data item (项)
+												9274 data item (行)
+													9275 data item (项)
+													9276 data item (项) 费用承担部门
+													9277 data item (项) 信用及数管业务线/信用管理及公共/信用管理组 请选到末级部门！
+														9278 group (组)
+															9279 hyperlink (链接) 信用及数管业务线/信用管理及公共/信用管理组 Description: 信用及数管业务线/信用管理及公共/信用管理组
+													9280 data item (项) 团队内分组
+													9281 data item (项) /
+														9282 group (组)
+													9283 data item (项)
+												9284 data item (行)
+													9285 data item (项)
+													9286 data item (项) 人员属性
+													9287 data item (项) 成本
+														9288 group (组)
+													9289 data item (项) 性别
+													9290 data item (项) 男
+														9291 group (组)
+													9292 data item (项)
+												9293 data item (行)
+													9294 data item (项)
+													9295 data item (项) ——出差申请内容——
+													9296 data item (项)
+												9297 data item (行)
+													9298 data item (项)
+													9299 data item (项) 出差事由
+													9300 data item (项) 中证驻场
+														9301 group (组)
+													9302 data item (项)
+												9303 data item (行)
+													9304 data item (项)
+													9305 data item (项) 出差实际开始日期
+													9306 data item (项) 2026-10-19 08:30
+														9307 group (组)
+														9308 group (组)
+													9309 data item (项) 出差预计开始日期
+													9310 data item (项) 2026-10-19 08:30
+														9311 group (组)
+														9312 group (组)
+													9313 data item (项)
+												9314 data item (行)
+													9315 data item (项)
+													9316 data item (项) 出差实际结束日期
+													9317 data item (项) 2026-10-23 18:00
+														9318 group (组)
+														9319 group (组)
+													9320 data item (项) 出差预计结束日期
+													9321 data item (项) 2026-10-23 18:00
+														9322 group (组)
+														9323 group (组)
+													9324 data item (项)
+												9325 data item (行)
+													9326 data item (项)
+													9327 data item (项) 出差天数
+													9328 data item (项) 5
+														9329 group (组)
+													9330 data item (项) 床铺单价
+													9331 data item (项)
+														9332 group (组)
+													9333 data item (项)
+												9334 data item (行)
+													9335 data item (项)
+													9336 data item (项) 出差期间是否需要打卡
+													9337 data item (项) 是
+														9338 group (组)
+													9339 data item (项)
+													9340 data item (项)
+													9341 data item (项)
+												9342 data item (行)
+													9343 data item (项)
+													9344 data item (项) 住宿时间
+													9345 data item (项) 2026-10-19 —— 2026-10-23
+														9346 group (组)
+														9347 group (组)
+													9348 data item (项) 宿舍总支出
+													9349 data item (项) 0.00
+														9350 group (组)
+													9351 data item (项)
+												9352 data item (行)
+													9353 data item (项)
+													9354 data item (项) 备注
+													9355 data item (项)
+														9356 group (组)
+													9357 data item (项)
+												9358 data item (行)
+													9359 data item (项)
+													9360 data item (项) ——出差报销内容——
+													9361 data item (项)
+												9362 data item (行)
+													9363 data item (项)
+													9364 data item (项) 入账公司
+													9365 data item (项) 杭州衡泰技术股份有限公司
+														9366 group (组)
+															9367 hyperlink (链接) 杭州衡泰技术股份有限公司 Description: 杭州衡泰技术股份有限公司
+													9368 data item (项) 预算部门
+													9369 data item (项) 信用及数管业务线/信用管理及公共
+														9370 group (组)
+															9371 hyperlink (链接) 信用及数管业务线/信用管理及公共 Description: 信用及数管业务线/信用管理及公共
+													9372 data item (项)
+												9373 data item (行)
+													9374 data item (项)
+													9375 data item (项) 合计报销金额
+													9376 data item (项) 624.00
+														9377 group (组)
+													9378 data item (项) 预算科目
+													9379 data item (项)
+														9380 group (组)
+													9381 data item (项)
+												9382 data item (行)
+													9383 data item (项)
+													9384 data item (项) 合计发票金额
+													9385 data item (项) 327.00
+														9386 group (组)
+													9387 data item (项) 付款金额
+													9388 data item (项) 624.00
+														9389 group (组)
+													9390 data item (项)
+												9391 data item (行)
+													9392 data item (项)
+													9393 data item (项) 发票类别
+													9394 data item (项) 纯电子发票 纯电子发票无需提供纸质件
+														9395 group (组)
+													9396 data item (项) 冲销借款金额
+													9397 data item (项)
+														9398 group (组)
+													9399 data item (项)
+												9400 data item (行)
+													9401 data item (项)
+													9402 data item (项) 预算信息
+													9403 data item (项)
+														9404 group (组)
+													9405 data item (项)
+												9406 data item (行)
+													9407 data item (项)
+													9408 data item (项) 财务核定事由
+													9409 data item (项) 中证驻场
+														9410 group (组)
+													9411 data item (项)
+												9412 data item (行)
+													9413 data item (项)
+													9414 data item (项) 补贴标准（例如：小明的出差补贴是100/天，交通补贴是300/月，折算后每日差补：100-300/30=90/天）
+													9415 data item (项)
+												9416 data item (行)
+													9417 data item (项)
+													9418 data item (项) 出差补贴
+													9419 data item (项) 100
+														9420 group (组)
+													9421 data item (项) 交通补贴（工资中已发放）
+													9422 data item (项) 0
+														9423 group (组)
+													9424 data item (项)
+												9425 data item (行)
+													9426 data item (项)
+													9427 data item (项)
+													9428 data item (项) 订单详情
+													9429 data item (项) 是否有同住人
+													9430 data item (项) 是
+														9431 group (组)
+													9432 data item (项)
+												9433 data item (行)
+													9434 data item (项)
+													9435 data item (项)
+														9436 document (文档) Value: https://oa.xquant.com/interface/ctrip/CtripOrderList.jsp?requestid=1731345 ID: RootWebArea
+															9437 table (表格)
+															9438 hyperlink (链接) 单击取消 Description: 单击取消 Value: javascript:;
+													9439 data item (项)
+												9440 data item (行)
+													9441 data item (项)
+													9442 data item (项)
+														9443 table (表格) ID: oTable0
+															9444 data item (行)
+																9445 data item (项)
+																9446 data item (项)
+																9447 data item (项)
+																9448 data item (项)
+																9449 data item (项)
+																9450 data item (项)
+																9451 data item (项)
+																9452 data item (项)
+																9453 data item (项)
+																9454 data item (项)
+																9455 data item (项)
+																9456 data item (项)
+																9457 data item (项)
+																9458 data item (项)
+																9459 data item (项)
+																9460 data item (项)
+																9461 data item (项)
+															9462 data item (行)
+																9463 data item (项) 携程商旅平台公司垫付明细
+																9464 data item (项)
+																9465 data item (项)
+																9466 data item (项)
+															9467 data item (行)
+																9468 data item (项)
+																	9469 checkbox (复选框) (disabled)
+																9470 data item (项) 序号
+																9471 data item (项) 费用项目
+																9472 data item (项) 项目
+																9473 data item (项) 会计科目编码
+																9474 data item (项) 承担部门
+																9475 data item (项) 出行人
+																9476 data item (项) 预算扣减金额
+																9477 data item (项) 结算金额
+																9478 data item (项) 税率
+																9479 data item (项) 税额
+																9480 data item (项) 不含税金额
+																9481 data item (项) 费用日期
+																9482 data item (项) 起始城市
+																9483 data item (项) 到达城市
+																9484 data item (项) 酒店天数
+																9485 data item (项) 酒店差标
+															9486 data item (行)
+																9487 data item (项) 合计
+																9488 data item (项) 0.00
+																9489 data item (项) 0.00
+																9490 data item (项)
+																9491 data item (项)
+																9492 data item (项)
+																9493 data item (项)
+																9494 data item (项)
+																9495 data item (项)
+																9496 data item (项)
+																9497 data item (项)
+													9498 data item (项)
+												9499 data item (行)
+													9500 data item (项)
+													9501 data item (项) 携程报销合计
+													9502 data item (项)
+														9503 group (组)
+													9504 data item (项) 携程结算合计
+													9505 data item (项)
+														9506 group (组)
+													9507 data item (项)
+												9508 data item (行)
+													9509 data item (项)
+													9510 data item (项)
+													9511 data item (项)
+												9512 data item (行)
+													9513 data item (项)
+													9514 data item (项)
+														9515 table (表格) ID: oTable1
+															9516 data item (行)
+																9517 data item (项)
+																9518 data item (项)
+																9519 data item (项)
+																9520 data item (项)
+																9521 data item (项)
+																9522 data item (项)
+																9523 data item (项)
+																9524 data item (项)
+																9525 data item (项)
+																9526 data item (项)
+																9527 data item (项)
+																9528 data item (项)
+																9529 data item (项)
+																9530 data item (项)
+																9531 data item (项)
+																9532 data item (项)
+																9533 data item (项)
+																9534 data item (项)
+																9535 data item (项)
+																9536 data item (项)
+																9537 data item (项)
+															9538 data item (行)
+																9539 data item (项) 个人报销明细
+																9540 data item (项)
+																9541 data item (项)
+																9542 data item (项)
+																9543 data item (项)
+																9544 data item (项)
+																9545 data item (项)
+																9546 data item (项)
+																9547 data item (项)
+																9548 data item (项)
+																9549 data item (项)
+																9550 data item (项)
+																9551 data item (项)
+																9552 data item (项)
+																9553 data item (项)
+																9554 data item (项)
+																9555 data item (项)
+																9556 data item (项)
+																9557 data item (项)
+															9558 data item (行)
+																9559 data item (项)
+																	9560 checkbox (复选框) (disabled)
+																9561 data item (项) 序号
+																9562 data item (项) 费用项目
+																9563 data item (项) 项目
+																9564 data item (项) 会计科目编码
+																9565 data item (项) 承担主体
+																9566 data item (项) 出差开始日期
+																9567 data item (项) 出差结束日期
+																9568 data item (项) 起始城市
+																9569 data item (项) 到达城市
+																9570 data item (项) 发票类型
+																9571 data item (项) 发票号码
+																9572 data item (项) 发票金额
+																9573 data item (项) 报销金额
+																9574 data item (项) 财务核定金额（预算扣减金额）
+																9575 data item (项) 说明
+																9576 data item (项) 税率
+																9577 data item (项) 税额
+																9578 data item (项) 不含税金额
+																9579 data item (项) 相关发票
+																9580 data item (项) 附件
+															9581 data item (行)
+																9582 data item (项)
+																	9583 checkbox (复选框) (disabled)
+																9584 data item (项) 1
+																9585 data item (项) 差旅费＞差旅费-火车
+																	9586 group (组)
+																		9587 hyperlink (链接) 差旅费＞差旅费-火车 Description: 差旅费＞差旅费-火车
+																9588 data item (项) 中证指数xCIRMS1.02026-2027年度新一代估值系统建设项目
+																	9589 group (组)
+																		9590 hyperlink (链接) 中证指数xCIRMS1.02026-2027年度新一代估值系统建设项目 Description: 中证指数xCIRMS1.02026-2027年度新一代估值系统建设项目
+																9591 data item (项) 5201006
+																	9592 group (组)
+																9593 data item (项) 信用及数管业务线/信用管理及公共
+																	9594 group (组)
+																		9595 hyperlink (链接) 信用及数管业务线/信用管理及公共 Description: 信用及数管业务线/信用管理及公共
+																9596 data item (项) 2026-10-19
+																	9597 group (组)
+																9598 data item (项) 2026-10-23
+																	9599 group (组)
+																9600 data item (项) 杭州
+																	9601 group (组)
+																9602 data item (项) 上海
+																	9603 group (组)
+																9604 data item (项) 电子发票（铁路电子客票）
+																	9605 group (组)
+																9606 data item (项) 26319166100014206851
+																	9607 group (组)
+																		9608 hyperlink (链接) 26319166100014206851
+																9609 data item (项) 172.00
+																	9610 group (组)
+																9611 data item (项) 87.00
+																	9612 group (组)
+																9613 data item (项) 87.00
+																	9614 group (组)
+																9615 data item (项)
+																	9616 group (组)
+																9617 data item (项) 0.00
+																	9618 group (组)
+																9619 data item (项) 0.00
+																	9620 group (组)
+																9621 data item (项) 87.00
+																	9622 group (组)
+																9623 data item (项) 电子发票-2cu6t12000u97wyu024B6.pdf
+																	9624 group (组)
+																		9625 hyperlink (链接) 电子发票-2cu6t12000u97wyu024B6.pdf
+																9626 data item (项)
+																	9627 group (组)
+															9628 data item (行)
+																9629 data item (项)
+																	9630 checkbox (复选框) (disabled)
+																9631 data item (项) 2
+																9632 data item (项) 差旅费＞差旅费-火车
+																	9633 group (组)
+																		9634 hyperlink (链接) 差旅费＞差旅费-火车 Description: 差旅费＞差旅费-火车
+																9635 data item (项) 中证指数xCIRMS1.02026-2027年度新一代估值系统建设项目
+																	9636 group (组)
+																		9637 hyperlink (链接) 中证指数xCIRMS1.02026-2027年度新一代估值系统建设项目 Description: 中证指数xCIRMS1.02026-2027年度新一代估值系统建设项目
+																9638 data item (项) 5201006
+																	9639 group (组)
+																9640 data item (项) 信用及数管业务线/信用管理及公共
+																	9641 group (组)
+																		9642 hyperlink (链接) 信用及数管业务线/信用管理及公共 Description: 信用及数管业务线/信用管理及公共
+																9643 data item (项) 2026-10-19
+																	9644 group (组)
+																9645 data item (项) 2026-10-23
+																	9646 group (组)
+																9647 data item (项) 上海
+																	9648 group (组)
+																9649 data item (项) 杭州
+																	9650 group (组)
+																9651 data item (项) 电子发票（铁路电子客票）
+																	9652 group (组)
+																9653 data item (项) 26939133284003329586
+																	9654 group (组)
+																		9655 hyperlink (链接) 26939133284003329586
+																9656 data item (项) 155.00
+																	9657 group (组)
+																9658 data item (项) 87.00
+																	9659 group (组)
+																9660 data item (项) 87.00
+																	9661 group (组)
+																9662 data item (项)
+																	9663 group (组)
+																9664 data item (项) 0.00
+																	9665 group (组)
+																9666 data item (项) 0.00
+																	9667 group (组)
+																9668 data item (项) 87.00
+																	9669 group (组)
+																9670 data item (项) 电子发票-2cu4a12000u97x1tx65BB.pdf
+																	9671 group (组)
+																		9672 hyperlink (链接) 电子发票-2cu4a12000u97x1tx65BB.pdf
+																9673 data item (项)
+																	9674 group (组)
+															9675 data item (行)
+																9676 data item (项)
+																	9677 checkbox (复选框) (disabled)
+																9678 data item (项) 3
+																9679 data item (项) 差旅费＞差旅费-出差补贴
+																	9680 group (组)
+																		9681 hyperlink (链接) 差旅费＞差旅费-出差补贴 Description: 差旅费＞差旅费-出差补贴
+																9682 data item (项) 中证指数xCIRMS1.02026-2027年度新一代估值系统建设项目
+																	9683 group (组)
+																		9684 hyperlink (链接) 中证指数xCIRMS1.02026-2027年度新一代估值系统建设项目 Description: 中证指数xCIRMS1.02026-2027年度新一代估值系统建设项目
+																9685 data item (项) 5201010
+																	9686 group (组)
+																9687 data item (项) 信用及数管业务线/信用管理及公共
+																	9688 group (组)
+																		9689 hyperlink (链接) 信用及数管业务线/信用管理及公共 Description: 信用及数管业务线/信用管理及公共
+																9690 data item (项) 2026-10-19
+																	9691 group (组)
+																9692 data item (项) 2026-10-23
+																	9693 group (组)
+																9694 data item (项) 杭州
+																	9695 group (组)
+																9696 data item (项) 上海
+																	9697 group (组)
+																9698 data item (项)
+																	9699 group (组)
+																9700 data item (项)
+																	9701 group (组)
+																9702 data item (项) 0.00
+																	9703 group (组)
+																9704 data item (项) 450.00
+																	9705 group (组)
+																9706 data item (项) 450.00
+																	9707 group (组)
+																9708 data item (项) (5-0.5)*100
+																	9709 group (组)
+																9710 data item (项) 0.00
+																	9711 group (组)
+																9712 data item (项) 0.00
+																	9713 group (组)
+																9714 data item (项) 450.00
+																	9715 group (组)
+																9716 data item (项)
+																	9717 group (组)
+																9718 data item (项)
+																	9719 group (组)
+															9720 data item (行)
+																9721 data item (项) 合计
+																9722 data item (项)
+																9723 data item (项)
+																9724 data item (项)
+																9725 data item (项)
+																9726 data item (项)
+																9727 data item (项)
+																9728 data item (项)
+																9729 data item (项)
+																9730 data item (项)
+																9731 data item (项)
+																9732 data item (项) 327.00
+																9733 data item (项) 624.00
+																9734 data item (项) 624.00
+																9735 data item (项)
+																9736 data item (项)
+																9737 data item (项) 0.00
+																9738 data item (项) 624.00
+																9739 data item (项)
+																9740 data item (项)
+													9741 data item (项)
+											9742 menu (菜单)
+												9743 menu item (菜单项) 流转意见
+												9744 menu item (菜单项) 与我相关
+											9745 group (组)
+												9746 text (文本) 
+											9747 text (文本) |
+											9748 group (组)
+												9749 text (文本) 
+											9750 text (文本) 莎莎
+											9751 hyperlink (链接) 郭莎莎 Value: javascript:openhrm(2096)
+											9752 hyperlink (链接) 职能总部/财务部/财务组 Value: https://oa.xquant.com/spa/hrm/engine.html#/hrmengine/organization?showTree=false&isView=1&type=department&id=255&_key=3b4uab
+											9753 text (文本) 接收人
+											9754 text (文本) :
+											9755 text (文本) 李兰 卓洪霞
+											9756 text (文本) 2026-11-18 14:59:17
+											9757 text (文本) [财务一级审核 / 批准]
+											9758 text (文本) 占锋
+											9759 hyperlink (链接) 胡占锋 Value: javascript:openhrm(11)
+											9760 hyperlink (链接) 职能总部/公司高层/经营层 Value: https://oa.xquant.com/spa/hrm/engine.html#/hrmengine/organization?showTree=false&isView=1&type=department&id=209&_key=3b4uab
+											9761 text (文本) 胡占锋 2026-11-17 16:42:51
+											9762 text (文本) 接收人
+											9763 text (文本) :
+											9764 text (文本) 郭莎莎 余锦溥
+											9765 text (文本) 2026-11-17 16:42:56
+											9766 text (文本) [业务线高管 / 批准]
+											9767 text (文本) 三星
+											9768 hyperlink (链接) 毛三星 Value: javascript:openhrm(16)
+											9769 hyperlink (链接) 信用及数管业务线/信用管理及公共/管理层 Value: https://oa.xquant.com/spa/hrm/engine.html#/hrmengine/organization?showTree=false&isView=1&type=department&id=1255&_key=3b4uab
+											9770 text (文本) 
+											9771 text (文本) 系统自动批准
+											9772 text (文本) 接收人
+											9773 text (文本) :
+											9774 text (文本) 胡占锋
+											9775 text (文本) 2026-11-09 15:58:12
+											9776 text (文本) [一级部门负责人 / 批准]
+											9777 text (文本) 三星
+											9778 hyperlink (链接) 毛三星 Value: javascript:openhrm(16)
+											9779 hyperlink (链接) 信用及数管业务线/信用管理及公共/管理层 Value: https://oa.xquant.com/spa/hrm/engine.html#/hrmengine/organization?showTree=false&isView=1&type=department&id=1255&_key=3b4uab
+											9780 text (文本) 
+											9781 text (文本) 系统自动批准
+											9782 text (文本) 接收人
+											9783 text (文本) :
+											9784 text (文本) 毛三星
+											9785 text (文本) 2026-11-09 15:58:09
+											9786 text (文本) [二级部门负责人 / 批准]
+											9787 text (文本) 三星
+											9788 hyperlink (链接) 毛三星 Value: javascript:openhrm(16)
+											9789 hyperlink (链接) 信用及数管业务线/信用管理及公共/管理层 Value: https://oa.xquant.com/spa/hrm/engine.html#/hrmengine/organization?showTree=false&isView=1&type=department&id=1255&_key=3b4uab
+											9790 text (文本) 接收人
+											9791 text (文本) :
+											9792 text (文本) 毛三星
+											9793 text (文本) 2026-11-09 15:58:06
+											9794 text (文本) [三级负责人审核 / 批准]
+											9795 text (文本) 晨晨
+											9796 hyperlink (链接) 罗晨晨 Value: javascript:openhrm(38)
+											9797 hyperlink (链接) 职能总部/行政部/行政组 Value: https://oa.xquant.com/spa/hrm/engine.html#/hrmengine/organization?showTree=false&isView=1&type=department&id=197&_key=3b4uab
+											9798 text (文本) 接收人
+											9799 text (文本) :
+											9800 text (文本) 毛三星
+											9801 text (文本) 2026-10-26 14:00:21
+											9802 text (文本) [商旅管理员复核 / 批准]
+											9803 hyperlink (链接) 竺杭杰 Value: javascript:openhrm(755)
+											9804 hyperlink (链接) 信用及数管业务线/信用管理及公共/信用管理组 Value: https://oa.xquant.com/spa/hrm/engine.html#/hrmengine/organization?showTree=false&isView=1&type=department&id=794&_key=3b4uab
+											9805 text (文本) 接收人
+											9806 text (文本) :
+											9807 text (文本) 罗晨晨
+											9808 text (文本) 2026-10-26 10:41:10
+											9809 text (文本) [同行人确认 / 批准]
+											9810 hyperlink (链接) 竺杭杰 Value: javascript:openhrm(755)
+											9811 hyperlink (链接) 信用及数管业务线/信用管理及公共/信用管理组 Value: https://oa.xquant.com/spa/hrm/engine.html#/hrmengine/organization?showTree=false&isView=1&type=department&id=794&_key=3b4uab
+											9812 text (文本) 接收人
+											9813 text (文本) :
+											9814 text (文本) 竺杭杰
+											9815 text (文本) 2026-10-26 10:40:57
+											9816 text (文本) [申请人报销 / 提交]
+											9817 hyperlink (链接) 竺杭杰 Value: javascript:openhrm(755)
+											9818 hyperlink (链接) 信用及数管业务线/信用管理及公共/信用管理组 Value: https://oa.xquant.com/spa/hrm/engine.html#/hrmengine/organization?showTree=false&isView=1&type=department&id=794&_key=3b4uab
+											9819 text (文本) 接收人
+											9820 text (文本) :
+											9821 text (文本) 竺杭杰
+											9822 text (文本) 2026-10-26 10:38:02
+											9823 text (文本) [1-申请人订票 / 提交]
+											9824 text (文本) 王荣
+											9825 hyperlink (链接) 王荣 Value: javascript:openhrm(2441)
+											9826 hyperlink (链接) 职能总部/行政部/行政组 Value: https://oa.xquant.com/spa/hrm/engine.html#/hrmengine/organization?showTree=false&isView=1&type=department&id=197&_key=3b4uab
+											9827 text (文本) 
+											9828 text (文本) 来自钉钉客户端
+											9829 text (文本) 接收人
+											9830 text (文本) :
+											9831 text (文本) 竺杭杰
+											9832 text (文本) 2026-10-19 09:29:05
+											9833 text (文本) [宿舍管理员 / 批准]
+											9834 list (列表)
+												9835 text (文本) 共12条
+												9836 list item (列表项目) 第一页 Description: 第一页
+													9837 text (文本) 
+												9838 list item (列表项目) 上一页 Description: 上一页
+													9839 text (文本) 
+												9840 list item (列表项目) 第一页 Description: 第一页
+												9841 list item (列表项目) 2 Description: 2
+												9842 list item (列表项目) 下一页 Description: 下一页
+													9843 text (文本) 
+												9844 list item (列表项目) 最后一页 Description: 最后一页
+													9845 text (文本) 
+												9846 group (组)
+													9847 combo box (组合框) (settable, string) Value: 10 条/页
+														9848 text (文本) 10 条/页
+														9849 group (组)
+												9850 text (文本) 跳至
+												9851 text field (编辑) (settable, string) Value: 1
+												9852 text (文本) 页
+										9853 group (组)
+								435 document (文档) Value: chrome://newtab-footer/ ID: RootWebArea
+									436 hyperlink (链接) Unsplash Instant
+									437 button (切换按钮) 自定义 Chrome Description: 自定义此页 ID: customizeButton
+										438 image (图形) ID: baseSvg
+										439 text (文本) 自定义 Chrome
+							440 pane (区域)
+						441 pane (区域)
+							442 pane (区域)
+								443 button (按钮) 标签页搜索
+							444 pane (区域) ID: view_21
+								445 tab (选项卡)
+									446 tab item (选项卡项目) (selectable) GaussDB字符集UTF8影响 - DeepSeek - 内存用量 - 141 MB ID: view_20
+										447 button (按钮) 关闭
+									448 tab item (选项卡项目) (selectable) Merge Requests · Dashboard · GitLab ID: view_20
+										449 button (按钮) 关闭
+									450 tab item (选项卡项目) (selectable) 衡泰技术个人门户 - 内存用量 - 251 MB ID: view_20
+										451 button (按钮) 关闭
+									452 tab item (选项卡项目) (selectable) 出差申请及报销流程-竺杭杰-2026-10-19 - 内存用量 - 333 MB ID: view_20
+										453 button (按钮) 关闭
+									454 tab item (选项卡项目) (selectable) 中证整体步骤梳理 - 内存用量 - 634 MB ID: view_20
+										455 button (按钮) 关闭
+									456 tab item (选项卡项目) (selectable) 需求变更记录 - 内存用量 - 521 MB ID: view_20
+										457 button (按钮) 关闭
+									458 tab item (选项卡项目) (selectable) 2026年11月 - 内存用量 - 494 MB ID: view_20
+										459 button (按钮) 关闭
+									460 tab item (选项卡项目) (selectable) 中证周会 - 内存用量 - 486 MB ID: view_20
+										461 button (按钮) 关闭
+									462 tab item (选项卡项目) (selectable) 在线Markdown编辑器 - 免费实时预览编辑器 ID: view_20
+										463 button (按钮) 关闭
+									464 tab item (选项卡项目) (selectable) V2EX - 内存用量 - 109 MB ID: view_20
+										465 button (按钮) 关闭
+									466 tab item (选项卡项目) (selectable) 泼墨成画 - V2EX - 内存用量 - 133 MB ID: view_20
+										467 button (按钮) 关闭
+								468 pane (区域)
+							469 button (按钮) 新标签页
+							470 pane (区域)
+							471 pane (区域)
+								472 button (按钮) 打开 Chrome 中的 Gemini
+								473 pane (区域)
+						474 pane (区域)
+
+Document text: ```
+Unsplash Instant
+￼
+￼
+自定义 Chrome
+```
+
+Focused element: 17 text field (编辑) (settable, string) 地址和搜索栏 Description: 问问 Google 或输入网址 Value: oa.xquant.com/spa/workflow/static4form/index.html?_rdm=1794987020765#/main/workflow/req?requestid=1731345&_key=5e9lwn ID: view_1012
+
+Document text:
+Unsplash Instant
+￼
+￼
+自定义 Chrome

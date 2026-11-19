@@ -1,0 +1,697 @@
+Window: "差旅费报销流程-竺杭杰-2021-07-27 - Google Chrome", App: chrome.exe.
+	0 window (窗口) 差旅费报销流程-竺杭杰-2021-07-27 - Google Chrome Secondary Actions: Raise
+		15756 pane (窗格) (disabled)
+		2 pane (区域) 差旅费报销流程-竺杭杰-2021-07-27 - Google Chrome
+			16500 pane (区域)
+				16501 pane (区域)
+					16502 pane (区域)
+						16503 button (按钮) 最小化 ID: view_1
+						16504 button (按钮) 最大化 ID: view_2
+						16505 button (按钮) 关闭 ID: view_4
+					16506 pane (区域)
+						16507 pane (区域)
+							16508 toolbar (工具栏) ID: view_1000
+								16509 button (按钮) 返回 ID: view_1001
+								16510 button (按钮) (disabled) 前进 ID: view_1002
+								16511 button (按钮) 重新加载 ID: view_1003
+								16512 group (组)
+									16513 button (按钮) 查看网站信息 ID: view_1011
+									16514 text field (编辑) (settable, string) 地址和搜索栏 Description: 问问 Google 或输入网址 Value: oa.xquant.com/spa/workflow/static4form/index.html?_rdm=1794964759081#/main/workflow/req?requestid=421085&_key=fu5oe4 ID: view_1012
+									16515 pane (区域)
+										22136 button (按钮) 为此标签页添加书签
+								16517 pane (区域)
+									16518 button (按钮) Postman Interceptor 可以访问此网站 ID: view_1009
+									16519 button (按钮) 扩展程序 ID: view_1006
+								16520 pane (区域)
+								16521 button (按钮) 杭杰 ID: view_1018
+								16522 button (按钮) Chrome ID: view_1007
+							16523 toolbar (工具栏) 书签 ID: view_1025
+								16524 toolbar (工具栏) 已保存的标签页分组
+									16525 button (按钮) 标签页分组
+								16526 separator (分隔符) 分隔符
+								16527 button (书签文件夹按钮) 历史 ID: view_1028
+								16528 button (书签文件夹按钮) 站点 ID: view_1028
+								16529 button (书签文件夹按钮) 社区 ID: view_1028
+								16530 button (书签文件夹按钮) 工具 ID: view_1028
+								16531 button (书签文件夹按钮) 公司 ID: view_1028
+								16532 button (书签文件夹按钮) 信创 ID: view_1028
+								16533 button (书签文件夹按钮) 数据库 ID: view_1028
+								16534 button (书签文件夹按钮) 性能 ID: view_1028
+								16535 button (书签文件夹按钮) 前端 ID: view_1028
+								16536 button (书签文件夹按钮) java ID: view_1028
+								16537 button (书签文件夹按钮) python ID: view_1028
+								16538 button (书签文件夹按钮) 金融 ID: view_1028
+								16539 button (书签文件夹按钮) 业务模块 ID: view_1028
+								16540 button (书签文件夹按钮) 数理统计 ID: view_1028
+								16541 button (书签文件夹按钮) AIGC ID: view_1028
+								16542 button (书签文件夹按钮) linux ID: view_1028
+								16543 button (书签文件夹按钮) 运维 ID: view_1028
+								16544 button (书签文件夹按钮) SAP ID: view_1028
+								16545 button (书签文件夹按钮) 生活 ID: view_1028
+								16546 button (书签文件夹按钮) web3&区块链 ID: view_1028
+								16547 button (书签文件夹按钮) cs ID: view_1028
+								16548 button (书签文件夹按钮) hotel ID: view_1028
+						16549 pane (区域)
+							16550 pane (区域)
+								16551 pane (区域)
+								22137 document (文档) 差旅费报销流程-竺杭杰-2021-07-27 Value: https://oa.xquant.com/spa/workflow/static4form/index.html?_rdm=1794964759081#/main/workflow/req?requestid=421085&_key=fu5oe4 ID: RootWebArea
+									22138 group (组)
+										22147 text (文本) 
+										22410 text (文本) 流程:处理 - 差旅费报销流程 - 出纳 至 归档
+										22411 text (文本) CLFBX202107277940
+										22412 group (组) Description: 关注
+											22413 text (文本) 
+										22140 tab (选项卡)
+											22141 tab item (选项卡项目) (selectable) 流程表单
+											22142 tab item (选项卡项目) (selectable) 流程图
+											22143 tab item (选项卡项目) (selectable) 流程状态
+										22144 pane (选项卡面板)
+										22414 button (按钮) 转 发 Description: 转发
+										22145 group (组)
+											22415 text (文本) 
+										22153 group (组)
+											22154 table (表格)
+												22155 data item (行)
+													22156 data item (项) 差旅费报销流程
+												22157 data item (行)
+													22158 data item (项)
+												22159 data item (行)
+													22160 data item (项) 标题
+													22161 data item (项) 差旅费报销流程-竺杭杰-2021-07-27
+														22162 group (组)
+													22163 data item (项) 单据编号
+													22164 data item (项) CLFBX202107277940
+														22165 group (组)
+												22166 data item (行)
+													22167 data item (项) 报销人
+													22168 data item (项) 竺杭杰
+														22169 group (组)
+															22170 hyperlink (链接) 竺杭杰 Description: 竺杭杰
+													22171 data item (项) 报销日期
+													22172 data item (项) 2021-07-27
+														22173 group (组)
+												22174 data item (行)
+													22175 data item (项) 部门
+													22176 data item (项) 数据业务线/信用产品部/开发组
+														22177 group (组)
+															22178 hyperlink (链接) 数据业务线/信用产品部/开发组 Description: 数据业务线/信用产品部/开发组
+													22179 data item (项) 人员属性
+													22180 data item (项) 成本
+														22181 group (组)
+												22182 data item (行)
+													22183 data item (项) 入账公司
+													22184 data item (项) 杭州衡泰技术股份有限公司
+														22185 group (组)
+															22186 hyperlink (链接) 杭州衡泰技术股份有限公司 Description: 杭州衡泰技术股份有限公司
+													22187 data item (项) 性别
+													22188 data item (项) 男
+														22189 group (组)
+												22190 data item (行)
+													22191 data item (项) 费用承担部门
+													22192 data item (项) 数据业务线/信用产品部/开发组 请选到末级部门！
+														22193 group (组)
+															22194 hyperlink (链接) 数据业务线/信用产品部/开发组 Description: 数据业务线/信用产品部/开发组
+													22195 data item (项) 属地
+													22196 data item (项) 杭州
+														22197 group (组)
+															22198 hyperlink (链接) 杭州 Description: 杭州
+												22199 data item (行)
+													22200 data item (项) 预算部门
+													22201 data item (项) 数据业务线/信用产品部
+														22202 group (组)
+															22203 hyperlink (链接) 数据业务线/信用产品部 Description: 数据业务线/信用产品部
+													22204 data item (项) 预算科目
+													22205 data item (项) 差旅费
+														22206 group (组)
+															22207 hyperlink (链接) 差旅费 Description: 差旅费
+												22208 data item (行)
+													22209 data item (项) 是否存在借款流程
+													22210 data item (项) 否
+														22211 group (组)
+													22212 data item (项) 冲销借款金额
+													22213 data item (项) 0.00
+														22214 group (组)
+												22215 data item (行)
+													22216 data item (项) 合计报销金额
+													22217 data item (项) 4586.98
+														22218 group (组)
+													22219 data item (项) 付款金额
+													22220 data item (项) 4586.98
+														22221 group (组)
+												22222 data item (行)
+													22223 data item (项) 事由
+													22224 data item (项) 中泰二期需求调研 最多可填写20个字！
+														22225 group (组)
+												22226 data item (行)
+													22227 data item (项) 核定事由
+													22228 data item (项) 中泰二期需求调研
+														22229 group (组)
+												22230 data item (行)
+													22231 data item (项) 是否入住宿舍
+													22232 data item (项) 否
+														22233 group (组)
+												22234 data item (行)
+													22235 data item (项) 关联借款流程
+													22236 data item (项)
+														22237 group (组)
+												22242 data item (行)
+													22243 data item (项) 关联出差申请
+													22244 data item (项) 出差申请流程-竺杭杰-2021-07-23
+														22245 group (组)
+															22246 hyperlink (链接) 出差申请流程-竺杭杰-2021-07-23
+												22247 data item (行)
+													22248 data item (项) 补贴标准（例如：小明的出差补贴是150/天，交通补贴是300/月，折算后每日差补：150-300/30=140/天）
+												22249 data item (行)
+													22250 data item (项) 出差补贴
+													22251 data item (项) 150
+														22252 group (组)
+													22253 data item (项) 交通补贴（工资中已发放）
+													22254 data item (项) 0
+														22255 group (组)
+												22256 data item (行)
+													22257 data item (项) 报销信息
+												22258 data item (行)
+													22259 data item (项)
+														22260 table (表格)
+															22261 data item (行)
+																22262 data item (项)
+																22263 data item (项)
+																22264 data item (项)
+																22265 data item (项)
+																22266 data item (项)
+																22267 data item (项)
+																22268 data item (项)
+																22269 data item (项)
+																22270 data item (项)
+																22271 data item (项)
+																22272 data item (项)
+																22273 data item (项)
+																22274 data item (项)
+																22275 data item (项)
+																22276 data item (项)
+																22277 data item (项)
+															22278 data item (行)
+																22279 data item (项)
+																22280 data item (项)
+																22281 data item (项)
+																22282 data item (项)
+																22283 data item (项)
+																22284 data item (项)
+																22285 data item (项)
+																22286 data item (项)
+																22287 data item (项)
+																22288 data item (项)
+																22289 data item (项)
+																22290 data item (项)
+																22291 data item (项)
+																22292 data item (项)
+																22293 data item (项)
+																22294 data item (项)
+														22295 table (表格) ID: oTable0
+															22296 data item (行)
+																22297 data item (项)
+																22298 data item (项)
+																22299 data item (项)
+																22300 data item (项)
+																22301 data item (项)
+																22302 data item (项)
+																22303 data item (项)
+																22304 data item (项)
+																22305 data item (项)
+																22306 data item (项)
+																22307 data item (项)
+																22308 data item (项)
+																22309 data item (项)
+																22310 data item (项)
+																22311 data item (项)
+																22312 data item (项)
+															22313 data item (行)
+																22314 data item (项)
+																	22315 checkbox (复选框) (disabled)
+																22316 data item (项) 序号
+																22317 data item (项) 费用项目
+																22318 data item (项) 项目
+																22319 data item (项) 会计科目编码
+																22320 data item (项) 预算部门
+																22321 data item (项) 出差开始日期
+																22322 data item (项) 出差结束日期
+																22323 data item (项) 起始城市
+																22324 data item (项) 到达城市
+																22325 data item (项) 报销金额
+																22326 data item (项) 核定金额
+																22327 data item (项) 说明
+																22328 data item (项) 税率
+																22329 data item (项) 税额
+																22330 data item (项) 不含税金额
+															22416 data item (行)
+																22417 data item (项)
+																	22418 checkbox (复选框) (disabled)
+																22419 data item (项) 1
+																22420 data item (项) 差旅费＞差旅费-市内交通费
+																	22421 group (组)
+																		22422 hyperlink (链接) 差旅费＞差旅费-市内交通费 Description: 差旅费＞差旅费-市内交通费
+																22423 data item (项) 售前支持
+																	22424 group (组)
+																		22425 hyperlink (链接) 售前支持 Description: 售前支持
+																22426 data item (项) 6601008
+																	22427 group (组)
+																22428 data item (项) 数据业务线/信用产品部
+																	22429 group (组)
+																		22430 hyperlink (链接) 数据业务线/信用产品部 Description: 数据业务线/信用产品部
+																22431 data item (项) 2021-07-18
+																	22432 group (组)
+																22433 data item (项) 2021-07-18
+																	22434 group (组)
+																22435 data item (项) 杭州
+																	22436 group (组)
+																22437 data item (项) 北京
+																	22438 group (组)
+																22439 data item (项) 88.98
+																	22440 group (组)
+																22441 data item (项) 88.98
+																	22442 group (组)
+																22443 data item (项)
+																	22444 group (组)
+																22445 data item (项) 0.00
+																	22446 group (组)
+																22447 data item (项) 0.00
+																	22448 group (组)
+																22449 data item (项) 88.98
+																	22450 group (组)
+															22451 data item (行)
+																22452 data item (项)
+																	22453 checkbox (复选框) (disabled)
+																22454 data item (项) 2
+																22455 data item (项) 差旅费＞差旅费-市内交通费
+																	22456 group (组)
+																		22457 hyperlink (链接) 差旅费＞差旅费-市内交通费 Description: 差旅费＞差旅费-市内交通费
+																22458 data item (项) 售前支持
+																	22459 group (组)
+																		22460 hyperlink (链接) 售前支持 Description: 售前支持
+																22461 data item (项) 6601008
+																	22462 group (组)
+																22463 data item (项) 数据业务线/信用产品部
+																	22464 group (组)
+																		22465 hyperlink (链接) 数据业务线/信用产品部 Description: 数据业务线/信用产品部
+																22466 data item (项) 2021-07-23
+																	22467 group (组)
+																22468 data item (项) 2021-07-23
+																	22469 group (组)
+																22470 data item (项) 北京
+																	22471 group (组)
+																22472 data item (项) 杭州
+																	22473 group (组)
+																22474 data item (项) 38.00
+																	22475 group (组)
+																22476 data item (项) 38.00
+																	22477 group (组)
+																22478 data item (项)
+																	22479 group (组)
+																22480 data item (项) 0.00
+																	22481 group (组)
+																22482 data item (项) 0.00
+																	22483 group (组)
+																22484 data item (项) 38.00
+																	22485 group (组)
+															22486 data item (行)
+																22487 data item (项)
+																	22488 checkbox (复选框) (disabled)
+																22489 data item (项) 3
+																22490 data item (项) 差旅费＞差旅费-火车
+																	22491 group (组)
+																		22492 hyperlink (链接) 差旅费＞差旅费-火车 Description: 差旅费＞差旅费-火车
+																22493 data item (项) 售前支持
+																	22494 group (组)
+																		22495 hyperlink (链接) 售前支持 Description: 售前支持
+																22496 data item (项) 6601006
+																	22497 group (组)
+																22498 data item (项) 数据业务线/信用产品部
+																	22499 group (组)
+																		22500 hyperlink (链接) 数据业务线/信用产品部 Description: 数据业务线/信用产品部
+																22501 data item (项) 2021-07-18
+																	22502 group (组)
+																22503 data item (项) 2021-07-18
+																	22504 group (组)
+																22505 data item (项) 杭州
+																	22506 group (组)
+																22507 data item (项) 北京
+																	22508 group (组)
+																22509 data item (项) 581.50
+																	22510 group (组)
+																22511 data item (项) 581.50
+																	22512 group (组)
+																22513 data item (项)
+																	22514 group (组)
+																22515 data item (项) 0.09
+																	22516 group (组)
+																22517 data item (项) 48.01
+																	22518 group (组)
+																22519 data item (项) 533.49
+																	22520 group (组)
+															22521 data item (行)
+																22522 data item (项)
+																	22523 checkbox (复选框) (disabled)
+																22524 data item (项) 4
+																22525 data item (项) 差旅费＞差旅费-火车
+																	22526 group (组)
+																		22527 hyperlink (链接) 差旅费＞差旅费-火车 Description: 差旅费＞差旅费-火车
+																22528 data item (项) 售前支持
+																	22529 group (组)
+																		22530 hyperlink (链接) 售前支持 Description: 售前支持
+																22531 data item (项) 6601006
+																	22532 group (组)
+																22533 data item (项) 数据业务线/信用产品部
+																	22534 group (组)
+																		22535 hyperlink (链接) 数据业务线/信用产品部 Description: 数据业务线/信用产品部
+																22536 data item (项) 2021-07-23
+																	22537 group (组)
+																22538 data item (项) 2021-07-23
+																	22539 group (组)
+																22540 data item (项) 北京
+																	22541 group (组)
+																22542 data item (项) 杭州
+																	22543 group (组)
+																22544 data item (项) 621.50
+																	22545 group (组)
+																22546 data item (项) 621.50
+																	22547 group (组)
+																22548 data item (项)
+																	22549 group (组)
+																22550 data item (项) 0.09
+																	22551 group (组)
+																22552 data item (项) 51.32
+																	22553 group (组)
+																22554 data item (项) 570.18
+																	22555 group (组)
+															22556 data item (行)
+																22557 data item (项)
+																	22558 checkbox (复选框) (disabled)
+																22559 data item (项) 5
+																22560 data item (项) 差旅费＞差旅费-住宿费
+																	22561 group (组)
+																		22562 hyperlink (链接) 差旅费＞差旅费-住宿费 Description: 差旅费＞差旅费-住宿费
+																22563 data item (项) 售前支持
+																	22564 group (组)
+																		22565 hyperlink (链接) 售前支持 Description: 售前支持
+																22566 data item (项) 6601009
+																	22567 group (组)
+																22568 data item (项) 数据业务线/信用产品部
+																	22569 group (组)
+																		22570 hyperlink (链接) 数据业务线/信用产品部 Description: 数据业务线/信用产品部
+																22571 data item (项) 2021-07-18
+																	22572 group (组)
+																22573 data item (项) 2021-07-23
+																	22574 group (组)
+																22575 data item (项) 杭州
+																	22576 group (组)
+																22577 data item (项) 北京
+																	22578 group (组)
+																22579 data item (项) 2432.00
+																	22580 group (组)
+																22581 data item (项) 2432.00
+																	22582 group (组)
+																22583 data item (项)
+																	22584 group (组)
+																22585 data item (项) 0.00
+																	22586 group (组)
+																22587 data item (项) 137.66
+																	22588 group (组)
+																22589 data item (项) 2294.34
+																	22590 group (组)
+															22591 data item (行)
+																22592 data item (项)
+																	22593 checkbox (复选框) (disabled)
+																22594 data item (项) 6
+																22595 data item (项) 差旅费＞差旅费-出差补贴
+																	22596 group (组)
+																		22597 hyperlink (链接) 差旅费＞差旅费-出差补贴 Description: 差旅费＞差旅费-出差补贴
+																22598 data item (项) 售前支持
+																	22599 group (组)
+																		22600 hyperlink (链接) 售前支持 Description: 售前支持
+																22601 data item (项) 6601010
+																	22602 group (组)
+																22603 data item (项) 数据业务线/信用产品部
+																	22604 group (组)
+																		22605 hyperlink (链接) 数据业务线/信用产品部 Description: 数据业务线/信用产品部
+																22606 data item (项) 2021-07-18
+																	22607 group (组)
+																22608 data item (项) 2021-07-23
+																	22609 group (组)
+																22610 data item (项) 杭州
+																	22611 group (组)
+																22612 data item (项) 北京
+																	22613 group (组)
+																22614 data item (项) 825.00
+																	22615 group (组)
+																22616 data item (项) 825.00
+																	22617 group (组)
+																22618 data item (项)
+																	22619 group (组)
+																22620 data item (项) 0.00
+																	22621 group (组)
+																22622 data item (项) 0.00
+																	22623 group (组)
+																22624 data item (项) 825.00
+																	22625 group (组)
+												22331 data item (行)
+													22332 data item (项) 冲销信息
+												22333 data item (行)
+													22334 data item (项)
+														22335 table (表格) ID: oTable2
+															22336 data item (行)
+																22337 data item (项)
+																22338 data item (项)
+																22339 data item (项)
+																22340 data item (项)
+																22341 data item (项)
+																22342 data item (项)
+																22343 data item (项)
+																22344 data item (项)
+																22345 data item (项)
+																22346 data item (项)
+															22347 data item (行)
+																22348 data item (项)
+																22349 data item (项)
+																22350 data item (项)
+																22351 data item (项)
+																22352 data item (项)
+																22353 data item (项)
+																22354 data item (项)
+																22355 data item (项)
+																22356 data item (项)
+																22357 data item (项)
+															22358 data item (行)
+																22359 data item (项)
+																	22360 checkbox (复选框) (disabled)
+																22361 data item (项) 序号
+																22362 data item (项) 借款人
+																22363 data item (项) 借款流程
+																22364 data item (项) 借款单单号
+																22365 data item (项) 借款部门
+																22366 data item (项) 核定项目
+																22367 data item (项) 费用说明
+																22368 data item (项) 每单借款余额
+																22369 data item (项) 冲销借款金额
+															22626 data item (行)
+																22627 data item (项)
+																	22628 checkbox (复选框) (disabled)
+																22629 data item (项) 1
+																22630 data item (项) 竺杭杰
+																	22631 group (组)
+																		22632 hyperlink (链接) 竺杭杰 Description: 竺杭杰
+																22633 data item (项)
+																	22634 group (组)
+																22635 data item (项)
+																	22636 group (组)
+																22637 data item (项) 数据业务线/信用产品部/开发组
+																	22638 group (组)
+																		22639 hyperlink (链接) 数据业务线/信用产品部/开发组 Description: 数据业务线/信用产品部/开发组
+																22640 data item (项)
+																	22641 group (组)
+																22642 data item (项)
+																	22643 group (组)
+																22644 data item (项)
+																	22645 group (组)
+																22646 data item (项)
+																	22647 group (组)
+												22370 data item (行)
+													22371 data item (项) 打款信息
+												22372 data item (行)
+													22373 data item (项)
+														22374 table (表格) ID: oTable1
+															22375 data item (行)
+																22376 data item (项)
+																22377 data item (项)
+																22378 data item (项)
+																22379 data item (项)
+																22380 data item (项)
+																22381 data item (项)
+															22382 data item (行)
+																22383 data item (项)
+																22384 data item (项)
+																22385 data item (项)
+																22386 data item (项)
+																22387 data item (项)
+																22388 data item (项)
+															22389 data item (行)
+																22390 data item (项)
+																	22391 checkbox (复选框) (disabled)
+																22392 data item (项) 序号
+																22393 data item (项) 姓名
+																22394 data item (项) 账号信息
+																22395 data item (项) 银行支行信息
+																22396 data item (项) 金额
+															22648 data item (行)
+																22649 data item (项)
+																	22650 checkbox (复选框) (disabled)
+																22651 data item (项) 1
+																22652 data item (项) 竺杭杰
+																	22653 group (组)
+																		22654 hyperlink (链接) 竺杭杰 Description: 竺杭杰
+																22655 data item (项) 623061571025897609
+																	22656 group (组)
+																22657 data item (项) 杭州银行
+																	22658 group (组)
+																22659 data item (项) 4586.98
+																	22660 group (组)
+												22397 data item (行)
+													22398 data item (项) 凭证返回编号
+													22399 data item (项) 5
+														22400 group (组)
+													22401 data item (项)
+													22402 data item (项)
+											22403 menu (菜单)
+												22404 menu item (菜单项) 流转意见
+												22661 menu item (菜单项) 与我相关
+											22405 group (组)
+												22406 text (文本) 
+											22407 text (文本) |
+											22408 group (组)
+												22409 text (文本) 
+											22726 text (文本) 李倩
+											22662 hyperlink (链接) 李倩 Value: javascript:openhrm(1966)
+											22663 hyperlink (链接) 职能总部/财务部/财务组 Value: https://oa.xquant.com/spa/hrm/engine.html#/hrmengine/organization?showTree=false&isView=1&type=department&id=255&_key=3b4uab
+											22664 text (文本) 李倩 2021-08-02 14:35:25
+											22665 text (文本) 接收人
+											22666 text (文本) :
+											22667 text (文本) 竺杭杰
+											22668 text (文本) 2021-08-02 14:35:25
+											22669 text (文本) [出纳 / 批准]
+											22727 text (文本) 传辉
+											22670 hyperlink (链接) 宫传辉 Value: javascript:openhrm(279)
+											22671 hyperlink (链接) 职能总部/财务部/管理层 Value: https://oa.xquant.com/spa/hrm/engine.html#/hrmengine/organization?showTree=false&isView=1&type=department&id=290&_key=3b4uab
+											22672 text (文本) 宫传辉 2021-08-02 11:20:43
+											22673 text (文本) 接收人
+											22674 text (文本) :
+											22675 text (文本) 李倩
+											22676 text (文本) 2021-08-02 11:20:43
+											22677 text (文本) [财务二级审核 / 批准]
+											22728 text (文本) 莎莎
+											22678 hyperlink (链接) 郭莎莎 Value: javascript:openhrm(2096)
+											22679 hyperlink (链接) 职能总部/财务部/财务组 Value: https://oa.xquant.com/spa/hrm/engine.html#/hrmengine/organization?showTree=false&isView=1&type=department&id=255&_key=3b4uab
+											22680 text (文本) 接收人
+											22681 text (文本) :
+											22682 text (文本) 宫传辉
+											22683 text (文本) 2021-07-29 16:00:38
+											22684 text (文本) [财务一级审核 / 批准]
+											22729 text (文本) 寒晓
+											22685 hyperlink (链接) 姜寒晓 Value: javascript:openhrm(32)
+											22686 hyperlink (链接) 数据业务线/信用产品部/管理层 Value: https://oa.xquant.com/spa/hrm/engine.html#/hrmengine/organization?showTree=false&isView=1&type=department&id=248&_key=3b4uab
+											22687 text (文本) 
+											22688 text (文本) 来自钉钉客户端
+											22689 text (文本) 接收人
+											22690 text (文本) :
+											22691 text (文本) 罗海芳 孙宇鹏 郭莎莎 李兰
+											22692 text (文本) 2021-07-28 09:14:58
+											22693 text (文本) [二级部门负责人 / 批准]
+											22730 text (文本) 金良
+											22694 hyperlink (链接) 唐金良 Value: javascript:openhrm(1294)
+											22695 hyperlink (链接) 数据业务线/信用产品部/管理组 Value: https://oa.xquant.com/spa/hrm/engine.html#/hrmengine/organization?showTree=false&isView=1&type=department&id=238&_key=3b4uab
+											22696 text (文本) 接收人
+											22697 text (文本) :
+											22698 text (文本) 姜寒晓
+											22699 text (文本) 2021-07-28 09:07:09
+											22700 text (文本) [三级负责人 / 批准]
+											22701 hyperlink (链接) 竺杭杰 Value: javascript:openhrm(755)
+											22702 hyperlink (链接) 数据业务线/信用产品部/开发组 Value: https://oa.xquant.com/spa/hrm/engine.html#/hrmengine/organization?showTree=false&isView=1&type=department&id=451&_key=3b4uab
+											22703 text (文本) 接收人
+											22704 text (文本) :
+											22705 text (文本) 唐金良
+											22706 text (文本) 2021-07-27 19:21:05
+											22707 text (文本) [申请人 / 提交]
+											22708 list (列表)
+												22709 text (文本) 共6条
+												22710 list item (列表项目) 第一页 Description: 第一页
+													22711 text (文本) 
+												22712 list item (列表项目) 上一页 Description: 上一页
+													22713 text (文本) 
+												22714 list item (列表项目) 第一页 Description: 第一页
+												22715 list item (列表项目) 下一页 Description: 下一页
+													22716 text (文本) 
+												22717 list item (列表项目) 最后一页 Description: 最后一页
+													22718 text (文本) 
+												22719 group (组)
+													22720 combo box (组合框) (settable, string) Value: 10 条/页
+														22721 text (文本) 10 条/页
+														22722 group (组)
+												22723 text (文本) 跳至
+												22724 text field (编辑) (settable, string) Value: 1
+												22725 text (文本) 页
+										22149 group (组)
+								17067 document (文档) Value: chrome://newtab-footer/ ID: RootWebArea
+									17068 hyperlink (链接) Unsplash Instant
+									17069 button (切换按钮) 自定义 Chrome Description: 自定义此页 ID: customizeButton
+										17070 image (图形) ID: baseSvg
+										17071 text (文本) 自定义 Chrome
+							17072 pane (区域)
+						17073 pane (区域)
+							17074 pane (区域)
+								17075 button (按钮) 标签页搜索
+							17076 pane (区域) ID: view_21
+								17077 tab (选项卡)
+									17078 tab item (选项卡项目) (selectable) 孤寂山河提示词 - DeepSeek - 内存用量 - 121 MB ID: view_20
+										17079 button (按钮) 关闭
+									17080 tab item (选项卡项目) (selectable) Merge Requests · Dashboard · GitLab - 内存用量 - 106 MB ID: view_20
+										17081 button (按钮) 关闭
+									17082 tab item (选项卡项目) (selectable) 差旅费报销流程-竺杭杰-2021-07-27 ID: view_20
+										17083 button (按钮) 关闭
+									17084 tab item (选项卡项目) (selectable) 差旅费报销流程-竺杭杰-2022-02-26 - 内存用量 - 185 MB ID: view_20
+										17085 button (按钮) 关闭
+									17086 tab item (选项卡项目) (selectable) 差旅费报销流程-竺杭杰-2022-02-26 - 内存用量 - 27.2 MB ID: view_20
+										17087 button (按钮) 关闭
+									17088 tab item (选项卡项目) (selectable) oa.xquant.com/spa/workflow/static4form/index.html?_rdm=1794964127080#/main/workflow/req?requestid=610234&ismode=2&isBatchPrint=true&modeid=13003&isprint=1&_key=uvxghg - 内存用量 - 124 MB ID: view_20
+										17089 button (按钮) 关闭
+									17090 tab item (选项卡项目) (selectable) 中证整体步骤梳理 - 内存用量 - 634 MB ID: view_20
+										17091 button (按钮) 关闭
+									17092 tab item (选项卡项目) (selectable) 需求变更记录 - 内存用量 - 548 MB ID: view_20
+										17093 button (按钮) 关闭
+									17094 tab item (选项卡项目) (selectable) 2026年11月 - 内存用量 - 539 MB ID: view_20
+										17095 button (按钮) 关闭
+									17096 tab item (选项卡项目) (selectable) 在线Markdown编辑器 - 免费实时预览编辑器 ID: view_20
+										17097 button (按钮) 关闭
+									17098 tab item (选项卡项目) (selectable) V2EX - 内存用量 - 126 MB ID: view_20
+										17099 button (按钮) 关闭
+									17100 tab item (选项卡项目) (selectable) 泼墨成画 - V2EX - 内存用量 - 133 MB ID: view_20
+										17101 button (按钮) 关闭
+								17102 pane (区域)
+							17103 button (按钮) 新标签页
+							17104 pane (区域)
+							17105 pane (区域)
+								17106 button (按钮) 打开 Chrome 中的 Gemini
+								17107 pane (区域)
+						17108 pane (区域)
+
+Document text: ```
+Unsplash Instant
+￼
+￼
+自定义 Chrome
+```
+
+Focused element: 16514 text field (编辑) (settable, string) 地址和搜索栏 Description: 问问 Google 或输入网址 Value: oa.xquant.com/spa/workflow/static4form/index.html?_rdm=1794964759081#/main/workflow/req?requestid=421085&_key=fu5oe4 ID: view_1012
+
+Document text:
+Unsplash Instant
+￼
+￼
+自定义 Chrome

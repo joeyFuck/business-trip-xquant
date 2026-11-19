@@ -1,0 +1,915 @@
+Window: "出差申请及报销流程-竺杭杰-2026-07-21 - Google Chrome", App: chrome.exe.
+	0 window (窗口) 出差申请及报销流程-竺杭杰-2026-07-21 - Google Chrome Secondary Actions: Raise
+		15488 pane (窗格) (disabled)
+		15489 pane (区域) 出差申请及报销流程-竺杭杰-2026-07-21 - Google Chrome
+			15490 pane (区域)
+				15491 pane (区域)
+					15492 pane (区域)
+						15493 button (按钮) 最小化 ID: view_1
+						15494 button (按钮) 最大化 ID: view_2
+						15495 button (按钮) 关闭 ID: view_4
+					15496 pane (区域)
+						15497 pane (区域)
+							15498 toolbar (工具栏) ID: view_1000
+								15499 button (按钮) 返回 ID: view_1001
+								15500 button (按钮) (disabled) 前进 ID: view_1002
+								15501 button (按钮) 重新加载 ID: view_1003
+								15502 group (组)
+									15503 document (文档) 搜索图标 ID: view_1011
+									15504 text field (编辑) (settable, string) 地址和搜索栏 Description: 依次按 Tab 键和 Enter 键即可询问AI 模式。按向上键或向下键即可浏览自动补全建议。输入内容即可自动补全。。 Value: https://oa.xquant.com/workflow/request/ViewRequestForwardSPA.jsp?requestid=1682807 ID: view_1012
+									15505 pane (区域)
+								15507 pane (区域)
+									15508 button (按钮) Postman Interceptor 可以访问此网站 ID: view_1009
+									15509 button (按钮) 扩展程序 ID: view_1006
+								15510 pane (区域)
+								15511 button (按钮) 杭杰 ID: view_1018
+								15512 button (按钮) Chrome ID: view_1007
+							15513 toolbar (工具栏) 书签 ID: view_1025
+								15514 toolbar (工具栏) 已保存的标签页分组
+									15515 button (按钮) 标签页分组
+								15516 separator (分隔符) 分隔符
+								15517 button (书签文件夹按钮) 历史 ID: view_1028
+								15518 button (书签文件夹按钮) 站点 ID: view_1028
+								15519 button (书签文件夹按钮) 社区 ID: view_1028
+								15520 button (书签文件夹按钮) 工具 ID: view_1028
+								15521 button (书签文件夹按钮) 公司 ID: view_1028
+								15522 button (书签文件夹按钮) 信创 ID: view_1028
+								15523 button (书签文件夹按钮) 数据库 ID: view_1028
+								15524 button (书签文件夹按钮) 性能 ID: view_1028
+								15525 button (书签文件夹按钮) 前端 ID: view_1028
+								15526 button (书签文件夹按钮) java ID: view_1028
+								15527 button (书签文件夹按钮) python ID: view_1028
+								15528 button (书签文件夹按钮) 金融 ID: view_1028
+								15529 button (书签文件夹按钮) 业务模块 ID: view_1028
+								15530 button (书签文件夹按钮) 数理统计 ID: view_1028
+								15531 button (书签文件夹按钮) AIGC ID: view_1028
+								15532 button (书签文件夹按钮) linux ID: view_1028
+								15533 button (书签文件夹按钮) 运维 ID: view_1028
+								15534 button (书签文件夹按钮) SAP ID: view_1028
+								15535 button (书签文件夹按钮) 生活 ID: view_1028
+								15536 button (书签文件夹按钮) web3&区块链 ID: view_1028
+								15537 button (书签文件夹按钮) cs ID: view_1028
+								15538 button (书签文件夹按钮) hotel ID: view_1028
+						15539 pane (区域)
+							15540 pane (区域)
+								15541 pane (区域)
+								18057 document (文档) 出差申请及报销流程-竺杭杰-2026-07-21 Value: https://oa.xquant.com/spa/workflow/static4form/index.html?_rdm=1794987181171#/main/workflow/req?requestid=1683199&_key=uiurpd ID: RootWebArea
+									18058 group (组)
+										18068 text (文本) 
+										18569 text (文本) 流程:处理 - 出差申请及报销流程 - 提交
+										18570 text (文本) CLSQBX-2026072136126
+										18571 group (组) Description: 关注
+											18572 text (文本) 
+										18060 tab (选项卡)
+											18061 tab item (选项卡项目) (selectable) 流程表单
+											18062 tab item (选项卡项目) (selectable) 流程图
+											18063 tab item (选项卡项目) (selectable) 流程状态
+										18064 pane (选项卡面板)
+										18573 button (按钮) 转 发 Description: 转发
+										18065 group (组)
+											18574 text (文本) 
+										18073 group (组)
+											18074 table (表格)
+												18075 data item (行)
+													18076 data item (项)
+													18077 data item (项) 员工出差申请及报销流程
+													18078 data item (项)
+												18079 data item (行)
+													18080 data item (项)
+													18081 data item (项) 标题
+													18082 data item (项) 出差申请及报销流程-竺杭杰-2026-07-21
+														18083 group (组)
+													18084 data item (项) 流程编号
+													18085 data item (项) CLSQBX-2026072136126
+														18086 group (组)
+													18087 data item (项)
+												18088 data item (行)
+													18089 data item (项)
+													18090 data item (项) 申请人
+													18091 data item (项) 竺杭杰
+														18092 group (组)
+															18575 hyperlink (链接) 竺杭杰 Description: 竺杭杰
+													18093 data item (项) 申请日期
+													18094 data item (项) 2026-07-21
+														18095 group (组)
+													18096 data item (项)
+												18097 data item (行)
+													18098 data item (项)
+													18099 data item (项) 申请人部门
+													18100 data item (项) 信用及数管业务线/信用管理及公共/信用管理组 杭州衡泰技术股份有限公司
+														18101 group (组)
+															18576 hyperlink (链接) 信用及数管业务线/信用管理及公共/信用管理组 Description: 信用及数管业务线/信用管理及公共/信用管理组
+														18102 group (组)
+															18577 hyperlink (链接) 杭州衡泰技术股份有限公司 Description: 杭州衡泰技术股份有限公司
+													18103 data item (项) 属地
+													18104 data item (项) 杭州
+														18105 group (组)
+															18578 hyperlink (链接) 杭州 Description: 杭州
+													18106 data item (项)
+												18107 data item (行)
+													18108 data item (项)
+													18109 data item (项) 费用承担部门
+													18110 data item (项) 信用及数管业务线/信用管理及公共/信用管理组 请选到末级部门！
+														18111 group (组)
+															18579 hyperlink (链接) 信用及数管业务线/信用管理及公共/信用管理组 Description: 信用及数管业务线/信用管理及公共/信用管理组
+													18112 data item (项) 团队内分组
+													18113 data item (项) /
+														18114 group (组)
+													18115 data item (项)
+												18116 data item (行)
+													18117 data item (项)
+													18118 data item (项) 人员属性
+													18119 data item (项) 成本
+														18120 group (组)
+													18121 data item (项) 性别
+													18122 data item (项) 男
+														18123 group (组)
+													18124 data item (项)
+												18125 data item (行)
+													18126 data item (项)
+													18127 data item (项) ——出差申请内容——
+													18128 data item (项)
+												18129 data item (行)
+													18130 data item (项)
+													18131 data item (项) 出差事由
+													18132 data item (项) 中证指数驻场需求调研
+														18133 group (组)
+													18134 data item (项)
+												18135 data item (行)
+													18136 data item (项)
+													18137 data item (项) 出差实际开始日期
+													18138 data item (项) 2026-07-21 08:00
+														18139 group (组)
+														18140 group (组)
+													18141 data item (项) 出差预计开始日期
+													18142 data item (项) 2026-07-21 08:00
+														18143 group (组)
+														18144 group (组)
+													18145 data item (项)
+												18146 data item (行)
+													18147 data item (项)
+													18148 data item (项) 出差实际结束日期
+													18149 data item (项) 2026-07-24 18:00
+														18150 group (组)
+														18151 group (组)
+													18152 data item (项) 出差预计结束日期
+													18153 data item (项) 2026-07-24 18:00
+														18154 group (组)
+														18155 group (组)
+													18156 data item (项)
+												18157 data item (行)
+													18158 data item (项)
+													18159 data item (项) 出差天数
+													18160 data item (项) 4
+														18161 group (组)
+													18162 data item (项) 床铺单价
+													18163 data item (项)
+														18164 group (组)
+													18165 data item (项)
+												18166 data item (行)
+													18167 data item (项)
+													18168 data item (项) 出差期间是否需要打卡
+													18169 data item (项) 是
+														18170 group (组)
+													18171 data item (项)
+													18172 data item (项)
+													18173 data item (项)
+												18174 data item (行)
+													18175 data item (项)
+													18176 data item (项) 宿舍类别
+													18177 data item (项) 专项宿舍
+														18178 group (组)
+													18179 data item (项) 宿舍
+													18180 data item (项)
+														18181 group (组)
+															18580 hyperlink (链接)
+													18182 data item (项)
+												18183 data item (行)
+													18184 data item (项)
+													18185 data item (项) 是否申请员工宿舍
+													18186 data item (项) 是
+														18187 group (组)
+													18188 data item (项) 宿舍床铺信息表
+													18189 data item (项) 宿舍情况表
+														18190 group (组)
+															18191 hyperlink (链接) 宿舍情况表 Value: https://oa.xquant.com/spa/cube/index.html#/main/cube/search?customid=7
+													18192 data item (项)
+												18193 data item (行)
+													18194 data item (项)
+													18195 data item (项) 住宿时间
+													18196 data item (项) 2026-07-21 —— 2026-07-24
+														18197 group (组)
+														18198 group (组)
+													18199 data item (项) 宿舍总支出
+													18200 data item (项) 0.00
+														18201 group (组)
+													18202 data item (项)
+												18203 data item (行)
+													18204 data item (项)
+													18205 data item (项) 备注
+													18206 data item (项)
+														18207 group (组)
+													18208 data item (项) 住宿天数
+													18209 data item (项) 3.00
+														18210 group (组)
+													18211 data item (项)
+												18212 data item (行)
+													18213 data item (项)
+													18214 data item (项) 同住人
+													18215 data item (项)
+														18216 group (组)
+													18217 data item (项)
+													18218 data item (项)
+													18219 data item (项)
+												18220 data item (行)
+													18221 data item (项)
+													18222 data item (项) ——出差报销内容——
+													18223 data item (项)
+												18224 data item (行)
+													18225 data item (项)
+													18226 data item (项) 入账公司
+													18227 data item (项) 杭州衡泰技术股份有限公司
+														18228 group (组)
+															18581 hyperlink (链接) 杭州衡泰技术股份有限公司 Description: 杭州衡泰技术股份有限公司
+													18229 data item (项) 预算部门
+													18230 data item (项) 信用及数管业务线/信用管理及公共
+														18231 group (组)
+															18582 hyperlink (链接) 信用及数管业务线/信用管理及公共 Description: 信用及数管业务线/信用管理及公共
+													18232 data item (项)
+												18233 data item (行)
+													18234 data item (项)
+													18235 data item (项) 合计报销金额
+													18236 data item (项) 524.00
+														18237 group (组)
+													18238 data item (项) 预算科目
+													18239 data item (项)
+														18240 group (组)
+													18241 data item (项)
+												18242 data item (行)
+													18243 data item (项)
+													18244 data item (项) 合计发票金额
+													18245 data item (项) 232.00
+														18246 group (组)
+													18247 data item (项) 付款金额
+													18248 data item (项) 524.00
+														18249 group (组)
+													18250 data item (项)
+												18251 data item (行)
+													18252 data item (项)
+													18253 data item (项) 携程与个人报销总费用
+													18254 data item (项) 524.00
+														18255 group (组)
+													18256 data item (项)
+												18257 data item (行)
+													18258 data item (项)
+													18259 data item (项) 发票类别
+													18260 data item (项) 纯电子发票 纯电子发票无需提供纸质件
+														18261 group (组)
+													18262 data item (项) 冲销借款金额
+													18263 data item (项)
+														18264 group (组)
+													18265 data item (项)
+												18266 data item (行)
+													18267 data item (项)
+													18268 data item (项) 总挂账金额
+													18269 data item (项)
+														18270 group (组)
+													18271 data item (项) 总扣款金额
+													18272 data item (项)
+														18273 group (组)
+													18274 data item (项)
+												18275 data item (行)
+													18276 data item (项)
+													18277 data item (项) 预算信息
+													18278 data item (项)
+														18279 group (组)
+													18280 data item (项)
+												18281 data item (行)
+													18282 data item (项)
+													18283 data item (项) 财务核定事由
+													18284 data item (项) 中证指数驻场需求调研
+														18285 group (组)
+													18286 data item (项)
+												18287 data item (行)
+													18288 data item (项)
+													18289 data item (项) 补贴标准（例如：小明的出差补贴是100/天，交通补贴是300/月，折算后每日差补：100-300/30=90/天）
+													18290 data item (项)
+												18291 data item (行)
+													18292 data item (项)
+													18293 data item (项) 出差补贴
+													18294 data item (项) 100
+														18295 group (组)
+													18296 data item (项) 交通补贴（工资中已发放）
+													18297 data item (项) 0
+														18298 group (组)
+													18299 data item (项)
+												18300 data item (行)
+													18301 data item (项)
+													18302 data item (项)
+													18303 data item (项) 订单详情
+													18304 data item (项)
+													18305 data item (项)
+													18306 data item (项)
+												18307 data item (行)
+													18308 data item (项)
+													18309 data item (项)
+														18766 document (文档) Value: https://oa.xquant.com/interface/ctrip/CtripOrderList.jsp?requestid=1683199 ID: RootWebArea
+															18767 table (表格)
+															18768 hyperlink (链接) 单击取消 Description: 单击取消 Value: javascript:;
+													18311 data item (项)
+												18312 data item (行)
+													18313 data item (项)
+													18314 data item (项)
+														18315 table (表格) ID: oTable0
+															18316 data item (行)
+																18317 data item (项)
+																18318 data item (项)
+																18319 data item (项)
+																18320 data item (项)
+																18321 data item (项)
+																18322 data item (项)
+																18323 data item (项)
+																18324 data item (项)
+																18325 data item (项)
+																18326 data item (项)
+																18327 data item (项)
+																18328 data item (项)
+																18329 data item (项)
+																18330 data item (项)
+																18331 data item (项)
+																18332 data item (项)
+																18333 data item (项)
+																18334 data item (项)
+															18335 data item (行)
+																18336 data item (项) 通过携程商旅平台公司垫付费用明细
+																18337 data item (项)
+																18338 data item (项)
+															18339 data item (行)
+																18340 data item (项)
+																	18341 checkbox (复选框) (disabled)
+																18342 data item (项) 序号
+																18343 data item (项) 费用项目
+																18344 data item (项) 项目
+																18345 data item (项) 会计科目编码
+																18346 data item (项) 承担部门
+																18347 data item (项) 出行人
+																18348 data item (项) 预算扣减金额
+																18349 data item (项) 结算金额
+																18350 data item (项) 扣款金额
+																18351 data item (项) 税率
+																18352 data item (项) 税额
+																18353 data item (项) 不含税金额
+																18354 data item (项) 费用日期
+																18355 data item (项) 起始城市
+																18356 data item (项) 到达城市
+																18357 data item (项) 酒店天数
+																18358 data item (项) 酒店差标
+															18359 data item (行)
+																18360 data item (项) 合计
+																18361 data item (项) 0.00
+																18362 data item (项) 0.00
+																18363 data item (项)
+																18364 data item (项)
+																18365 data item (项)
+																18366 data item (项)
+																18367 data item (项)
+																18368 data item (项)
+																18369 data item (项)
+																18370 data item (项)
+																18371 data item (项)
+													18372 data item (项)
+												18373 data item (行)
+													18374 data item (项)
+													18375 data item (项)
+													18376 data item (项)
+													18377 data item (项)
+													18378 data item (项)
+													18379 data item (项)
+												18380 data item (行)
+													18381 data item (项)
+													18382 data item (项)
+														18383 table (表格) ID: oTable1
+															18384 data item (行)
+																18385 data item (项)
+																18386 data item (项)
+																18387 data item (项)
+																18388 data item (项)
+																18389 data item (项)
+																18390 data item (项)
+																18391 data item (项)
+																18392 data item (项)
+																18393 data item (项)
+																18394 data item (项)
+																18395 data item (项)
+																18396 data item (项)
+																18397 data item (项)
+																18398 data item (项)
+																18399 data item (项)
+																18400 data item (项)
+																18401 data item (项)
+																18402 data item (项)
+																18403 data item (项)
+																18404 data item (项)
+																18405 data item (项)
+																18406 data item (项)
+																18407 data item (项)
+																18408 data item (项)
+																18409 data item (项)
+															18410 data item (行)
+																18411 data item (项) 个人报销明细表
+																18412 data item (项)
+																18413 data item (项)
+																18414 data item (项)
+																18415 data item (项)
+																18416 data item (项)
+																18417 data item (项)
+																18418 data item (项)
+																18419 data item (项)
+																18420 data item (项)
+																18421 data item (项)
+																18422 data item (项)
+																18423 data item (项)
+																18424 data item (项)
+																18425 data item (项)
+																18426 data item (项)
+																18427 data item (项)
+																18428 data item (项)
+																18429 data item (项)
+																18430 data item (项)
+																18431 data item (项)
+																18432 data item (项)
+															18433 data item (行)
+																18434 data item (项)
+																	18435 checkbox (复选框) (disabled)
+																18436 data item (项) 序号
+																18437 data item (项) 费用日期
+																18438 data item (项) 费用项目
+																18439 data item (项) 项目
+																18440 data item (项) 会计科目编码
+																18441 data item (项) 承担主体
+																18442 data item (项) 出行人
+																18443 data item (项) 报销人
+																18444 data item (项) 出差开始日期
+																18445 data item (项) 出差结束日期
+																18446 data item (项) 住宿天数
+																18447 data item (项) 起始城市
+																18448 data item (项) 到达城市
+																18449 data item (项) 发票类型
+																18450 data item (项) 发票号码
+																18451 data item (项) 发票金额
+																18452 data item (项) 报销金额
+																18453 data item (项) 财务核定金额（预算扣减金额）
+																18454 data item (项) 说明
+																18455 data item (项) 税率
+																18456 data item (项) 税额
+																18457 data item (项) 不含税金额
+																18458 data item (项) 相关发票
+																18459 data item (项) 附件
+															18583 data item (行)
+																18584 data item (项)
+																	18585 checkbox (复选框) (disabled)
+																18586 data item (项) 1
+																18587 data item (项) 2026-07-27
+																	18588 group (组)
+																18589 data item (项) 差旅费＞差旅费-火车
+																	18590 group (组)
+																		18591 hyperlink (链接) 差旅费＞差旅费-火车 Description: 差旅费＞差旅费-火车
+																18592 data item (项) 中证指数xCIRMS1.02026-2027年度新一代估值系统建设项目
+																	18593 group (组)
+																		18594 hyperlink (链接) 中证指数xCIRMS1.02026-2027年度新一代估值系统建设项目 Description: 中证指数xCIRMS1.02026-2027年度新一代估值系统建设项目
+																18595 data item (项) 5201006
+																	18596 group (组)
+																18597 data item (项) 信用及数管业务线/信用管理及公共
+																	18598 group (组)
+																		18599 hyperlink (链接) 信用及数管业务线/信用管理及公共 Description: 信用及数管业务线/信用管理及公共
+																18600 data item (项) 竺杭杰
+																	18601 group (组)
+																		18602 hyperlink (链接) 竺杭杰 Description: 竺杭杰
+																18603 data item (项) 竺杭杰
+																	18604 group (组)
+																		18605 hyperlink (链接) 竺杭杰 Description: 竺杭杰
+																18606 data item (项) 2026-07-21
+																	18607 group (组)
+																18608 data item (项) 2026-07-24
+																	18609 group (组)
+																18610 data item (项)
+																	18611 group (组)
+																18612 data item (项) 杭州
+																	18613 group (组)
+																18614 data item (项) 上海
+																	18615 group (组)
+																18616 data item (项) 电子发票（铁路电子客票）
+																	18617 group (组)
+																18618 data item (项) 26339190041008267572
+																	18619 group (组)
+																		18620 hyperlink (链接) 26339190041008267572
+																18621 data item (项) 87.00
+																	18622 group (组)
+																18623 data item (项) 87.00
+																	18624 group (组)
+																18625 data item (项) 87.00
+																	18626 group (组)
+																18627 data item (项)
+																	18628 group (组)
+																18629 data item (项) 0.00
+																	18630 group (组)
+																18631 data item (项) 0.00
+																	18632 group (组)
+																18633 data item (项) 87.00
+																	18634 group (组)
+																18635 data item (项) 260727_87.00_电子发票（铁路电子客票）.pdf
+																	18636 group (组)
+																		18637 hyperlink (链接) 260727_87.00_电子发票（铁路电子客票）.pdf
+																18638 data item (项)
+																	18639 group (组)
+															18640 data item (行)
+																18641 data item (项)
+																	18642 checkbox (复选框) (disabled)
+																18643 data item (项) 2
+																18644 data item (项) 2026-07-27
+																	18645 group (组)
+																18646 data item (项) 差旅费＞差旅费-火车
+																	18647 group (组)
+																		18648 hyperlink (链接) 差旅费＞差旅费-火车 Description: 差旅费＞差旅费-火车
+																18649 data item (项) 中证指数xCIRMS1.02026-2027年度新一代估值系统建设项目
+																	18650 group (组)
+																		18651 hyperlink (链接) 中证指数xCIRMS1.02026-2027年度新一代估值系统建设项目 Description: 中证指数xCIRMS1.02026-2027年度新一代估值系统建设项目
+																18652 data item (项) 5201006
+																	18653 group (组)
+																18654 data item (项) 信用及数管业务线/信用管理及公共
+																	18655 group (组)
+																		18656 hyperlink (链接) 信用及数管业务线/信用管理及公共 Description: 信用及数管业务线/信用管理及公共
+																18657 data item (项) 竺杭杰
+																	18658 group (组)
+																		18659 hyperlink (链接) 竺杭杰 Description: 竺杭杰
+																18660 data item (项) 竺杭杰
+																	18661 group (组)
+																		18662 hyperlink (链接) 竺杭杰 Description: 竺杭杰
+																18663 data item (项) 2026-07-21
+																	18664 group (组)
+																18665 data item (项) 2026-07-24
+																	18666 group (组)
+																18667 data item (项)
+																	18668 group (组)
+																18669 data item (项) 杭州
+																	18670 group (组)
+																18671 data item (项) 上海
+																	18672 group (组)
+																18673 data item (项) 电子发票（铁路电子客票）
+																	18674 group (组)
+																18675 data item (项) 26319166100009762201
+																	18676 group (组)
+																		18677 hyperlink (链接) 26319166100009762201
+																18678 data item (项) 145.00
+																	18679 group (组)
+																18680 data item (项) 87.00
+																	18681 group (组)
+																18682 data item (项) 87.00
+																	18683 group (组)
+																18684 data item (项)
+																	18685 group (组)
+																18686 data item (项) 0.00
+																	18687 group (组)
+																18688 data item (项) 0.00
+																	18689 group (组)
+																18690 data item (项) 87.00
+																	18691 group (组)
+																18692 data item (项) 260727_145.00_电子发票（铁路电子客票）.pdf
+																	18693 group (组)
+																		18694 hyperlink (链接) 260727_145.00_电子发票（铁路电子客票）.pdf
+																18695 data item (项)
+																	18696 group (组)
+															18697 data item (行)
+																18698 data item (项)
+																	18699 checkbox (复选框) (disabled)
+																18700 data item (项) 3
+																18701 data item (项) 2026-07-27
+																	18702 group (组)
+																18703 data item (项) 差旅费＞差旅费-出差补贴
+																	18704 group (组)
+																		18705 hyperlink (链接) 差旅费＞差旅费-出差补贴 Description: 差旅费＞差旅费-出差补贴
+																18706 data item (项) 中证指数xCIRMS1.02026-2027年度新一代估值系统建设项目
+																	18707 group (组)
+																		18708 hyperlink (链接) 中证指数xCIRMS1.02026-2027年度新一代估值系统建设项目 Description: 中证指数xCIRMS1.02026-2027年度新一代估值系统建设项目
+																18709 data item (项) 5201010
+																	18710 group (组)
+																18711 data item (项) 信用及数管业务线/信用管理及公共
+																	18712 group (组)
+																		18713 hyperlink (链接) 信用及数管业务线/信用管理及公共 Description: 信用及数管业务线/信用管理及公共
+																18714 data item (项) 竺杭杰
+																	18715 group (组)
+																		18716 hyperlink (链接) 竺杭杰 Description: 竺杭杰
+																18717 data item (项) 竺杭杰
+																	18718 group (组)
+																		18719 hyperlink (链接) 竺杭杰 Description: 竺杭杰
+																18720 data item (项) 2026-07-21
+																	18721 group (组)
+																18722 data item (项) 2026-07-24
+																	18723 group (组)
+																18724 data item (项)
+																	18725 group (组)
+																18726 data item (项) 杭州
+																	18727 group (组)
+																18728 data item (项) 上海
+																	18729 group (组)
+																18730 data item (项)
+																	18731 group (组)
+																18732 data item (项)
+																	18733 group (组)
+																18734 data item (项) 0.00
+																	18735 group (组)
+																18736 data item (项) 350.00
+																	18737 group (组)
+																18738 data item (项) 350.00
+																	18739 group (组)
+																18740 data item (项) (4-0.5)*100
+																	18741 group (组)
+																18742 data item (项) 0.00
+																	18743 group (组)
+																18744 data item (项) 0.00
+																	18745 group (组)
+																18746 data item (项) 350.00
+																	18747 group (组)
+																18748 data item (项)
+																	18749 group (组)
+																18750 data item (项)
+																	18751 group (组)
+															18460 data item (行)
+																18461 data item (项) 合计
+																18462 data item (项)
+																18463 data item (项)
+																18464 data item (项)
+																18465 data item (项)
+																18466 data item (项)
+																18467 data item (项)
+																18468 data item (项)
+																18469 data item (项)
+																18470 data item (项)
+																18471 data item (项)
+																18472 data item (项)
+																18473 data item (项)
+																18474 data item (项)
+																18475 data item (项)
+																18476 data item (项)
+																18477 data item (项)
+																18478 data item (项)
+																18479 data item (项)
+																18480 data item (项)
+																18481 data item (项)
+																18482 data item (项)
+																18483 data item (项)
+																18484 data item (项)
+													18485 data item (项)
+												18486 data item (行)
+													18487 data item (项)
+													18488 data item (项)
+														18489 table (表格) ID: oTable3
+															18490 data item (行)
+																18491 data item (项)
+																18492 data item (项)
+																18493 data item (项)
+																18494 data item (项)
+																18495 data item (项)
+																18496 data item (项)
+																18497 data item (项)
+																18498 data item (项)
+																18499 data item (项)
+																18500 data item (项)
+																18501 data item (项)
+															18502 data item (行)
+																18503 data item (项) 冲销借款明细
+																18504 data item (项)
+																18505 data item (项)
+																18506 data item (项)
+																18507 data item (项)
+																18508 data item (项)
+																18509 data item (项)
+															18510 data item (行)
+																18511 data item (项)
+																	18512 checkbox (复选框) (disabled)
+																18513 data item (项) 序号
+																18514 data item (项) 借款人
+																18515 data item (项) 借款流程
+																18516 data item (项) 借款单单号
+																18517 data item (项) 借款部门
+																18518 data item (项) 核定项目
+																18519 data item (项) 费用说明
+																18520 data item (项) 每单借款余额
+																18521 data item (项) 冲销借款金额
+																18522 data item (项) 在途冲销金额
+															18523 data item (行)
+																18524 data item (项)
+																18525 data item (项)
+																18526 data item (项)
+																18527 data item (项)
+																18528 data item (项)
+																18529 data item (项)
+																18530 data item (项)
+																18531 data item (项)
+																18532 data item (项)
+																18533 data item (项) 0.00
+																18534 data item (项)
+													18535 data item (项)
+												18536 data item (行)
+													18537 data item (项)
+													18538 data item (项)
+														18539 table (表格) ID: oTable2
+															18540 data item (行)
+																18541 data item (项)
+																18542 data item (项)
+																18543 data item (项)
+																18544 data item (项)
+																18545 data item (项)
+																18546 data item (项)
+															18547 data item (行)
+																18548 data item (项) 打款明细
+																18549 data item (项)
+																18550 data item (项)
+																18551 data item (项)
+																18552 data item (项)
+															18553 data item (行)
+																18554 data item (项)
+																	18555 checkbox (复选框) (disabled)
+																18556 data item (项) 序号
+																18557 data item (项) 姓名
+																18558 data item (项) 账号信息
+																18559 data item (项) 银行支行信息
+																18560 data item (项) 金额
+															18752 data item (行)
+																18753 data item (项)
+																	18754 checkbox (复选框) (disabled)
+																18755 data item (项) 1
+																18756 data item (项) 竺杭杰
+																	18757 group (组)
+																		18758 hyperlink (链接) 竺杭杰 Description: 竺杭杰
+																18759 data item (项) 623061571025897609
+																	18760 group (组)
+																18761 data item (项) 杭州银行
+																	18762 group (组)
+																18763 data item (项) 524.00
+																	18764 group (组)
+													18561 data item (项)
+											18562 menu (菜单)
+												18563 menu item (菜单项) 流转意见
+												18765 menu item (菜单项) 与我相关
+											18564 group (组)
+												18565 text (文本) 
+											18566 text (文本) |
+											18567 group (组)
+												18568 text (文本) 
+											18769 text (文本) 洪霞
+											18770 hyperlink (链接) 卓洪霞 Value: javascript:openhrm(4113)
+											18771 hyperlink (链接) 职能总部/财务部/财务组 Value: https://oa.xquant.com/spa/hrm/engine.html#/hrmengine/organization?showTree=false&isView=1&type=department&id=255&_key=3b4uab
+											18772 text (文本) 接收人
+											18773 text (文本) :
+											18774 text (文本) 竺杭杰 卓洪霞
+											18775 text (文本) 2026-08-13 11:19:08
+											18776 text (文本) [出纳 / 批准]
+											18777 text (文本) 莎莎
+											18778 hyperlink (链接) 郭莎莎 Value: javascript:openhrm(2096)
+											18779 hyperlink (链接) 职能总部/财务部/财务组 Value: https://oa.xquant.com/spa/hrm/engine.html#/hrmengine/organization?showTree=false&isView=1&type=department&id=255&_key=3b4uab
+											18780 text (文本) 接收人
+											18781 text (文本) :
+											18782 text (文本) 卓洪霞
+											18783 text (文本) 2026-08-12 17:13:41
+											18784 text (文本) [财务一级审核 / 批准]
+											18785 text (文本) 占锋
+											18786 hyperlink (链接) 胡占锋 Value: javascript:openhrm(11)
+											18787 hyperlink (链接) 职能总部/公司高层/经营层 Value: https://oa.xquant.com/spa/hrm/engine.html#/hrmengine/organization?showTree=false&isView=1&type=department&id=209&_key=3b4uab
+											18788 text (文本) 接收人
+											18789 text (文本) :
+											18790 text (文本) 郭莎莎 李兰
+											18791 text (文本) 2026-08-11 18:44:46
+											18792 text (文本) [业务线高管 / 批准]
+											18793 text (文本) 三星
+											18794 hyperlink (链接) 毛三星 Value: javascript:openhrm(16)
+											18795 hyperlink (链接) 信用及数管业务线/信用管理及公共/管理层 Value: https://oa.xquant.com/spa/hrm/engine.html#/hrmengine/organization?showTree=false&isView=1&type=department&id=1255&_key=3b4uab
+											18796 text (文本) 
+											18797 text (文本) 系统自动批准
+											18798 text (文本) 接收人
+											18799 text (文本) :
+											18800 text (文本) 胡占锋
+											18801 text (文本) 2026-08-06 11:36:17
+											18802 text (文本) [一级部门负责人 / 批准]
+											18803 text (文本) 三星
+											18804 hyperlink (链接) 毛三星 Value: javascript:openhrm(16)
+											18805 hyperlink (链接) 信用及数管业务线/信用管理及公共/管理层 Value: https://oa.xquant.com/spa/hrm/engine.html#/hrmengine/organization?showTree=false&isView=1&type=department&id=1255&_key=3b4uab
+											18806 text (文本) 
+											18807 text (文本) 系统自动批准
+											18808 text (文本) 接收人
+											18809 text (文本) :
+											18810 text (文本) 毛三星
+											18811 text (文本) 2026-08-06 11:36:14
+											18812 text (文本) [二级部门负责人 / 批准]
+											18813 text (文本) 三星
+											18814 hyperlink (链接) 毛三星 Value: javascript:openhrm(16)
+											18815 hyperlink (链接) 信用及数管业务线/信用管理及公共/管理层 Value: https://oa.xquant.com/spa/hrm/engine.html#/hrmengine/organization?showTree=false&isView=1&type=department&id=1255&_key=3b4uab
+											18816 text (文本) 接收人
+											18817 text (文本) :
+											18818 text (文本) 毛三星
+											18819 text (文本) 2026-08-06 11:36:11
+											18820 text (文本) [三级负责人审核 / 批准]
+											18821 text (文本) 晨晨
+											18822 hyperlink (链接) 罗晨晨 Value: javascript:openhrm(38)
+											18823 hyperlink (链接) 职能总部/行政部/行政组 Value: https://oa.xquant.com/spa/hrm/engine.html#/hrmengine/organization?showTree=false&isView=1&type=department&id=197&_key=3b4uab
+											18824 text (文本) 接收人
+											18825 text (文本) :
+											18826 text (文本) 毛三星
+											18827 text (文本) 2026-07-27 13:31:37
+											18828 text (文本) [商旅管理员复核 / 批准]
+											18829 hyperlink (链接) 竺杭杰 Value: javascript:openhrm(755)
+											18830 hyperlink (链接) 信用及数管业务线/信用管理及公共/信用管理组 Value: https://oa.xquant.com/spa/hrm/engine.html#/hrmengine/organization?showTree=false&isView=1&type=department&id=794&_key=3b4uab
+											18831 text (文本) 接收人
+											18832 text (文本) :
+											18833 text (文本) 罗晨晨
+											18834 text (文本) 2026-07-27 13:05:43
+											18835 text (文本) [同行人确认 / 批准]
+											18836 hyperlink (链接) 竺杭杰 Value: javascript:openhrm(755)
+											18837 hyperlink (链接) 信用及数管业务线/信用管理及公共/信用管理组 Value: https://oa.xquant.com/spa/hrm/engine.html#/hrmengine/organization?showTree=false&isView=1&type=department&id=794&_key=3b4uab
+											18838 text (文本) 接收人
+											18839 text (文本) :
+											18840 text (文本) 竺杭杰
+											18841 text (文本) 2026-07-27 13:05:24
+											18842 text (文本) [申请人报销 / 提交]
+											18843 hyperlink (链接) 竺杭杰 Value: javascript:openhrm(755)
+											18844 hyperlink (链接) 信用及数管业务线/信用管理及公共/信用管理组 Value: https://oa.xquant.com/spa/hrm/engine.html#/hrmengine/organization?showTree=false&isView=1&type=department&id=794&_key=3b4uab
+											18845 text (文本) 接收人
+											18846 text (文本) :
+											18847 text (文本) 竺杭杰
+											18848 text (文本) 2026-07-27 13:03:13
+											18849 text (文本) [1-申请人订票 / 提交]
+											18850 list (列表)
+												18851 text (文本) 共13条
+												18852 list item (列表项目) 第一页 Description: 第一页
+													18853 text (文本) 
+												18854 list item (列表项目) 上一页 Description: 上一页
+													18855 text (文本) 
+												18856 list item (列表项目) 第一页 Description: 第一页
+												18857 list item (列表项目) 2 Description: 2
+												18858 list item (列表项目) 下一页 Description: 下一页
+													18859 text (文本) 
+												18860 list item (列表项目) 最后一页 Description: 最后一页
+													18861 text (文本) 
+												18862 group (组)
+													18863 combo box (组合框) (settable, string) Value: 10 条/页
+														18864 text (文本) 10 条/页
+														18865 group (组)
+												18866 text (文本) 跳至
+												18867 text field (编辑) (settable, string) Value: 1
+												18868 text (文本) 页
+										18067 group (组)
+								15543 document (文档) Value: chrome://newtab-footer/ ID: RootWebArea
+									15544 hyperlink (链接) Unsplash Instant
+									15545 button (切换按钮) 自定义 Chrome Description: 自定义此页 ID: customizeButton
+										15546 image (图形) ID: baseSvg
+										15547 text (文本) 自定义 Chrome
+							15548 pane (区域)
+						15549 pane (区域)
+							15550 pane (区域)
+								15551 button (按钮) 标签页搜索
+							15552 pane (区域) ID: view_21
+								15553 tab (选项卡)
+									15554 tab item (选项卡项目) (selectable) GaussDB字符集UTF8影响 - DeepSeek - 内存用量 - 141 MB ID: view_20
+										15555 button (按钮) 关闭
+									15556 tab item (选项卡项目) (selectable) Merge Requests · Dashboard · GitLab ID: view_20
+										15557 button (按钮) 关闭
+									15558 tab item (选项卡项目) (selectable) 衡泰技术个人门户 - 内存用量 - 251 MB ID: view_20
+										15559 button (按钮) 关闭
+									15560 tab item (选项卡项目) (selectable) oa.xquant.com/spa/workflow/static4form/index.html?_rdm=1794987197076#/main/workflow/req?requestid=1682807 ID: view_20
+										15561 button (按钮) 关闭
+									15562 tab item (选项卡项目) (selectable) 中证整体步骤梳理 - 内存用量 - 634 MB ID: view_20
+										15563 button (按钮) 关闭
+									15564 tab item (选项卡项目) (selectable) 需求变更记录 - 内存用量 - 521 MB ID: view_20
+										15565 button (按钮) 关闭
+									15566 tab item (选项卡项目) (selectable) 2026年11月 - 内存用量 - 494 MB ID: view_20
+										15567 button (按钮) 关闭
+									15568 tab item (选项卡项目) (selectable) 中证周会 - 内存用量 - 486 MB ID: view_20
+										15569 button (按钮) 关闭
+									15570 tab item (选项卡项目) (selectable) 在线Markdown编辑器 - 免费实时预览编辑器 ID: view_20
+										15571 button (按钮) 关闭
+									15572 tab item (选项卡项目) (selectable) V2EX - 内存用量 - 109 MB ID: view_20
+										15573 button (按钮) 关闭
+									15574 tab item (选项卡项目) (selectable) 泼墨成画 - V2EX - 内存用量 - 133 MB ID: view_20
+										15575 button (按钮) 关闭
+								15576 pane (区域)
+							15577 button (按钮) 新标签页
+							15578 pane (区域)
+							15579 pane (区域)
+								15580 button (按钮) 打开 Chrome 中的 Gemini
+								15581 pane (区域)
+						15582 pane (区域)
+
+Document text: ```
+Unsplash Instant
+￼
+￼
+自定义 Chrome
+```
+
+Focused element: 15504 text field (编辑) (settable, string) 地址和搜索栏 Description: 依次按 Tab 键和 Enter 键即可询问AI 模式。按向上键或向下键即可浏览自动补全建议。输入内容即可自动补全。。 Value: https://oa.xquant.com/workflow/request/ViewRequestForwardSPA.jsp?requestid=1682807 ID: view_1012
+
+Document text:
+Unsplash Instant
+￼
+￼
+自定义 Chrome

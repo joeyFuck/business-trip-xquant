@@ -1,0 +1,524 @@
+Window: "差旅费报销流程-竺杭杰-2020-07-06 - Google Chrome", App: chrome.exe.
+	0 window (窗口) 差旅费报销流程-竺杭杰-2020-07-06 - Google Chrome Secondary Actions: Raise
+		15488 pane (窗格) (disabled)
+		15489 pane (区域) 差旅费报销流程-竺杭杰-2020-07-06 - Google Chrome
+			15490 pane (区域)
+				15491 pane (区域)
+					15492 pane (区域)
+						15493 button (按钮) 最小化 ID: view_1
+						15494 button (按钮) 最大化 ID: view_2
+						15495 button (按钮) 关闭 ID: view_4
+					15496 pane (区域)
+						15497 pane (区域)
+							15498 toolbar (工具栏) ID: view_1000
+								15499 button (按钮) 返回 ID: view_1001
+								15500 button (按钮) (disabled) 前进 ID: view_1002
+								15501 button (按钮) 重新加载 ID: view_1003
+								15502 group (组)
+									15503 button (按钮) 查看网站信息 ID: view_1011
+									15504 text field (编辑) (settable, string) 地址和搜索栏 Description: 问问 Google 或输入网址 Value: oa.xquant.com/spa/workflow/static4form/index.html?_rdm=1794988296777#/main/workflow/req?requestid=227341&_key=dvocn1 ID: view_1012
+									15505 pane (区域)
+										73048 button (按钮) 为此标签页添加书签
+								15507 pane (区域)
+									15508 button (按钮) Postman Interceptor 可以访问此网站 ID: view_1009
+									15509 button (按钮) 扩展程序 ID: view_1006
+								15510 pane (区域)
+								15511 button (按钮) 杭杰 ID: view_1018
+								15512 button (按钮) Chrome ID: view_1007
+							15513 toolbar (工具栏) 书签 ID: view_1025
+								15514 toolbar (工具栏) 已保存的标签页分组
+									15515 button (按钮) 标签页分组
+								15516 separator (分隔符) 分隔符
+								15517 button (书签文件夹按钮) 历史 ID: view_1028
+								15518 button (书签文件夹按钮) 站点 ID: view_1028
+								15519 button (书签文件夹按钮) 社区 ID: view_1028
+								15520 button (书签文件夹按钮) 工具 ID: view_1028
+								15521 button (书签文件夹按钮) 公司 ID: view_1028
+								15522 button (书签文件夹按钮) 信创 ID: view_1028
+								15523 button (书签文件夹按钮) 数据库 ID: view_1028
+								15524 button (书签文件夹按钮) 性能 ID: view_1028
+								15525 button (书签文件夹按钮) 前端 ID: view_1028
+								15526 button (书签文件夹按钮) java ID: view_1028
+								15527 button (书签文件夹按钮) python ID: view_1028
+								15528 button (书签文件夹按钮) 金融 ID: view_1028
+								15529 button (书签文件夹按钮) 业务模块 ID: view_1028
+								15530 button (书签文件夹按钮) 数理统计 ID: view_1028
+								15531 button (书签文件夹按钮) AIGC ID: view_1028
+								15532 button (书签文件夹按钮) linux ID: view_1028
+								15533 button (书签文件夹按钮) 运维 ID: view_1028
+								15534 button (书签文件夹按钮) SAP ID: view_1028
+								15535 button (书签文件夹按钮) 生活 ID: view_1028
+								15536 button (书签文件夹按钮) web3&区块链 ID: view_1028
+								15537 button (书签文件夹按钮) cs ID: view_1028
+								15538 button (书签文件夹按钮) hotel ID: view_1028
+						15539 pane (区域)
+							15540 pane (区域)
+								15541 pane (区域)
+								73049 document (文档) 差旅费报销流程-竺杭杰-2020-07-06 Value: https://oa.xquant.com/spa/workflow/static4form/index.html?_rdm=1794988296777#/main/workflow/req?requestid=227341&_key=dvocn1 ID: RootWebArea
+									73050 group (组)
+										73062 text (文本) 
+										73310 text (文本) 流程:处理 - 差旅费报销流程 - 出纳 至 归档
+										73311 text (文本) CLFBX202007062925
+										73312 group (组) Description: 关注
+											73313 text (文本) 
+										73052 tab (选项卡)
+											73053 tab item (选项卡项目) (selectable) 流程表单
+											73054 tab item (选项卡项目) (selectable) 流程图
+											73055 tab item (选项卡项目) (selectable) 流程状态
+											73065 tab item (选项卡项目) (selectable) 相关资源
+										73056 pane (选项卡面板)
+										73314 button (按钮) 转 发 Description: 转发
+										73057 group (组)
+											73315 text (文本) 
+										73067 group (组)
+											73068 table (表格)
+												73069 data item (行)
+													73070 data item (项) 差旅费报销流程
+												73071 data item (行)
+													73072 data item (项)
+												73073 data item (行)
+													73074 data item (项) 标题
+													73075 data item (项) 差旅费报销流程-竺杭杰-2020-07-06
+														73076 group (组)
+													73077 data item (项) 单据编号
+													73078 data item (项) CLFBX202007062925
+														73079 group (组)
+												73080 data item (行)
+													73081 data item (项) 报销人
+													73082 data item (项) 竺杭杰
+														73083 group (组)
+															73316 hyperlink (链接) 竺杭杰 Description: 竺杭杰
+													73084 data item (项) 报销日期
+													73085 data item (项) 2020-07-06
+														73086 group (组)
+												73087 data item (行)
+													73088 data item (项) 部门
+													73089 data item (项) 数据业务线/信用产品部/售前组
+														73090 group (组)
+															73317 hyperlink (链接) 数据业务线/信用产品部/售前组 Description: 数据业务线/信用产品部/售前组
+													73091 data item (项) 人员属性
+													73092 data item (项) 成本
+														73093 group (组)
+												73094 data item (行)
+													73095 data item (项) 入账公司
+													73096 data item (项) 杭州衡泰技术股份有限公司
+														73097 group (组)
+															73318 hyperlink (链接) 杭州衡泰技术股份有限公司 Description: 杭州衡泰技术股份有限公司
+													73098 data item (项) 性别
+													73099 data item (项) 男
+														73100 group (组)
+												73101 data item (行)
+													73102 data item (项) 费用承担部门
+													73103 data item (项) 数据业务线/信用产品部/售前组 请选到末级部门！
+														73104 group (组)
+															73319 hyperlink (链接) 数据业务线/信用产品部/售前组 Description: 数据业务线/信用产品部/售前组
+													73105 data item (项) 属地
+													73106 data item (项) 杭州
+														73107 group (组)
+															73320 hyperlink (链接) 杭州 Description: 杭州
+												73108 data item (行)
+													73109 data item (项) 预算部门
+													73110 data item (项) 数据业务线/信用产品部
+														73111 group (组)
+															73321 hyperlink (链接) 数据业务线/信用产品部 Description: 数据业务线/信用产品部
+													73112 data item (项) 预算科目
+													73113 data item (项) 差旅费
+														73114 group (组)
+															73322 hyperlink (链接) 差旅费 Description: 差旅费
+												73115 data item (行)
+													73116 data item (项) 是否存在借款流程
+													73117 data item (项) 否
+														73118 group (组)
+													73119 data item (项) 冲销借款金额
+													73120 data item (项) 0.00
+														73121 group (组)
+												73122 data item (行)
+													73123 data item (项) 合计报销金额
+													73124 data item (项) 7284.50
+														73125 group (组)
+													73126 data item (项) 付款金额
+													73127 data item (项) 7284.50
+														73128 group (组)
+												73129 data item (行)
+													73130 data item (项) 事由
+													73131 data item (项) 浦发合肥驻场开发 最多可填写20个字！
+														73132 group (组)
+												73133 data item (行)
+													73134 data item (项) 核定事由
+													73135 data item (项) 浦发合肥驻场开发
+														73136 group (组)
+												73137 data item (行)
+													73138 data item (项) 是否入住宿舍
+													73139 data item (项) 是
+														73140 group (组)
+												73141 data item (行)
+													73142 data item (项) 关联借款流程
+													73143 data item (项)
+														73144 group (组)
+												73145 data item (行)
+													73146 data item (项) 关联事前宿舍流程
+													73147 data item (项) 出差住宿申请-竺杭杰-2020-04-21 出差住宿申请-竺杭杰-2020-05-29
+														73148 group (组)
+															73323 hyperlink (链接) 出差住宿申请-竺杭杰-2020-04-21
+															73324 hyperlink (链接) 出差住宿申请-竺杭杰-2020-05-29
+												73149 data item (行)
+													73150 data item (项) 关联出差申请
+													73151 data item (项) 员工出差申请流程-竺杭杰-2020-06-10 员工出差申请流程-竺杭杰-2020-07-01 员工出差申请流程-竺杭杰-2020-04-21
+														73152 group (组)
+															73325 hyperlink (链接) 员工出差申请流程-竺杭杰-2020-06-10
+															73326 hyperlink (链接) 员工出差申请流程-竺杭杰-2020-07-01
+															73327 hyperlink (链接) 员工出差申请流程-竺杭杰-2020-04-21
+												73153 data item (行)
+													73154 data item (项) 补贴标准（例如：小明的出差补贴是150/天，交通补贴是300/月，折算后每日差补：150-300/30=140/天）
+												73155 data item (行)
+													73156 data item (项) 出差补贴
+													73157 data item (项) 150
+														73158 group (组)
+													73159 data item (项) 交通补贴（工资中已发放）
+													73160 data item (项) 0
+														73161 group (组)
+												73162 data item (行)
+													73163 data item (项) 报销信息
+												73164 data item (行)
+													73165 data item (项)
+														73166 table (表格)
+															73167 data item (行)
+																73168 data item (项)
+																73169 data item (项)
+																73170 data item (项)
+																73171 data item (项)
+																73172 data item (项)
+																73173 data item (项)
+																73174 data item (项)
+																73175 data item (项)
+																73176 data item (项)
+																73177 data item (项)
+																73178 data item (项)
+																73179 data item (项)
+																73180 data item (项)
+																73181 data item (项)
+																73182 data item (项)
+																73183 data item (项)
+															73184 data item (行)
+																73185 data item (项)
+																73186 data item (项)
+																73187 data item (项)
+																73188 data item (项)
+																73189 data item (项)
+																73190 data item (项)
+																73191 data item (项)
+																73192 data item (项)
+																73193 data item (项)
+																73194 data item (项)
+																73195 data item (项)
+																73196 data item (项)
+																73197 data item (项)
+																73198 data item (项)
+																73199 data item (项)
+																73200 data item (项)
+														73201 table (表格) ID: oTable0
+															73202 data item (行)
+																73203 data item (项)
+																73204 data item (项)
+																73205 data item (项)
+																73206 data item (项)
+																73207 data item (项)
+																73208 data item (项)
+																73209 data item (项)
+																73210 data item (项)
+																73211 data item (项)
+																73212 data item (项)
+																73213 data item (项)
+																73214 data item (项)
+																73215 data item (项)
+																73216 data item (项)
+																73217 data item (项)
+																73218 data item (项)
+															73219 data item (行)
+																73220 data item (项)
+																	73221 checkbox (复选框) (disabled)
+																73222 data item (项) 序号
+																73223 data item (项) 费用项目
+																73224 data item (项) 项目
+																73225 data item (项) 会计科目编码
+																73226 data item (项) 预算部门
+																73227 data item (项) 出差开始日期
+																73228 data item (项) 出差结束日期
+																73229 data item (项) 起始城市
+																73230 data item (项) 到达城市
+																73231 data item (项) 报销金额
+																73232 data item (项) 核定金额
+																73233 data item (项) 说明
+																73234 data item (项) 税率
+																73235 data item (项) 税额
+																73236 data item (项) 不含税金额
+															73328 data item (行)
+																73329 data item (项)
+																	73330 checkbox (复选框) (disabled)
+																73331 data item (项) 1
+																73332 data item (项) 差旅费＞差旅费-出差补贴
+																	73333 group (组)
+																		73334 hyperlink (链接) 差旅费＞差旅费-出差补贴 Description: 差旅费＞差旅费-出差补贴
+																73335 data item (项)
+																	73336 group (组)
+																		73337 hyperlink (链接)
+																73338 data item (项) 5201010
+																	73339 group (组)
+																73340 data item (项) 数据业务线/信用产品部
+																	73341 group (组)
+																		73342 hyperlink (链接) 数据业务线/信用产品部 Description: 数据业务线/信用产品部
+																73343 data item (项) 2020-05-21
+																	73344 group (组)
+																73345 data item (项) 2020-07-02
+																	73346 group (组)
+																73347 data item (项) 杭州
+																	73348 group (组)
+																73349 data item (项) 合肥
+																	73350 group (组)
+																73351 data item (项) 6300.00
+																	73352 group (组)
+																73353 data item (项) 6300.00
+																	73354 group (组)
+																73355 data item (项) 端午减一天
+																	73356 group (组)
+																73357 data item (项) 0.00
+																	73358 group (组)
+																73359 data item (项) 0.00
+																	73360 group (组)
+																73361 data item (项) 6300.00
+																	73362 group (组)
+															73363 data item (行)
+																73364 data item (项)
+																	73365 checkbox (复选框) (disabled)
+																73366 data item (项) 2
+																73367 data item (项) 差旅费＞差旅费-出差补贴
+																	73368 group (组)
+																		73369 hyperlink (链接) 差旅费＞差旅费-出差补贴 Description: 差旅费＞差旅费-出差补贴
+																73370 data item (项)
+																	73371 group (组)
+																		73372 hyperlink (链接)
+																73373 data item (项) 5201010
+																	73374 group (组)
+																73375 data item (项) 数据业务线/信用产品部
+																	73376 group (组)
+																		73377 hyperlink (链接) 数据业务线/信用产品部 Description: 数据业务线/信用产品部
+																73378 data item (项) 2020-04-19
+																	73379 group (组)
+																73380 data item (项) 2020-07-02
+																	73381 group (组)
+																73382 data item (项) 杭州
+																	73383 group (组)
+																73384 data item (项) 合肥
+																	73385 group (组)
+																73386 data item (项) 800.00
+																	73387 group (组)
+																73388 data item (项) 800.00
+																	73389 group (组)
+																73390 data item (项) 连续出差满60个自然日
+																	73391 group (组)
+																73392 data item (项) 0.00
+																	73393 group (组)
+																73394 data item (项) 0.00
+																	73395 group (组)
+																73396 data item (项) 800.00
+																	73397 group (组)
+															73398 data item (行)
+																73399 data item (项)
+																	73400 checkbox (复选框) (disabled)
+																73401 data item (项) 3
+																73402 data item (项) 差旅费＞差旅费-火车
+																	73403 group (组)
+																		73404 hyperlink (链接) 差旅费＞差旅费-火车 Description: 差旅费＞差旅费-火车
+																73405 data item (项)
+																	73406 group (组)
+																		73407 hyperlink (链接)
+																73408 data item (项) 5201006
+																	73409 group (组)
+																73410 data item (项) 数据业务线/信用产品部
+																	73411 group (组)
+																		73412 hyperlink (链接) 数据业务线/信用产品部 Description: 数据业务线/信用产品部
+																73413 data item (项) 2020-07-02
+																	73414 group (组)
+																73415 data item (项) 2020-07-02
+																	73416 group (组)
+																73417 data item (项) 合肥
+																	73418 group (组)
+																73419 data item (项) 杭州
+																	73420 group (组)
+																73421 data item (项) 184.50
+																	73422 group (组)
+																73423 data item (项) 184.50
+																	73424 group (组)
+																73425 data item (项)
+																	73426 group (组)
+																73427 data item (项) 0.09
+																	73428 group (组)
+																73429 data item (项) 15.23
+																	73430 group (组)
+																73431 data item (项) 169.27
+																	73432 group (组)
+												73237 data item (行)
+													73238 data item (项) 冲销信息
+												73239 data item (行)
+													73240 data item (项)
+														73241 table (表格) ID: oTable2
+															73242 data item (行)
+																73243 data item (项)
+																73244 data item (项)
+																73245 data item (项)
+																73246 data item (项)
+																73247 data item (项)
+																73248 data item (项)
+																73249 data item (项)
+																73250 data item (项)
+																73251 data item (项)
+																73252 data item (项)
+															73253 data item (行)
+																73254 data item (项)
+																73255 data item (项)
+																73256 data item (项)
+																73257 data item (项)
+																73258 data item (项)
+																73259 data item (项)
+																73260 data item (项)
+																73261 data item (项)
+																73262 data item (项)
+																73263 data item (项)
+															73264 data item (行)
+																73265 data item (项)
+																	73266 checkbox (复选框) (disabled)
+																73267 data item (项) 序号
+																73268 data item (项) 借款人
+																73269 data item (项) 借款流程
+																73270 data item (项) 借款单单号
+																73271 data item (项) 借款部门
+																73272 data item (项) 核定项目
+																73273 data item (项) 费用说明
+																73274 data item (项) 每单借款余额
+																73275 data item (项) 冲销借款金额
+															73433 data item (行)
+																73434 data item (项)
+																	73435 checkbox (复选框) (disabled)
+																73436 data item (项) 1
+																73437 data item (项) 竺杭杰
+																	73438 group (组)
+																		73439 hyperlink (链接) 竺杭杰 Description: 竺杭杰
+																73440 data item (项)
+																	73441 group (组)
+																73442 data item (项)
+																	73443 group (组)
+																73444 data item (项) 数据业务线/信用产品部/售前组
+																	73445 group (组)
+																		73446 hyperlink (链接) 数据业务线/信用产品部/售前组 Description: 数据业务线/信用产品部/售前组
+																73447 data item (项)
+																	73448 group (组)
+																73449 data item (项)
+																	73450 group (组)
+																73451 data item (项)
+																	73452 group (组)
+																73453 data item (项)
+																	73454 group (组)
+												73276 data item (行)
+													73277 data item (项) 打款信息
+												73278 data item (行)
+													73279 data item (项)
+														73280 table (表格) ID: oTable1
+															73281 data item (行)
+																73282 data item (项)
+																73283 data item (项)
+																73284 data item (项)
+																73285 data item (项)
+																73286 data item (项)
+																73287 data item (项)
+															73288 data item (行)
+																73289 data item (项)
+																73290 data item (项)
+																73291 data item (项)
+																73292 data item (项)
+																73293 data item (项)
+																73294 data item (项)
+															73295 data item (行)
+																73296 data item (项)
+																	73297 checkbox (复选框) (disabled)
+																73298 data item (项) 序号
+																73299 data item (项) 姓名
+																73300 data item (项) 账号信息
+																73301 data item (项) 银行支行信息
+																73302 data item (项) 金额
+															73455 data item (行)
+																73456 data item (项)
+																	73457 checkbox (复选框) (disabled)
+																73458 data item (项) 1
+																73459 data item (项) 竺杭杰
+																	73460 group (组)
+																		73461 hyperlink (链接) 竺杭杰 Description: 竺杭杰
+																73462 data item (项) 623061571025897609
+																	73463 group (组)
+																73464 data item (项) 杭州银行
+																	73465 group (组)
+																73466 data item (项) 7284.50
+																	73467 group (组)
+											73303 menu (菜单)
+												73304 menu item (菜单项) 流转意见
+												73468 menu item (菜单项) 与我相关
+											73305 group (组)
+												73306 text (文本) 
+											73307 text (文本) |
+											73308 group (组)
+												73309 text (文本) 
+										73061 group (组)
+								15543 document (文档) Value: chrome://newtab-footer/ ID: RootWebArea
+									15544 hyperlink (链接) Unsplash Instant
+									15545 button (切换按钮) 自定义 Chrome Description: 自定义此页 ID: customizeButton
+										15546 image (图形) ID: baseSvg
+										15547 text (文本) 自定义 Chrome
+							15548 pane (区域)
+						15549 pane (区域)
+							15550 pane (区域)
+								15551 button (按钮) 标签页搜索
+							15552 pane (区域) ID: view_21
+								15553 tab (选项卡)
+									15554 tab item (选项卡项目) (selectable) GaussDB字符集UTF8影响 - DeepSeek - 内存用量 - 141 MB ID: view_20
+										15555 button (按钮) 关闭
+									15556 tab item (选项卡项目) (selectable) Merge Requests · Dashboard · GitLab ID: view_20
+										15557 button (按钮) 关闭
+									15558 tab item (选项卡项目) (selectable) 衡泰技术个人门户 - 内存用量 - 251 MB ID: view_20
+										15559 button (按钮) 关闭
+									15560 tab item (选项卡项目) (selectable) 差旅费报销流程-竺杭杰-2020-07-06 ID: view_20
+										15561 button (按钮) 关闭
+									15562 tab item (选项卡项目) (selectable) 中证整体步骤梳理 - 内存用量 - 634 MB ID: view_20
+										15563 button (按钮) 关闭
+									15564 tab item (选项卡项目) (selectable) 需求变更记录 - 内存用量 - 521 MB ID: view_20
+										15565 button (按钮) 关闭
+									15566 tab item (选项卡项目) (selectable) 2026年11月 - 内存用量 - 494 MB ID: view_20
+										15567 button (按钮) 关闭
+									15568 tab item (选项卡项目) (selectable) 中证周会 - 内存用量 - 486 MB ID: view_20
+										15569 button (按钮) 关闭
+									15570 tab item (选项卡项目) (selectable) 在线Markdown编辑器 - 免费实时预览编辑器 ID: view_20
+										15571 button (按钮) 关闭
+									15572 tab item (选项卡项目) (selectable) V2EX - 内存用量 - 109 MB ID: view_20
+										15573 button (按钮) 关闭
+									15574 tab item (选项卡项目) (selectable) 泼墨成画 - V2EX - 内存用量 - 133 MB ID: view_20
+										15575 button (按钮) 关闭
+								15576 pane (区域)
+							15577 button (按钮) 新标签页
+							15578 pane (区域)
+							15579 pane (区域)
+								15580 button (按钮) 打开 Chrome 中的 Gemini
+								15581 pane (区域)
+						15582 pane (区域)
+
+Document text: ```
+Unsplash Instant
+￼
+￼
+自定义 Chrome
+```
+
+Focused element: 15504 text field (编辑) (settable, string) 地址和搜索栏 Description: 问问 Google 或输入网址 Value: oa.xquant.com/spa/workflow/static4form/index.html?_rdm=1794988296777#/main/workflow/req?requestid=227341&_key=dvocn1 ID: view_1012
+
+Document text:
+Unsplash Instant
+￼
+￼
+自定义 Chrome

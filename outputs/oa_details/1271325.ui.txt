@@ -1,0 +1,849 @@
+Window: "出差申请及报销流程-竺杭杰-2025-01-08 - Google Chrome", App: chrome.exe.
+	0 window (窗口) 出差申请及报销流程-竺杭杰-2025-01-08 - Google Chrome Secondary Actions: Raise
+		15488 pane (窗格) (disabled)
+		15489 pane (区域) 出差申请及报销流程-竺杭杰-2025-01-08 - Google Chrome
+			15490 pane (区域)
+				15491 pane (区域)
+					15492 pane (区域)
+						15493 button (按钮) 最小化 ID: view_1
+						15494 button (按钮) 最大化 ID: view_2
+						15495 button (按钮) 关闭 ID: view_4
+					15496 pane (区域)
+						15497 pane (区域)
+							15498 toolbar (工具栏) ID: view_1000
+								15499 button (按钮) 返回 ID: view_1001
+								15500 button (按钮) (disabled) 前进 ID: view_1002
+								15501 button (按钮) 重新加载 ID: view_1003
+								15502 group (组)
+									15503 button (按钮) 查看网站信息 ID: view_1011
+									15504 text field (编辑) (settable, string) 地址和搜索栏 Description: 问问 Google 或输入网址 Value: oa.xquant.com/spa/workflow/static4form/index.html?_rdm=1794988013074#/main/workflow/req?requestid=1271325&_key=b1svey ID: view_1012
+									15505 pane (区域)
+										66164 button (按钮) 为此标签页添加书签
+								15507 pane (区域)
+									15508 button (按钮) Postman Interceptor 可以访问此网站 ID: view_1009
+									15509 button (按钮) 扩展程序 ID: view_1006
+								15510 pane (区域)
+								15511 button (按钮) 杭杰 ID: view_1018
+								15512 button (按钮) Chrome ID: view_1007
+							15513 toolbar (工具栏) 书签 ID: view_1025
+								15514 toolbar (工具栏) 已保存的标签页分组
+									15515 button (按钮) 标签页分组
+								15516 separator (分隔符) 分隔符
+								15517 button (书签文件夹按钮) 历史 ID: view_1028
+								15518 button (书签文件夹按钮) 站点 ID: view_1028
+								15519 button (书签文件夹按钮) 社区 ID: view_1028
+								15520 button (书签文件夹按钮) 工具 ID: view_1028
+								15521 button (书签文件夹按钮) 公司 ID: view_1028
+								15522 button (书签文件夹按钮) 信创 ID: view_1028
+								15523 button (书签文件夹按钮) 数据库 ID: view_1028
+								15524 button (书签文件夹按钮) 性能 ID: view_1028
+								15525 button (书签文件夹按钮) 前端 ID: view_1028
+								15526 button (书签文件夹按钮) java ID: view_1028
+								15527 button (书签文件夹按钮) python ID: view_1028
+								15528 button (书签文件夹按钮) 金融 ID: view_1028
+								15529 button (书签文件夹按钮) 业务模块 ID: view_1028
+								15530 button (书签文件夹按钮) 数理统计 ID: view_1028
+								15531 button (书签文件夹按钮) AIGC ID: view_1028
+								15532 button (书签文件夹按钮) linux ID: view_1028
+								15533 button (书签文件夹按钮) 运维 ID: view_1028
+								15534 button (书签文件夹按钮) SAP ID: view_1028
+								15535 button (书签文件夹按钮) 生活 ID: view_1028
+								15536 button (书签文件夹按钮) web3&区块链 ID: view_1028
+								15537 button (书签文件夹按钮) cs ID: view_1028
+								15538 button (书签文件夹按钮) hotel ID: view_1028
+						15539 pane (区域)
+							15540 pane (区域)
+								15541 pane (区域)
+								66165 document (文档) 出差申请及报销流程-竺杭杰-2025-01-08 Value: https://oa.xquant.com/spa/workflow/static4form/index.html?_rdm=1794988013074#/main/workflow/req?requestid=1271325&_key=b1svey ID: RootWebArea
+									66166 group (组)
+										66178 text (文本) 
+										66179 text (文本) 流程:处理 - 出差申请及报销流程 - 提交
+										66180 text (文本) CLSQBX-2025010826076
+										66168 tab (选项卡)
+											66169 tab item (选项卡项目) (selectable) 流程表单
+											66170 tab item (选项卡项目) (selectable) 流程图
+											66171 tab item (选项卡项目) (selectable) 流程状态
+											66181 tab item (选项卡项目) (selectable) 相关资源
+										66172 pane (选项卡面板)
+										66173 group (组)
+											66182 text (文本) 
+										66183 group (组)
+											66184 table (表格)
+												66185 data item (行)
+													66186 data item (项)
+													66187 data item (项) 员工出差申请及报销流程
+													66188 data item (项)
+												66189 data item (行)
+													66190 data item (项)
+													66191 data item (项) 标题
+													66192 data item (项) 出差申请及报销流程-竺杭杰-2025-01-08
+														66193 group (组)
+													66194 data item (项) 流程编号
+													66195 data item (项) CLSQBX-2025010826076
+														66196 group (组)
+													66197 data item (项)
+												66198 data item (行)
+													66199 data item (项)
+													66200 data item (项) 申请人
+													66201 data item (项) 竺杭杰
+														66202 group (组)
+															66203 hyperlink (链接) 竺杭杰 Description: 竺杭杰
+													66204 data item (项) 申请日期
+													66205 data item (项) 2025-01-08
+														66206 group (组)
+													66207 data item (项)
+												66208 data item (行)
+													66209 data item (项)
+													66210 data item (项) 申请人部门
+													66211 data item (项) 信用及数管业务线/信用管理及公共/信用管理组 杭州衡泰技术股份有限公司
+														66212 group (组)
+															66213 hyperlink (链接) 信用及数管业务线/信用管理及公共/信用管理组 Description: 信用及数管业务线/信用管理及公共/信用管理组
+														66214 group (组)
+															66215 hyperlink (链接) 杭州衡泰技术股份有限公司 Description: 杭州衡泰技术股份有限公司
+													66216 data item (项) 属地
+													66217 data item (项) 杭州
+														66218 group (组)
+															66219 hyperlink (链接) 杭州 Description: 杭州
+													66220 data item (项)
+												66221 data item (行)
+													66222 data item (项)
+													66223 data item (项) 费用承担部门
+													66224 data item (项) 信用及数管业务线/信用管理及公共/信用管理组 请选到末级部门！
+														66225 group (组)
+															66226 hyperlink (链接) 信用及数管业务线/信用管理及公共/信用管理组 Description: 信用及数管业务线/信用管理及公共/信用管理组
+													66227 data item (项) 团队内分组
+													66228 data item (项) /
+														66229 group (组)
+													66230 data item (项)
+												66231 data item (行)
+													66232 data item (项)
+													66233 data item (项) 人员属性
+													66234 data item (项) 成本
+														66235 group (组)
+													66236 data item (项) 性别
+													66237 data item (项) 男
+														66238 group (组)
+													66239 data item (项)
+												66240 data item (行)
+													66241 data item (项)
+													66242 data item (项) ——出差申请内容——
+													66243 data item (项)
+												66244 data item (行)
+													66245 data item (项)
+													66246 data item (项) 出差事由
+													66247 data item (项) 招商现场交流系统优化内容（验收备忘）
+														66248 group (组)
+													66249 data item (项)
+												66250 data item (行)
+													66251 data item (项)
+													66252 data item (项) 出差实际开始日期
+													66253 data item (项) 2025-01-13 08:30
+														66254 group (组)
+														66255 group (组)
+													66256 data item (项) 出差预计开始日期
+													66257 data item (项) 2025-01-13 08:30
+														66258 group (组)
+														66259 group (组)
+													66260 data item (项)
+												66261 data item (行)
+													66262 data item (项)
+													66263 data item (项) 出差实际结束日期
+													66264 data item (项) 2025-01-17 17:30
+														66265 group (组)
+														66266 group (组)
+													66267 data item (项) 出差预计结束日期
+													66268 data item (项) 2025-01-17 17:30
+														66269 group (组)
+														66270 group (组)
+													66271 data item (项)
+												66272 data item (行)
+													66273 data item (项)
+													66274 data item (项) 出差期间是否需要打卡
+													66275 data item (项) 否
+														66276 group (组)
+													66277 data item (项)
+													66278 data item (项)
+													66279 data item (项)
+												66280 data item (行)
+													66281 data item (项)
+													66282 data item (项) 备注
+													66283 data item (项)
+														66284 group (组)
+													66285 data item (项)
+													66286 data item (项)
+													66287 data item (项)
+												66288 data item (行)
+													66289 data item (项)
+													66290 data item (项) 同住人
+													66291 data item (项)
+														66292 group (组)
+													66293 data item (项)
+													66294 data item (项)
+													66295 data item (项)
+												66296 data item (行)
+													66297 data item (项)
+													66298 data item (项) ——出差报销内容——
+													66299 data item (项)
+												66300 data item (行)
+													66301 data item (项)
+													66302 data item (项) 入账公司
+													66303 data item (项) 杭州衡泰技术股份有限公司
+														66304 group (组)
+															66305 hyperlink (链接) 杭州衡泰技术股份有限公司 Description: 杭州衡泰技术股份有限公司
+													66306 data item (项) 预算部门
+													66307 data item (项) 信用及数管业务线
+														66308 group (组)
+															66309 hyperlink (链接) 信用及数管业务线 Description: 信用及数管业务线
+													66310 data item (项)
+												66311 data item (行)
+													66312 data item (项)
+													66313 data item (项) 合计报销金额
+													66314 data item (项) 1494.00
+														66315 group (组)
+													66316 data item (项) 预算科目
+													66317 data item (项)
+														66318 group (组)
+													66319 data item (项)
+												66320 data item (行)
+													66321 data item (项)
+													66322 data item (项) 合计发票金额
+													66323 data item (项) 1044.00
+														66324 group (组)
+													66325 data item (项) 付款金额
+													66326 data item (项) 1494.00
+														66327 group (组)
+													66328 data item (项)
+												66329 data item (行)
+													66330 data item (项)
+													66331 data item (项) 携程与个人报销总费用
+													66332 data item (项) 2412.00
+														66333 group (组)
+													66334 data item (项)
+												66335 data item (行)
+													66336 data item (项)
+													66337 data item (项) 发票类别
+													66338 data item (项) 纯电子发票 纯电子发票无需提供纸质件
+														66339 group (组)
+													66340 data item (项) 冲销借款金额
+													66341 data item (项)
+														66342 group (组)
+													66343 data item (项)
+												66344 data item (行)
+													66345 data item (项)
+													66346 data item (项) 总挂账金额
+													66347 data item (项)
+														66348 group (组)
+													66349 data item (项) 总扣款金额
+													66350 data item (项) 0.00
+														66351 group (组)
+													66352 data item (项)
+												66353 data item (行)
+													66354 data item (项)
+													66355 data item (项) 预算信息
+													66356 data item (项)
+														66357 group (组)
+													66358 data item (项)
+												66359 data item (行)
+													66360 data item (项)
+													66361 data item (项) 财务核定事由
+													66362 data item (项) 招商现场交流系统优化内容（验收备忘）
+														66363 group (组)
+													66364 data item (项)
+												66365 data item (行)
+													66366 data item (项)
+													66367 data item (项) 补贴标准（例如：小明的出差补贴是100/天，交通补贴是300/月，折算后每日差补：100-300/30=90/天）
+													66368 data item (项)
+												66369 data item (行)
+													66370 data item (项)
+													66371 data item (项) 出差补贴
+													66372 data item (项) 100
+														66373 group (组)
+													66374 data item (项) 交通补贴（工资中已发放）
+													66375 data item (项) 0
+														66376 group (组)
+													66377 data item (项)
+												66378 data item (行)
+													66379 data item (项)
+													66380 data item (项)
+													66381 data item (项) 订单详情
+													66382 data item (项)
+													66383 data item (项)
+													66384 data item (项)
+												66385 data item (行)
+													66386 data item (项)
+													66387 data item (项) 内容加载中，请稍候...
+														66388 image (未加标签的图片) 要获取缺失的图片说明，请打开上下文菜单。
+													66389 data item (项)
+												66390 data item (行)
+													66391 data item (项)
+													66392 data item (项)
+														66393 table (表格) ID: oTable0
+															66394 data item (行)
+																66395 data item (项)
+																66396 data item (项)
+																66397 data item (项)
+																66398 data item (项)
+																66399 data item (项)
+																66400 data item (项)
+																66401 data item (项)
+																66402 data item (项)
+																66403 data item (项)
+																66404 data item (项)
+																66405 data item (项)
+																66406 data item (项)
+																66407 data item (项)
+																66408 data item (项)
+																66409 data item (项)
+																66410 data item (项)
+																66411 data item (项)
+																66412 data item (项)
+															66413 data item (行)
+																66414 data item (项) 通过携程商旅平台公司垫付费用明细
+																66415 data item (项)
+																66416 data item (项)
+															66417 data item (行)
+																66418 data item (项)
+																	66419 checkbox (复选框) (disabled)
+																66420 data item (项) 序号
+																66421 data item (项) 费用项目
+																66422 data item (项) 项目
+																66423 data item (项) 会计科目编码
+																66424 data item (项) 承担部门
+																66425 data item (项) 出行人
+																66426 data item (项) 预算扣减金额
+																66427 data item (项) 结算金额
+																66428 data item (项) 扣款金额
+																66429 data item (项) 税率
+																66430 data item (项) 税额
+																66431 data item (项) 不含税金额
+																66432 data item (项) 费用日期
+																66433 data item (项) 起始城市
+																66434 data item (项) 到达城市
+																66435 data item (项) 酒店天数
+																66436 data item (项) 酒店差标
+															66437 data item (行)
+																66438 data item (项)
+																	66439 checkbox (复选框) (disabled)
+																66440 data item (项) 1
+																66441 data item (项) 差旅费＞差旅费-住宿费
+																	66442 group (组)
+																		66443 hyperlink (链接) 差旅费＞差旅费-住宿费 Description: 差旅费＞差旅费-住宿费
+																66444 data item (项) 招商证券xCIRMS1.0固收投研24年项目
+																	66445 group (组)
+																		66446 hyperlink (链接) 招商证券xCIRMS1.0固收投研24年项目 Description: 招商证券xCIRMS1.0固收投研24年项目
+																66447 data item (项) 5201009
+																	66448 group (组)
+																66449 data item (项) 信用及数管业务线
+																	66450 group (组)
+																		66451 hyperlink (链接) 信用及数管业务线 Description: 信用及数管业务线
+																66452 data item (项) 竺杭杰
+																	66453 group (组)
+																		66454 hyperlink (链接) 竺杭杰 Description: 竺杭杰
+																66455 data item (项) 900.00
+																	66456 group (组)
+																66457 data item (项) 900.00
+																	66458 group (组)
+																66459 data item (项) 0.00
+																	66460 group (组)
+																66461 data item (项) 0.00
+																	66462 group (组)
+																66463 data item (项) 0.00
+																	66464 group (组)
+																66465 data item (项) 900.00
+																	66466 group (组)
+																66467 data item (项) 2025-01-13
+																	66468 group (组)
+																66469 data item (项) 深圳
+																	66470 group (组)
+																66471 data item (项) 深圳
+																	66472 group (组)
+																66473 data item (项) 4.00
+																	66474 group (组)
+																66475 data item (项) 400.00
+																	66476 group (组)
+															66477 data item (行)
+																66478 data item (项)
+																	66479 checkbox (复选框) (disabled)
+																66480 data item (项) 2
+																66481 data item (项) 差旅费＞差旅费-预订服务费
+																	66482 group (组)
+																		66483 hyperlink (链接) 差旅费＞差旅费-预订服务费 Description: 差旅费＞差旅费-预订服务费
+																66484 data item (项) 招商证券xCIRMS1.0固收投研24年项目
+																	66485 group (组)
+																		66486 hyperlink (链接) 招商证券xCIRMS1.0固收投研24年项目 Description: 招商证券xCIRMS1.0固收投研24年项目
+																66487 data item (项) 5201025
+																	66488 group (组)
+																66489 data item (项) 信用及数管业务线
+																	66490 group (组)
+																		66491 hyperlink (链接) 信用及数管业务线 Description: 信用及数管业务线
+																66492 data item (项) 竺杭杰
+																	66493 group (组)
+																		66494 hyperlink (链接) 竺杭杰 Description: 竺杭杰
+																66495 data item (项) 18.00
+																	66496 group (组)
+																66497 data item (项) 18.00
+																	66498 group (组)
+																66499 data item (项) 0.00
+																	66500 group (组)
+																66501 data item (项)
+																	66502 group (组)
+																66503 data item (项) 0.00
+																	66504 group (组)
+																66505 data item (项) 18.00
+																	66506 group (组)
+																66507 data item (项) 2025-01-13
+																	66508 group (组)
+																66509 data item (项) 深圳
+																	66510 group (组)
+																66511 data item (项) 深圳
+																	66512 group (组)
+																66513 data item (项) 4.00
+																	66514 group (组)
+																66515 data item (项) 0.00
+																	66516 group (组)
+															66517 data item (行)
+																66518 data item (项) 合计
+																66519 data item (项) 918.00
+																66520 data item (项) 918.00
+																66521 data item (项)
+																66522 data item (项)
+																66523 data item (项)
+																66524 data item (项)
+																66525 data item (项)
+																66526 data item (项)
+																66527 data item (项)
+																66528 data item (项)
+																66529 data item (项)
+													66530 data item (项)
+												66531 data item (行)
+													66532 data item (项)
+													66533 data item (项)
+													66534 data item (项)
+													66535 data item (项)
+													66536 data item (项)
+													66537 data item (项)
+												66538 data item (行)
+													66539 data item (项)
+													66540 data item (项)
+														66541 table (表格) ID: oTable1
+															66542 data item (行)
+																66543 data item (项)
+																66544 data item (项)
+																66545 data item (项)
+																66546 data item (项)
+																66547 data item (项)
+																66548 data item (项)
+																66549 data item (项)
+																66550 data item (项)
+																66551 data item (项)
+																66552 data item (项)
+																66553 data item (项)
+																66554 data item (项)
+																66555 data item (项)
+																66556 data item (项)
+																66557 data item (项)
+																66558 data item (项)
+																66559 data item (项)
+																66560 data item (项)
+																66561 data item (项)
+																66562 data item (项)
+																66563 data item (项)
+																66564 data item (项)
+																66565 data item (项)
+																66566 data item (项)
+																66567 data item (项)
+															66568 data item (行)
+																66569 data item (项) 个人报销明细表
+																66570 data item (项)
+																66571 data item (项)
+																66572 data item (项)
+																66573 data item (项)
+																66574 data item (项)
+																66575 data item (项)
+																66576 data item (项)
+																66577 data item (项)
+																66578 data item (项)
+																66579 data item (项)
+																66580 data item (项)
+																66581 data item (项)
+																66582 data item (项)
+																66583 data item (项)
+																66584 data item (项)
+																66585 data item (项)
+																66586 data item (项)
+																66587 data item (项)
+																66588 data item (项)
+																66589 data item (项)
+																66590 data item (项)
+															66591 data item (行)
+																66592 data item (项)
+																	66593 checkbox (复选框) (disabled)
+																66594 data item (项) 序号
+																66595 data item (项) 费用日期
+																66596 data item (项) 费用项目
+																66597 data item (项) 项目
+																66598 data item (项) 会计科目编码
+																66599 data item (项) 承担主体
+																66600 data item (项) 出行人
+																66601 data item (项) 报销人
+																66602 data item (项) 出差开始日期
+																66603 data item (项) 出差结束日期
+																66604 data item (项) 住宿天数
+																66605 data item (项) 起始城市
+																66606 data item (项) 到达城市
+																66607 data item (项) 发票类型
+																66608 data item (项) 发票号码
+																66609 data item (项) 发票金额
+																66610 data item (项) 报销金额
+																66611 data item (项) 财务核定金额（预算扣减金额）
+																66612 data item (项) 说明
+																66613 data item (项) 税率
+																66614 data item (项) 税额
+																66615 data item (项) 不含税金额
+																66616 data item (项) 相关发票
+																66617 data item (项) 附件
+															66618 data item (行)
+																66619 data item (项)
+																	66620 checkbox (复选框) (disabled)
+																66621 data item (项) 1
+																66622 data item (项) 2025-01-20
+																	66623 group (组)
+																66624 data item (项) 差旅费＞差旅费-火车
+																	66625 group (组)
+																		66626 hyperlink (链接) 差旅费＞差旅费-火车 Description: 差旅费＞差旅费-火车
+																66627 data item (项) 招商证券xCIRMS1.0固收投研24年项目
+																	66628 group (组)
+																		66629 hyperlink (链接) 招商证券xCIRMS1.0固收投研24年项目 Description: 招商证券xCIRMS1.0固收投研24年项目
+																66630 data item (项) 5201006
+																	66631 group (组)
+																66632 data item (项) 信用及数管业务线
+																	66633 group (组)
+																		66634 hyperlink (链接) 信用及数管业务线 Description: 信用及数管业务线
+																66635 data item (项) 竺杭杰
+																	66636 group (组)
+																		66637 hyperlink (链接) 竺杭杰 Description: 竺杭杰
+																66638 data item (项) 竺杭杰
+																	66639 group (组)
+																		66640 hyperlink (链接) 竺杭杰 Description: 竺杭杰
+																66641 data item (项) 2025-01-13
+																	66642 group (组)
+																66643 data item (项) 2025-01-17
+																	66644 group (组)
+																66645 data item (项)
+																	66646 group (组)
+																66647 data item (项) 宁波
+																	66648 group (组)
+																66649 data item (项) 深圳
+																	66650 group (组)
+																66651 data item (项) 电子发票（铁路电子客票）
+																	66652 group (组)
+																66653 data item (项)
+																	66654 group (组)
+																66655 data item (项) 522.00
+																	66656 group (组)
+																66657 data item (项) 522.00
+																	66658 group (组)
+																66659 data item (项) 522.00
+																	66660 group (组)
+																66661 data item (项) 比杭州出发便宜
+																	66662 group (组)
+																66663 data item (项) 0.00
+																	66664 group (组)
+																66665 data item (项) 0.00
+																	66666 group (组)
+																66667 data item (项) 522.00
+																	66668 group (组)
+																66669 data item (项) 25449165860000115826.pdf
+																	66670 group (组)
+																		66671 hyperlink (链接) 25449165860000115826.pdf
+																66672 data item (项)
+																	66673 group (组)
+															66674 data item (行)
+																66675 data item (项)
+																	66676 checkbox (复选框) (disabled)
+																66677 data item (项) 2
+																66678 data item (项) 2025-01-20
+																	66679 group (组)
+																66680 data item (项) 差旅费＞差旅费-火车
+																	66681 group (组)
+																		66682 hyperlink (链接) 差旅费＞差旅费-火车 Description: 差旅费＞差旅费-火车
+																66683 data item (项) 招商证券xCIRMS1.0固收投研24年项目
+																	66684 group (组)
+																		66685 hyperlink (链接) 招商证券xCIRMS1.0固收投研24年项目 Description: 招商证券xCIRMS1.0固收投研24年项目
+																66686 data item (项) 5201006
+																	66687 group (组)
+																66688 data item (项) 信用及数管业务线
+																	66689 group (组)
+																		66690 hyperlink (链接) 信用及数管业务线 Description: 信用及数管业务线
+																66691 data item (项) 竺杭杰
+																	66692 group (组)
+																		66693 hyperlink (链接) 竺杭杰 Description: 竺杭杰
+																66694 data item (项) 竺杭杰
+																	66695 group (组)
+																		66696 hyperlink (链接) 竺杭杰 Description: 竺杭杰
+																66697 data item (项) 2025-01-13
+																	66698 group (组)
+																66699 data item (项) 2025-01-17
+																	66700 group (组)
+																66701 data item (项)
+																	66702 group (组)
+																66703 data item (项) 深圳
+																	66704 group (组)
+																66705 data item (项) 宁波
+																	66706 group (组)
+																66707 data item (项) 电子发票（铁路电子客票）
+																	66708 group (组)
+																66709 data item (项)
+																	66710 group (组)
+																66711 data item (项) 522.00
+																	66712 group (组)
+																66713 data item (项) 522.00
+																	66714 group (组)
+																66715 data item (项) 522.00
+																	66716 group (组)
+																66717 data item (项)
+																	66718 group (组)
+																66719 data item (项) 0.00
+																	66720 group (组)
+																66721 data item (项) 0.00
+																	66722 group (组)
+																66723 data item (项) 522.00
+																	66724 group (组)
+																66725 data item (项) 25939133284000051807.pdf
+																	66726 group (组)
+																		66727 hyperlink (链接) 25939133284000051807.pdf
+																66728 data item (项)
+																	66729 group (组)
+															66730 data item (行)
+																66731 data item (项)
+																	66732 checkbox (复选框) (disabled)
+																66733 data item (项) 3
+																66734 data item (项) 2025-01-20
+																	66735 group (组)
+																66736 data item (项) 差旅费＞差旅费-出差补贴
+																	66737 group (组)
+																		66738 hyperlink (链接) 差旅费＞差旅费-出差补贴 Description: 差旅费＞差旅费-出差补贴
+																66739 data item (项) 招商证券xCIRMS1.0固收投研24年项目
+																	66740 group (组)
+																		66741 hyperlink (链接) 招商证券xCIRMS1.0固收投研24年项目 Description: 招商证券xCIRMS1.0固收投研24年项目
+																66742 data item (项) 5201010
+																	66743 group (组)
+																66744 data item (项) 信用及数管业务线
+																	66745 group (组)
+																		66746 hyperlink (链接) 信用及数管业务线 Description: 信用及数管业务线
+																66747 data item (项) 竺杭杰
+																	66748 group (组)
+																		66749 hyperlink (链接) 竺杭杰 Description: 竺杭杰
+																66750 data item (项) 竺杭杰
+																	66751 group (组)
+																		66752 hyperlink (链接) 竺杭杰 Description: 竺杭杰
+																66753 data item (项) 2025-01-13
+																	66754 group (组)
+																66755 data item (项) 2025-01-17
+																	66756 group (组)
+																66757 data item (项)
+																	66758 group (组)
+																66759 data item (项) 宁波
+																	66760 group (组)
+																66761 data item (项) 深圳
+																	66762 group (组)
+																66763 data item (项)
+																	66764 group (组)
+																66765 data item (项)
+																	66766 group (组)
+																66767 data item (项) 0.00
+																	66768 group (组)
+																66769 data item (项) 450.00
+																	66770 group (组)
+																66771 data item (项) 450.00
+																	66772 group (组)
+																66773 data item (项) (5-0.5)*100=450
+																	66774 group (组)
+																66775 data item (项) 0.00
+																	66776 group (组)
+																66777 data item (项) 0.00
+																	66778 group (组)
+																66779 data item (项) 450.00
+																	66780 group (组)
+																66781 data item (项)
+																	66782 group (组)
+																66783 data item (项)
+																	66784 group (组)
+															66785 data item (行)
+																66786 data item (项) 合计
+																66787 data item (项)
+																66788 data item (项)
+																66789 data item (项)
+																66790 data item (项)
+																66791 data item (项)
+																66792 data item (项)
+																66793 data item (项)
+																66794 data item (项)
+																66795 data item (项)
+																66796 data item (项)
+																66797 data item (项)
+																66798 data item (项)
+																66799 data item (项)
+																66800 data item (项)
+																66801 data item (项)
+																66802 data item (项)
+																66803 data item (项)
+																66804 data item (项)
+																66805 data item (项)
+																66806 data item (项)
+																66807 data item (项)
+																66808 data item (项)
+																66809 data item (项)
+													66810 data item (项)
+												66811 data item (行)
+													66812 data item (项)
+													66813 data item (项)
+														66814 table (表格) ID: oTable3
+															66815 data item (行)
+																66816 data item (项)
+																66817 data item (项)
+																66818 data item (项)
+																66819 data item (项)
+																66820 data item (项)
+																66821 data item (项)
+																66822 data item (项)
+																66823 data item (项)
+																66824 data item (项)
+																66825 data item (项)
+																66826 data item (项)
+															66827 data item (行)
+																66828 data item (项) 冲销借款明细
+																66829 data item (项)
+																66830 data item (项)
+																66831 data item (项)
+																66832 data item (项)
+																66833 data item (项)
+																66834 data item (项)
+															66835 data item (行)
+																66836 data item (项)
+																	66837 checkbox (复选框) (disabled)
+																66838 data item (项) 序号
+																66839 data item (项) 借款人
+																66840 data item (项) 借款流程
+																66841 data item (项) 借款单单号
+																66842 data item (项) 借款部门
+																66843 data item (项) 核定项目
+																66844 data item (项) 费用说明
+																66845 data item (项) 每单借款余额
+																66846 data item (项) 冲销借款金额
+																66847 data item (项) 在途冲销金额
+															66848 data item (行)
+																66849 data item (项)
+																66850 data item (项)
+																66851 data item (项)
+																66852 data item (项)
+																66853 data item (项)
+																66854 data item (项)
+																66855 data item (项)
+																66856 data item (项)
+																66857 data item (项)
+																66858 data item (项) 0.00
+																66859 data item (项)
+													66860 data item (项)
+												66861 data item (行)
+													66862 data item (项)
+													66863 data item (项)
+														66864 table (表格) ID: oTable2
+															66865 data item (行)
+																66866 data item (项)
+																66867 data item (项)
+																66868 data item (项)
+																66869 data item (项)
+																66870 data item (项)
+																66871 data item (项)
+															66872 data item (行)
+																66873 data item (项) 打款明细
+																66874 data item (项)
+																66875 data item (项)
+																66876 data item (项)
+																66877 data item (项)
+															66878 data item (行)
+																66879 data item (项)
+																	66880 checkbox (复选框) (disabled)
+																66881 data item (项) 序号
+																66882 data item (项) 姓名
+																66883 data item (项) 账号信息
+																66884 data item (项) 银行支行信息
+																66885 data item (项) 金额
+															66886 data item (行)
+																66887 data item (项)
+																	66888 checkbox (复选框) (disabled)
+																66889 data item (项) 1
+																66890 data item (项) 竺杭杰
+																	66891 group (组)
+																		66892 hyperlink (链接) 竺杭杰 Description: 竺杭杰
+																66893 data item (项) 623061571025897609
+																	66894 group (组)
+																66895 data item (项) 杭州银行
+																	66896 group (组)
+																66897 data item (项) 1494.00
+																	66898 group (组)
+													66899 data item (项)
+											66900 menu (菜单)
+												66901 menu item (菜单项)
+											66902 group (组)
+												66903 text (文本) 
+											66904 text (文本) |
+											66905 group (组)
+												66906 text (文本) 
+										66177 group (组)
+								15543 document (文档) Value: chrome://newtab-footer/ ID: RootWebArea
+									15544 hyperlink (链接) Unsplash Instant
+									15545 button (切换按钮) 自定义 Chrome Description: 自定义此页 ID: customizeButton
+										15546 image (图形) ID: baseSvg
+										15547 text (文本) 自定义 Chrome
+							15548 pane (区域)
+						15549 pane (区域)
+							15550 pane (区域)
+								15551 button (按钮) 标签页搜索
+							15552 pane (区域) ID: view_21
+								15553 tab (选项卡)
+									15554 tab item (选项卡项目) (selectable) GaussDB字符集UTF8影响 - DeepSeek - 内存用量 - 141 MB ID: view_20
+										15555 button (按钮) 关闭
+									15556 tab item (选项卡项目) (selectable) Merge Requests · Dashboard · GitLab ID: view_20
+										15557 button (按钮) 关闭
+									15558 tab item (选项卡项目) (selectable) 衡泰技术个人门户 - 内存用量 - 251 MB ID: view_20
+										15559 button (按钮) 关闭
+									15560 tab item (选项卡项目) (selectable) 出差申请及报销流程-竺杭杰-2025-01-08 ID: view_20
+										15561 button (按钮) 关闭
+									15562 tab item (选项卡项目) (selectable) 中证整体步骤梳理 - 内存用量 - 634 MB ID: view_20
+										15563 button (按钮) 关闭
+									15564 tab item (选项卡项目) (selectable) 需求变更记录 - 内存用量 - 521 MB ID: view_20
+										15565 button (按钮) 关闭
+									15566 tab item (选项卡项目) (selectable) 2026年11月 - 内存用量 - 494 MB ID: view_20
+										15567 button (按钮) 关闭
+									15568 tab item (选项卡项目) (selectable) 中证周会 - 内存用量 - 486 MB ID: view_20
+										15569 button (按钮) 关闭
+									15570 tab item (选项卡项目) (selectable) 在线Markdown编辑器 - 免费实时预览编辑器 ID: view_20
+										15571 button (按钮) 关闭
+									15572 tab item (选项卡项目) (selectable) V2EX - 内存用量 - 109 MB ID: view_20
+										15573 button (按钮) 关闭
+									15574 tab item (选项卡项目) (selectable) 泼墨成画 - V2EX - 内存用量 - 133 MB ID: view_20
+										15575 button (按钮) 关闭
+								15576 pane (区域)
+							15577 button (按钮) 新标签页
+							15578 pane (区域)
+							15579 pane (区域)
+								15580 button (按钮) 打开 Chrome 中的 Gemini
+								15581 pane (区域)
+						15582 pane (区域)
+
+Document text: ```
+Unsplash Instant
+￼
+￼
+自定义 Chrome
+```
+
+Focused element: 15504 text field (编辑) (settable, string) 地址和搜索栏 Description: 问问 Google 或输入网址 Value: oa.xquant.com/spa/workflow/static4form/index.html?_rdm=1794988013074#/main/workflow/req?requestid=1271325&_key=b1svey ID: view_1012
+
+Document text:
+Unsplash Instant
+￼
+￼
+自定义 Chrome
